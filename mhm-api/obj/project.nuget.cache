@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t13hf8bcXm+z5kdxzHvLKL8tb/hDOrAfP51ifDmoXEF0J748Mf6gw8Z465SXX/BaNuzPkDvvwB7nJyJKvP/okw==",
+  "success": true,
+  "projectFilePath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Naim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Naim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Naim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Naim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Naim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
