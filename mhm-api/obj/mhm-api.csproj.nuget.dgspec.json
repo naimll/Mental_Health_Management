@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Health\\Mental_Health_Management\\mhm-api\\mhm-api.csproj": {}
+    "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Health\\Mental_Health_Management\\mhm-api\\mhm-api.csproj": {
+    "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Health\\Mental_Health_Management\\mhm-api\\mhm-api.csproj",
+        "projectUniqueName": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj",
         "projectName": "mhm-api",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Health\\Mental_Health_Management\\mhm-api\\mhm-api.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Health\\Mental_Health_Management\\mhm-api\\obj\\",
+        "projectPath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj",
+        "packagesPath": "C:\\Users\\Naim\\.nuget\\packages\\",
+        "outputPath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Naim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,12 +39,25 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -64,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
