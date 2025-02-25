@@ -1,20 +1,3 @@
-/*!
-
-=========================================================
-* Argon Design System React - v1.1.2
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/argon-design-system-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/argon-design-system-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 // react plugin used to create datetimepicker
 import ReactDatetime from "react-datetime";
@@ -22,7 +5,6 @@ import ReactDatetime from "react-datetime";
 // reactstrap components
 import {
   FormGroup,
-  InputGroupAddon,
   InputGroupText,
   InputGroup,
   Row,
@@ -56,11 +38,7 @@ class Datepicker extends React.Component {
       });
     }
   };
-  // this function adds on the day tag of the date picker
-  // middle-date className which means that this day will have no border radius
-  // start-date className which means that this day will only have left border radius
-  // end-date className which means that this day will only have right border radius
-  // this way, the selected dates will look nice and will only be rounded at the ends
+
   getClassNameReactDatetimeDays = (date) => {
     if (this.state.startDate && this.state.endDate) {
     }
@@ -84,6 +62,7 @@ class Datepicker extends React.Component {
     }
     return "";
   };
+
   render() {
     return (
       <>
@@ -97,11 +76,9 @@ class Datepicker extends React.Component {
             </small>
             <FormGroup>
               <InputGroup>
-                <InputGroupAddon addonType="prepend">
-                  <InputGroupText>
-                    <i className="ni ni-calendar-grid-58" />
-                  </InputGroupText>
-                </InputGroupAddon>
+                <InputGroupText>
+                  <i className="ni ni-calendar-grid-58" />
+                </InputGroupText>
                 <ReactDatetime
                   inputProps={{
                     placeholder: "Date Picker Here",
@@ -119,11 +96,9 @@ class Datepicker extends React.Component {
               <Col sm={6} xs={12}>
                 <FormGroup>
                   <InputGroup>
-                    <InputGroupAddon addonType="prepend">
-                      <InputGroupText>
-                        <i className="ni ni-calendar-grid-58" />
-                      </InputGroupText>
-                    </InputGroupAddon>
+                    <InputGroupText>
+                      <i className="ni ni-calendar-grid-58" />
+                    </InputGroupText>
                     <ReactDatetime
                       inputProps={{
                         placeholder: "Start Date",
@@ -150,11 +125,9 @@ class Datepicker extends React.Component {
               <Col sm={6} xs={12}>
                 <FormGroup>
                   <InputGroup>
-                    <InputGroupAddon addonType="prepend">
-                      <InputGroupText>
-                        <i className="ni ni-calendar-grid-58" />
-                      </InputGroupText>
-                    </InputGroupAddon>
+                    <InputGroupText>
+                      <i className="ni ni-calendar-grid-58" />
+                    </InputGroupText>
                     <ReactDatetime
                       inputProps={{
                         placeholder: "End Date",

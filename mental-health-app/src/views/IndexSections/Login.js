@@ -1,20 +1,3 @@
-/*!
-
-=========================================================
-* Argon Design System React - v1.1.2
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/argon-design-system-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/argon-design-system-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 import { Link } from "react-router-dom";
 // nodejs library that concatenates classes
@@ -29,7 +12,6 @@ import {
   FormGroup,
   Form,
   Input,
-  InputGroupAddon,
   InputGroupText,
   InputGroup,
   Container,
@@ -64,7 +46,7 @@ class Login extends React.Component {
                   The Design System comes with four pre-built pages to help you
                   get started faster. You can change the text and images and
                   you're good to go. More importantly, looking at them will give
-                  you a picture of what you can built with this powerful
+                  you a picture of what you can build with this powerful
                   Bootstrap 4 Design System.
                 </p>
                 <div className="btn-wrapper">
@@ -98,7 +80,7 @@ class Login extends React.Component {
                           <span className="btn-inner--icon mr-1">
                             <img
                               alt="..."
-                              src={require("assets/img/icons/common/github.svg")}
+                              src={require("../../assets/img/icons/common/github.svg")}
                             />
                           </span>
                           <span className="btn-inner--text">Github</span>
@@ -112,7 +94,7 @@ class Login extends React.Component {
                           <span className="btn-inner--icon mr-1">
                             <img
                               alt="..."
-                              src={require("assets/img/icons/common/google.svg")}
+                              src={require("../../assets/img/icons/common/google.svg")}
                             />
                           </span>
                           <span className="btn-inner--text">Google</span>
@@ -130,18 +112,16 @@ class Login extends React.Component {
                           })}
                         >
                           <InputGroup className="input-group-alternative">
-                            <InputGroupAddon addonType="prepend">
-                              <InputGroupText>
-                                <i className="ni ni-email-83" />
-                              </InputGroupText>
-                            </InputGroupAddon>
+                            <InputGroupText>
+                              <i className="ni ni-email-83" />
+                            </InputGroupText>
                             <Input
                               placeholder="Email"
                               type="email"
-                              onFocus={(e) =>
+                              onFocus={() =>
                                 this.setState({ emailFocused: true })
                               }
-                              onBlur={(e) =>
+                              onBlur={() =>
                                 this.setState({ emailFocused: false })
                               }
                             />
@@ -153,19 +133,17 @@ class Login extends React.Component {
                           })}
                         >
                           <InputGroup className="input-group-alternative">
-                            <InputGroupAddon addonType="prepend">
-                              <InputGroupText>
-                                <i className="ni ni-lock-circle-open" />
-                              </InputGroupText>
-                            </InputGroupAddon>
+                            <InputGroupText>
+                              <i className="ni ni-lock-circle-open" />
+                            </InputGroupText>
                             <Input
                               placeholder="Password"
                               type="password"
                               autoComplete="off"
-                              onFocus={(e) =>
+                              onFocus={() =>
                                 this.setState({ passwordFocused: true })
                               }
-                              onBlur={(e) =>
+                              onBlur={() =>
                                 this.setState({ passwordFocused: false })
                               }
                             />
