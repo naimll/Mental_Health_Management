@@ -20,7 +20,7 @@ $gray-400: #ced4da !default;
 $gray-500: #adb5bd !default;
 $gray-600: #8898aa !default;   // Line footer color
 $gray-700: #525f7f !default;   // Line p color
-$gray-800: #32325d !default;   // Line heading color
+$gray-800: #3f3f79 !default;   // Line heading color
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
@@ -40,7 +40,7 @@ $grays: map-merge((
 $blue:    #5e72e4 !default;
 $indigo:  #5603ad !default;
 $purple:  #8965e0 !default;
-$pink:    #f3a4b5 !default;
+$pink:    #F8BAC0 !default;
 $red:     #f5365c !default;
 //$orange:  #fb6340 !default;
 $orange: #b479bd !default;
@@ -50,7 +50,7 @@ $teal:    #11cdef !default;
 $cyan:    #2bffc6 !default;
 $logo_teget:#0a456f !default;
 $logo_kalter:#2ebff2 !default;
-$logo_pinkish: #b479bd !default;
+$logo_pinkish: #F6D2E0 !default;
 
 $colors: () !default;
 $colors: map-merge((
@@ -71,7 +71,7 @@ $colors: map-merge((
   "gray-dark":  $gray-800
 ), $colors);
 
-$default:       #172b4d !default;
+$default:       #77DAF8 !default;
 $primary:       #5e72e4 !default;
 $secondary:     #f4f5f7 !default;
 $success:       $green !default;
@@ -122,9 +122,9 @@ $brand-colors: map-merge((
 
 $shape-colors: () !default;
 $shape-colors: map-merge((
-  "default":      #32325d,
-  "primary":      #5533ff,
-  "secondary":    #24b47e,
+  "default":      #0671B7,
+  "primary":      #67A3D9  ,
+  "secondary":    #C8E7F5,
   "neutral":      #e9ecef,
   "blue-gray":    #b2cbe1,
 
@@ -133,10 +133,10 @@ $shape-colors: map-merge((
 $shapes-primary-colors: () !default;
 $shapes-primary-colors: map-merge((
   "step-1-gradient-bg":         #281483,
-  "step-2-gradient-bg":         #8f6ed5,
-  "step-3-gradient-bg":         #d782d9,
+  "step-2-gradient-bg":         #6f8ff8,
+  "step-3-gradient-bg":         #328ee5,
   "span-1-bg":                  #53f,
-  "span-2-bg":                  #4553ff,
+  "span-2-bg":                  #0671B7,
   "span-3-bg":                  #4f40ff,
   "span-4-bg":                  #25ddf5,
   "span-5-bg":                  #1fa2ff
@@ -144,9 +144,9 @@ $shapes-primary-colors: map-merge((
 
 $shapes-default-colors: () !default;
 $shapes-default-colors: map-merge((
-  "step-1-gradient-bg":         #7795f8,
+  "step-1-gradient-bg":         #77daf8,
   "step-2-gradient-bg":         #6772e5,
-  "step-3-gradient-bg":         #555abf,
+  "step-3-gradient-bg":         #328ee5,
   "span-1-bg":                  #7795f8,
   "span-2-bg":                  #7b9aff,
   "span-3-bg":                  #6f8ff8,
@@ -899,7 +899,7 @@ $datepicker-highlighted-bg: $datepicker-active-background !default;
 // Footer
 
 $footer-link-font-size: .85rem !default;
-$footer-bg: theme-color("secondary") !default;
+$footer-bg: theme-color("primary") !default;
 $footer-color: $gray-600 !default;
 $footer-link-color: $gray-600 !default;
 $footer-link-hover-color: $gray-700 !default;

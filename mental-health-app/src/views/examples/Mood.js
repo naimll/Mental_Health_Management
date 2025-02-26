@@ -73,7 +73,9 @@ class Mood extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            src={require("../../assets/img/theme/istockphoto-1347375207-612x612.jpg")}
+                            
+                            src={require("../../assets/img/staff/mood.avif")}
+                            
                           />
                         </a>
                       </div>

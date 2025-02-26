@@ -64,6 +64,7 @@ class Landing extends React.Component {
                       </p>
                       <div className="btn-wrapper">
                         <Button
+                        
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
                           href="/register-page"

@@ -113,7 +113,8 @@ class Login extends React.Component {
                         >
                           <InputGroup className="input-group-alternative">
                             <InputGroupText>
-                              <i className="ni ni-email-83" />
+                            <i className="ni ni-email-83" />
+
                             </InputGroupText>
                             <Input
                               placeholder="Email"

@@ -1,7 +1,4 @@
-import React, { useRef } from "react";
-
-
-// reactstrap components
+import React, { useRef, useState } from "react";
 import {
   Button,
   Card,
@@ -16,13 +13,47 @@ import {
   Row,
   Col,
 } from "reactstrap";
-
-// core components 
 import DemoNavbar from "../../components/Navbars/DemoNavbar";
 import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
 const Login = () => {
   const mainRef = useRef(null);
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [rememberMe, setRememberMe] = useState(false);
+  const [errors, setErrors] = useState({});
+
+  const validateForm = () => {
+    let valid = true;
+    let errors = {};
+
+    if (!email) {
+      errors.email = "Email is required";
+      valid = false;
+    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      errors.email = "Invalid email format";
+      valid = false;
+    }
+
+    if (!password) {
+      errors.password = "Password is required";
+      valid = false;
+    } else if (password.length < 6) {
+      errors.password = "Password must be at least 6 characters long";
+      valid = false;
+    }
+
+    setErrors(errors);
+    return valid;
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    if (validateForm()) {
+      alert("Form submitted successfully!");
+      console.log("Remember Me: ", rememberMe);
+    }
+  };
 
   return (
     <>
@@ -39,22 +70,31 @@ const Login = () => {
             <span />
             <span />
           </div>
-          <Container className="pt-lg-7">
+          {/* Container i rrumbullakosur, hije e butë, background i lehtë */}
+          <Container
+            className="pt-lg-7 px-4 py-5"
+            style={{
+              maxWidth: "500px",
+              backgroundColor: "rgba(255, 255, 255, 0.9)",
+              borderRadius: "20px",
+              boxShadow: "0px 8px 20px rgba(0, 0, 0, 0.1)",
+            }}
+          >
             <Row className="justify-content-center">
-              <Col lg="5">
-                <Card className="bg-secondary shadow border-0">
-                  <CardHeader className="bg-white pb-5">
-                    <div className="text-muted text-center mb-3">
+              <Col lg="12">
+                <Card className="bg-white shadow-lg border-0 rounded-lg">
+                  <CardHeader className="bg-light text-center pb-4 rounded-top">
+                    <div className="text-muted text-center mb-4 mt-2">
                       <small>Sign in with</small>
                     </div>
                     <div className="btn-wrapper text-center">
-                      <Button className="btn-neutral btn-icon" color="default" href="#pablo" onClick={(e) => e.preventDefault()}>
+                      <Button className="btn-neutral btn-icon rounded-pill mx-1 shadow-sm" color="default" href="#pablo" onClick={(e) => e.preventDefault()}>
                         <span className="btn-inner--icon mr-1">
-                          <img alt="..." src={require("../../assets/img/icons/common/github.svg").default} />
+                          <img alt="..." src={require("../../assets/img/icons/common/facebook.svg").default} />
                         </span>
-                        <span className="btn-inner--text">Github</span>
+                        <span className="btn-inner--text">Facebook</span>
                       </Button>
-                      <Button className="btn-neutral btn-icon ml-1" color="default" href="#pablo" onClick={(e) => e.preventDefault()}>
+                      <Button className="btn-neutral btn-icon rounded-pill mx-1 shadow-sm" color="default" href="#pablo" onClick={(e) => e.preventDefault()}>
                         <span className="btn-inner--icon mr-1">
                           <img alt="..." src={require("../../assets/img/icons/common/google.svg").default} />
                         </span>
@@ -66,49 +106,58 @@ const Login = () => {
                     <div className="text-center text-muted mb-4">
                       <small>Or sign in with credentials</small>
                     </div>
-                    <Form role="form">
+                    <Form role="form" onSubmit={handleSubmit}>
                       <FormGroup className="mb-3">
-                        <InputGroup className="input-group-alternative">
-                          <InputGroupText>
-                            <i className="ni ni-email-83" />
+                        <InputGroup className="input-group-alternative border rounded-pill">
+                          <InputGroupText className="bg-light border-0 rounded-pill">
+                            <i className="ni ni-email-83 text-primary" />
                           </InputGroupText>
-                          <Input placeholder="Email" type="email" />
+                          <Input
+                            className="border-0"
+                            placeholder="Email"
+                            type="email"
+                            value={email}
+                            onChange={(e) => setEmail(e.target.value)}
+                          />
                         </InputGroup>
+                        {errors.email && <small className="text-danger">{errors.email}</small>}
                       </FormGroup>
                       <FormGroup>
-                        <InputGroup className="input-group-alternative">
-                          <InputGroupText>
-                            <i className="ni ni-lock-circle-open" />
+                        <InputGroup className="input-group-alternative border rounded-pill">
+                          <InputGroupText className="bg-light border-0 rounded-pill">
+                            <i className="ni ni-lock-circle-open text-primary" />
                           </InputGroupText>
-                          <Input placeholder="Password" type="password" autoComplete="off" />
+                          <Input
+                            className="border-0"
+                            placeholder="Password"
+                            type="password"
+                            autoComplete="off"
+                            value={password}
+                            onChange={(e) => setPassword(e.target.value)}
+                          />
                         </InputGroup>
+                        {errors.password && <small className="text-danger">{errors.password}</small>}
                       </FormGroup>
                       <div className="custom-control custom-control-alternative custom-checkbox">
-                        <input className="custom-control-input" id="customCheckLogin" type="checkbox" />
+                        <input
+                          className="custom-control-input"
+                          id="customCheckLogin"
+                          type="checkbox"
+                          checked={rememberMe}
+                          onChange={(e) => setRememberMe(e.target.checked)}
+                        />
                         <label className="custom-control-label" htmlFor="customCheckLogin">
                           <span>Remember me</span>
                         </label>
                       </div>
                       <div className="text-center">
-                        <Button className="my-4" color="primary" type="button">
+                        <Button className="my-4 rounded-pill shadow-sm" color="primary" type="submit">
                           Sign in
                         </Button>
                       </div>
                     </Form>
                   </CardBody>
                 </Card>
-                <Row className="mt-3">
-                  <Col xs="6">
-                    <a className="text-light" href="#pablo" onClick={(e) => e.preventDefault()}>
-                      <small>Forgot password?</small>
-                    </a>
-                  </Col>
-                  <Col className="text-right" xs="6">
-                    <a className="text-light" href="#pablo" onClick={(e) => e.preventDefault()}>
-                      <small>Create new account</small>
-                    </a>
-                  </Col>
-                </Row>
               </Col>
             </Row>
           </Container>
