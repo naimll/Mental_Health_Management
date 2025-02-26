@@ -5,13 +5,14 @@ import LandingPage from "./views/examples/Landing"; // Import Landing Page
 import ProfilePage from "./views/examples/Profile"; // Import Profile Page
 import LoginPage from "./views/examples/Login"; // Import Login Page
 import RegisterPage from "./views/examples/Register"; // Import Register Page
+import "./assets/scss/argon-design-system-react.scss"
 
 function App() {
   return (
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/" element={<Index />} />
+          <Route path="/" element={<LandingPage />} />
           <Route path="/landing-page" element={<LandingPage />} />
           <Route path="/profile-page" element={<ProfilePage />} />
           <Route path="/register-page" element={<RegisterPage />} />
