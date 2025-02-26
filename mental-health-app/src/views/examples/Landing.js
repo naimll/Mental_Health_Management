@@ -121,14 +121,13 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            Terapi
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Psikoterapia ofron përfitime të shumta, duke përfshirë përmirësimin e shëndetit mendor, përmirësimin e çrregullimeve emocionale, 
+                          si dhe mundësinë për të fituar vetëbesim e vetëvlerësim.
                           </p>
-                          <div>
+                          {/* <div>
                             <Badge color="primary" pill className="mr-1">
                               design
                             </Badge>
@@ -138,14 +137,14 @@ class Landing extends React.Component {
                             <Badge color="primary" pill className="mr-1">
                               creative
                             </Badge>
-                          </div>
+                          </div> */}
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="#pablo"
-                            onClick={(e) => e.preventDefault()}
+                            href="/"
+                            //onClick={(e) => e.preventDefault()}
                           >
-                            Learn more
+                            Cakto një termin
                           </Button>
                         </CardBody>
                       </Card>
@@ -157,31 +156,19 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            Humori
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Regjistrimi i humorit të përditshëm mund t'ju ndihmojë
+                          në përmirësimin e mirëqenies mendore duke ofruar njohuri për shëndetin tuaj emocional me kalimin e kohës.
                           </p>
-                          <div>
-                            <Badge color="success" pill className="mr-1">
-                              business
-                            </Badge>
-                            <Badge color="success" pill className="mr-1">
-                              vision
-                            </Badge>
-                            <Badge color="success" pill className="mr-1">
-                              success
-                            </Badge>
-                          </div>
                           <Button
                             className="mt-4"
                             color="success"
-                            href="#pablo"
+                            href="/mood-page"
                             onClick={(e) => e.preventDefault()}
                           >
-                            Learn more
+                            Regjistro
                           </Button>
                         </CardBody>
                       </Card>
@@ -193,31 +180,20 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                            Mjete relaksimi
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Meditimi ofron përfitime të shumta, duke përfshirë uljen e stresit, 
+                          përmirësimin e fokusit, përmirësimin e mirëqenies emocionale dhe një ndjenjë më të madhe paqeje të brendshme dhe vetëdije.
                           </p>
-                          <div>
-                            <Badge color="warning" pill className="mr-1">
-                              marketing
-                            </Badge>
-                            <Badge color="warning" pill className="mr-1">
-                              product
-                            </Badge>
-                            <Badge color="warning" pill className="mr-1">
-                              launch
-                            </Badge>
-                          </div>
+                          
                           <Button
                             className="mt-4"
                             color="warning"
-                            href="#pablo"
+                            href="#"
                             onClick={(e) => e.preventDefault()}
                           >
-                            Learn more
+                            Mëso më shumë
                           </Button>
                         </CardBody>
                       </Card>
@@ -227,7 +203,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          <section className="section section-lg">
+          {/* <section className="section section-lg">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-md-2" md="6">
@@ -303,8 +279,8 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section>
-          <section className="section bg-secondary">
+          </section> */}
+          {/* <section className="section bg-secondary">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col md="6">
@@ -374,17 +350,12 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-          </section>
+          </section> */}
           <section className="section pb-0 bg-gradient-warning">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-lg-2 ml-lg-auto" md="6">
                   <div className="position-relative pl-md-5">
-                    <img
-                      alt="..."
-                      className="img-center img-fluid"
-                      src={require("../../assets/img/ill/ill-2.svg")}
-                    />
                   </div>
                 </Col>
                 <Col className="order-lg-1" lg="6">
@@ -395,11 +366,11 @@ class Landing extends React.Component {
                       </div>
                     </div>
                     <div className="pl-4">
-                      <h4 className="display-3 text-white">Modern Interface</h4>
+                      <h4 className="display-3 text-white">Inteligjenca Artificiale</h4>
                       <p className="text-white">
-                        The Arctic Ocean freezes every winter and much of the
-                        sea-ice then thaws every summer, and that process will
-                        continue whatever.
+                      Inteligjenca artificiale mund të përmirësojë kujdesin ndaj shëndetit mendor duke ofruar rekomandime të personalizuara të 
+                      trajtimit, duke përmirësuar zbulimin e hershëm të çështjeve të shëndetit mendor dhe duke ofruar mbështetje të 
+                      shkallëzuar përmes mjeteve të terapisë virtuale.
                       </p>
                     </div>
                   </div>
@@ -413,20 +384,20 @@ class Landing extends React.Component {
                         </div>
                         <div className="pl-4">
                           <h5 className="title text-success">
-                            Awesome Support
+                            Zbulimi i hershëm
                           </h5>
                           <p>
-                            The Arctic Ocean freezes every winter and much of
-                            the sea-ice then thaws every summer, and that
-                            process will continue whatever.
+                          Algoritmet e IA mund të analizojnë modele në humor, sjellje dhe madje edhe aktivitetin e mediave sociale 
+                          për të identifikuar shenjat e hershme të çështjeve të shëndetit mendor si depresioni, 
+                          ankthi ose PTSD. Ndërhyrja e hershme mund të ndihmojë në parandalimin e përkeqësimit të gjendjes.
                           </p>
-                          <a
+                          {/* <a
                             className="text-success"
                             href="#pablo"
                             onClick={(e) => e.preventDefault()}
                           >
                             Learn more
-                          </a>
+                          </a> */}
                         </div>
                       </div>
                     </CardBody>
@@ -441,20 +412,19 @@ class Landing extends React.Component {
                         </div>
                         <div className="pl-4">
                           <h5 className="title text-warning">
-                            Modular Components
+                            Reduktimi i paragjykimeve
                           </h5>
                           <p>
-                            The Arctic Ocean freezes every winter and much of
-                            the sea-ice then thaws every summer, and that
-                            process will continue whatever.
+                          Mjetet e IA shpesh ofrojnë mbështetje anonime, 
+                          e cila mund të zvogëlojë stigmën rreth kujdesit për shëndetin mendor dhe të inkurajojë më shumë njerëz të kërkojnë ndihmë.
                           </p>
-                          <a
+                          {/* <a
                             className="text-warning"
                             href="#pablo"
                             onClick={(e) => e.preventDefault()}
                           >
                             Learn more
-                          </a>
+                          </a> */}
                         </div>
                       </div>
                     </CardBody>
@@ -483,181 +453,173 @@ class Landing extends React.Component {
             <Container>
               <Row className="justify-content-center text-center mb-lg">
                 <Col lg="8">
-                  <h2 className="display-3">The amazing Team</h2>
+                  <h2 className="display-3">Njoftohu me anëtarët e ekipit</h2>
                   <p className="lead text-muted">
-                    According to the National Oceanic and Atmospheric
-                    Administration, Ted, Scambos, NSIDClead scentist, puts the
-                    potentially record maximum.
+                    Ideatorët që qëndrojnë prapa këtij projekti që synon të përmirësojë shëndetin mendor dhe të sjellë mirëqenie emocionale.
                   </p>
                 </Col>
               </Row>
               <Row>
-                <Col className="mb-5 mb-lg-0" lg="3" md="6">
+                <Col className="mb-5 mb-lg-0" lg="4" md="6">
                   <div className="px-4">
                     <img
                       alt="..."
                       className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
-                      src={require("../../assets/img/theme/team-1-800x800.jpg")}
+                      src={require("../../assets/img/theme/team-5-800x800.jpg")}
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">Ryan Tompson</span>
-                        <small className="h6 text-muted">Web Developer</small>
+                        <span className="d-block mb-1">Anila Gashi</span>
+                        <small className="h6 text-muted">Founder / Data Scientist</small>
                       </h5>
                       <div className="mt-3">
                         <Button
                           className="btn-icon-only rounded-circle"
                           color="warning"
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <i className="fa fa-twitter" />
                         </Button>
-                        <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="warning"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                        >
-                          <i className="fa fa-facebook" />
-                        </Button>
-                        <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="warning"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                        >
-                          <i className="fa fa-dribbble" />
-                        </Button>
+                        
                       </div>
                     </div>
                   </div>
                 </Col>
-                <Col className="mb-5 mb-lg-0" lg="3" md="6">
+                <Col className="mb-5 mb-lg-0" lg="4" md="6">
                   <div className="px-4">
                     <img
                       alt="..."
                       className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
-                      src={require("../../assets/img/theme/team-2-800x800.jpg")}
+                      src={require("../../assets/img/theme/team-6-800x800.png")}
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">Romina Hadid</span>
+                        <span className="d-block mb-1">Naim Llumnica</span>
                         <small className="h6 text-muted">
-                          Marketing Strategist
+                          Project Manager / Backend Developer
                         </small>
                       </h5>
                       <div className="mt-3">
                         <Button
                           className="btn-icon-only rounded-circle"
                           color="primary"
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <i className="fa fa-twitter" />
                         </Button>
-                        <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="primary"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                        >
-                          <i className="fa fa-facebook" />
-                        </Button>
-                        <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="primary"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                        >
-                          <i className="fa fa-dribbble" />
-                        </Button>
+                        
                       </div>
                     </div>
                   </div>
                 </Col>
-                <Col className="mb-5 mb-lg-0" lg="3" md="6">
+                <Col className="mb-5 mb-lg-0" lg="4" md="6">
                   <div className="px-4">
                     <img
                       alt="..."
                       className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
-                      src={require("../../assets/img/theme/team-3-800x800.jpg")}
+                      src={require("../../assets/img/theme/team-5-800x800.jpg")}
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">Alexander Smith</span>
-                        <small className="h6 text-muted">UI/UX Designer</small>
+                        <span className="d-block mb-1">Altinë Salihu</span>
+                        <small className="h6 text-muted">UI/UX Designer / Frontent Developer</small>
                       </h5>
                       <div className="mt-3">
                         <Button
                           className="btn-icon-only rounded-circle"
-                          color="info"
-                          href="#pablo"
+                          color="danger"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <i className="fa fa-twitter" />
                         </Button>
-                        <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="info"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                        >
-                          <i className="fa fa-facebook" />
-                        </Button>
-                        <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="info"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                        >
-                          <i className="fa fa-dribbble" />
-                        </Button>
+                        
                       </div>
                     </div>
                   </div>
                 </Col>
-                <Col className="mb-5 mb-lg-0" lg="3" md="6">
+                <Col className="mb-5 mb-lg-0" lg="4" md="6">
                   <div className="px-4">
                     <img
                       alt="..."
                       className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
-                      src={require("../../assets/img/theme/team-4-800x800.jpg")}
+                      src={require("../../assets/img/theme/team-5-800x800.jpg")}
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">John Doe</span>
-                        <small className="h6 text-muted">Founder and CEO</small>
+                        <span className="d-block mb-1">Jeta Domi</span>
+                        <small className="h6 text-muted">Backend Developer / Technical Writer</small>
                       </h5>
                       <div className="mt-3">
                         <Button
                           className="btn-icon-only rounded-circle"
                           color="success"
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
                           <i className="fa fa-twitter" />
                         </Button>
+                        
+                      </div>
+                    </div>
+                  </div>
+                </Col>
+                <Col className="mb-5 mb-lg-0" lg="4" md="6">
+                  <div className="px-4">
+                    <img
+                      alt="..."
+                      className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
+                      src={require("../../assets/img/theme/team-5-800x800.jpg")}
+                      style={{ width: "200px" }}
+                    />
+                    <div className="pt-4 text-center">
+                      <h5 className="title">
+                        <span className="d-block mb-1">Alma Novoberdaliu</span>
+                        <small className="h6 text-muted">Frontent Developer / Scrum Master</small>
+                      </h5>
+                      <div className="mt-3">
                         <Button
-                          className="btn-icon-only rounded-circle ml-1"
+                          className="btn-icon-only rounded-circle"
                           color="success"
-                          href="#pablo"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-facebook" />
+                          <i className="fa fa-twitter" />
                         </Button>
+                        
+                      </div>
+                    </div>
+                  </div>
+                </Col>
+                <Col className="mb-5 mb-lg-0" lg="4" md="6">
+                  <div className="px-4">
+                    <img
+                      alt="..."
+                      className="rounded-circle img-center img-fluid shadow shadow-lg--hover"
+                      src={require("../../assets/img/theme/team-5-800x800.jpg")}
+                      style={{ width: "200px" }}
+                    />
+                    <div className="pt-4 text-center">
+                      <h5 className="title">
+                        <span className="d-block mb-1">Filiz Gjini</span>
+                        <small className="h6 text-muted">Frontent Developer</small>
+                      </h5>
+                      <div className="mt-3">
                         <Button
-                          className="btn-icon-only rounded-circle ml-1"
-                          color="success"
-                          href="#pablo"
+                          className="btn-icon-only rounded-circle"
+                          color="danger"
+                          href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-dribbble" />
+                          <i className="fa fa-twitter" />
                         </Button>
+                        
                       </div>
                     </div>
                   </div>
@@ -672,12 +634,11 @@ class Landing extends React.Component {
                   <Row className="align-items-center">
                     <Col lg="8">
                       <h3 className="text-white">
-                        We made website building easier for you.
+                      Shumica prej nesh do të dinim si të ndihmonim dikë që pëson një sulm në zemër!
                       </h3>
                       <p className="lead text-white mt-3">
-                        I will be the leader of a company that ends up being
-                        worth billions of dollars, because I got the answers. I
-                        understand culture.
+                      Do të fillonim CPR, ose të paktën të telefononim 112. Por shumë pak prej nesh do të dinim reagimin e duhur nëse shohim dikë me atak 
+                        paniku ose nëse një mik shfaq shenja të përdorimit të pakontrolluar të alkoolit...
                       </p>
                     </Col>
                     <Col className="ml-lg-auto" lg="3">
@@ -685,10 +646,10 @@ class Landing extends React.Component {
                         block
                         className="btn-white"
                         color="default"
-                        href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
+                        href="https://www.mentalhealthfirstaid.org/"
                         size="lg"
                       >
-                        Download React
+                        Lexo më shumë
                       </Button>
                     </Col>
                   </Row>
@@ -700,16 +661,14 @@ class Landing extends React.Component {
             <Container className="pt-lg pb-300">
               <Row className="text-center justify-content-center">
                 <Col lg="10">
-                  <h2 className="display-3 text-white">Build something</h2>
+                  <h2 className="display-3 text-white">Edhe ju mund të jeni pjesë e ndryshimit</h2>
                   <p className="lead text-white">
-                    According to the National Oceanic and Atmospheric
-                    Administration, Ted, Scambos, NSIDClead scentist, puts the
-                    potentially record low maximum sea ice extent tihs year down
-                    to low ice.
+                  Ne jemi të përkushtuar për të ofruar mbështetje të cilësisë së lartë të shëndetit mendor për individët në nevojë. 
+                  Ne jemi një ekip inovativ i fokusuar në promovimin e mirëqenies dhe ndërgjegjësimit për shëndetin mendor.
                   </p>
                 </Col>
               </Row>
-              <Row className="row-grid mt-5">
+              {/* <Row className="row-grid mt-5">
                 <Col lg="4">
                   <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
                     <i className="ni ni-settings text-primary" />
@@ -740,7 +699,7 @@ class Landing extends React.Component {
                     up the bulk of the card's content.
                   </p>
                 </Col>
-              </Row>
+              </Row> */}
             </Container>
             {/* SVG separator */}
             <div className="separator separator-bottom separator-skew zindex-100">
@@ -765,9 +724,9 @@ class Landing extends React.Component {
                 <Col lg="8">
                   <Card className="bg-gradient-secondary shadow">
                     <CardBody className="p-lg-5">
-                      <h4 className="mb-1">Want to work with us?</h4>
+                      <h4 className="mb-1">Dëshironi t'i bashkangjiteni ekipit tonë?</h4>
                       <p className="mt-0">
-                        Your project is very important to us.
+                        Ju lusim që të na kontaktoni përmes këtij formulari.
                       </p>
                       <FormGroup
                         className={classnames("mt-5", {
@@ -781,7 +740,7 @@ class Landing extends React.Component {
                             </InputGroupText>
                           </InputGroupAddon>
                           <Input
-                            placeholder="Your name"
+                            placeholder="Emri"
                             type="text"
                             onFocus={(e) =>
                               this.setState({ nameFocused: true })
@@ -804,7 +763,7 @@ class Landing extends React.Component {
                             </InputGroupText>
                           </InputGroupAddon>
                           <Input
-                            placeholder="Email address"
+                            placeholder="Email adresa"
                             type="email"
                             onFocus={(e) =>
                               this.setState({ emailFocused: true })
@@ -820,7 +779,7 @@ class Landing extends React.Component {
                           className="form-control-alternative"
                           cols="80"
                           name="name"
-                          placeholder="Type a message..."
+                          placeholder="Mesazhi juaj..."
                           rows="4"
                           type="textarea"
                         />
@@ -833,7 +792,7 @@ class Landing extends React.Component {
                           size="lg"
                           type="button"
                         >
-                          Send Message
+                          Dërgo
                         </Button>
                       </div>
                     </CardBody>
@@ -843,7 +802,6 @@ class Landing extends React.Component {
             </Container>
           </section>
         </main>
-        <CardsFooter />
       </>
     );
   }

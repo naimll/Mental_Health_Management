@@ -75,7 +75,7 @@ class DemoNavbar extends React.Component {
               <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
                 <img
                   alt="..."
-                  src={require("../../assets/img/brand/argon-react-white.png")}
+                  src={require("../../assets/img/brand/ubt-logo-2.jpg")}
         
                 />
               </NavbarBrand>
@@ -95,7 +95,7 @@ class DemoNavbar extends React.Component {
                       <Link to="/">
                         <img
                           alt="..."
-                          src={require("../../assets/img/brand/argon-react.png")}
+                          src={require("../../assets/img/brand/ubt-logo.png")}
                         />
                       </Link>
                     </Col>
@@ -156,12 +156,9 @@ class DemoNavbar extends React.Component {
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-collection d-lg-none mr-1" />
-                      <span className="nav-link-inner--text">Çfarë tjetër?</span>
+                      <span className="nav-link-inner--text">Profili juaj</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/landing-page" tag={Link}>
-                        Ballina
-                      </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
                         Profili juaj
                       </DropdownItem>
