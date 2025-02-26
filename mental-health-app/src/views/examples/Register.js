@@ -35,8 +35,8 @@ import {
 } from "reactstrap";
 
 // core components
-import DemoNavbar from "components/Navbars/DemoNavbar.js";
-import SimpleFooter from "components/Footers/SimpleFooter.js";
+import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
+import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
 class Register extends React.Component {
   componentDidMount() {
@@ -79,7 +79,7 @@ class Register extends React.Component {
                             <img
                               alt="..."
                               src={
-                                require("assets/img/icons/common/github.svg")
+                                require("../../assets/img/icons/common/github.svg")
                                   .default
                               }
                             />
@@ -96,7 +96,7 @@ class Register extends React.Component {
                             <img
                               alt="..."
                               src={
-                                require("assets/img/icons/common/google.svg")
+                                require("../../assets/img/icons/common/google.svg")
                                   .default
                               }
                             />
