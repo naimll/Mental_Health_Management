@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Index from "./views/Index";
 import LandingPage from "./views/examples/Landing"; // Import Landing Page
 import ProfilePage from "./views/examples/Profile"; // Import Profile Page
 import LoginPage from "./views/examples/Login"; // Import Login Page

@@ -1,20 +1,3 @@
-/*!
-
-=========================================================
-* Argon Design System React - v1.1.2
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/argon-design-system-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/argon-design-system-react/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 // nodejs library that concatenates classes
 import classnames from "classnames";
@@ -40,7 +23,6 @@ import {
 import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
 import CardsFooter from "../../components/Footers/CardsFooter.js";
 
-// index page sections
 import Download from "../IndexSections/Download.js";
 
 class Landing extends React.Component {
@@ -74,37 +56,35 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        Mirë se vini në <b>MindAI</b>{" "}
+                        <span></span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      Hidhni një hap drejt shëndetit më të mirë mendor. Ne jemi këtu për t'ju mbështetur në udhëtimin tuaj drejt mirëqenies emocionale.
                       </p>
                       <div className="btn-wrapper">
                         <Button
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
-                          href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
+                          href="/register-page"
                         >
                           <span className="btn-inner--icon mr-1">
                             <i className="fa fa-code" />
                           </span>
-                          <span className="btn-inner--text">Components</span>
+                          <span className="btn-inner--text">Regjistrohu</span>
                         </Button>
-                        <Button
+                        {/* <Button
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                           color="default"
-                          href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
+                          href=""
                         >
                           <span className="btn-inner--icon mr-1">
                             <i className="ni ni-cloud-download-95" />
                           </span>
                           <span className="btn-inner--text">
-                            Download React
+                            Check out our services
                           </span>
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                   </Row>
@@ -862,7 +842,6 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          <Download />
         </main>
         <CardsFooter />
       </>
