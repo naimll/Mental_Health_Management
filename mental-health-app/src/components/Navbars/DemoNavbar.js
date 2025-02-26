@@ -72,13 +72,15 @@ class DemoNavbar extends React.Component {
             id="navbar-main"
           >
             <Container>
-              <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
+              <NavbarBrand className="mr-lg-3" to="/" tag={Link}>
                 <img
                   alt="..."
-                  src={require("../../assets/img/brand/ubt-logo-2.jpg")}
+                  src={require("../../assets/img/brand/mindai-removebg-preview.png")}
         
                 />
+                
               </NavbarBrand>
+              <h4 className="iconh4">MindAI</h4>
               <button className="navbar-toggler" id="navbar_global">
                 <span className="navbar-toggler-icon" />
               </button>
@@ -95,7 +97,7 @@ class DemoNavbar extends React.Component {
                       <Link to="/">
                         <img
                           alt="..."
-                          src={require("../../assets/img/brand/ubt-logo.png")}
+                          src={require("../../assets/img/brand/mindai-removebg-preview.png")}
                         />
                       </Link>
                     </Col>

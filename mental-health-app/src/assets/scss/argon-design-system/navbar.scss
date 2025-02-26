@@ -6,6 +6,13 @@
   }
 }
 
+.iconh4{
+    margin:auto;
+}
+
+// span.nav-link-inner--text{
+//     color: rgb(10,69,111)
+// }
 .navbar-nav {
     .nav-link {
         font-size: $navbar-nav-link-font-size;
@@ -17,6 +24,8 @@
 
         .nav-link-inner--text {
             margin-left: .25rem;
+            font-weight: 600;
+            text-transform: uppercase;
         }
     }
 }
@@ -29,7 +38,7 @@
     letter-spacing: .05px;
 
     img {
-        height: 30px;
+        height: 50px;
     }
 }
 
@@ -57,7 +66,9 @@
     // .navbar-main {
     //     padding: 1rem 0;
     // }
-
+    div.collapse.navbar-collapse{
+        justify-content: end;
+    }
     .navbar-nav {
         .nav-item {
             margin-right: .5rem;

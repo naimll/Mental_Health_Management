@@ -181,3 +181,11 @@ $value in $brand-colors {
         @include button-variant($value, $value);
     }
 }
+
+a.mt-4.btn.btn-warning{
+  background-color: $logo_pinkish;
+  color: white;
+}
+h6.text-warning.text-uppercase{
+  color: $logo_pinkish !important;
+}
