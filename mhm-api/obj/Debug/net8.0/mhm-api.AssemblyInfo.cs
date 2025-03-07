@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mhm-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfc36a2086869ca1fb8452ad3ddcc302afb1227e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92063f780adecd84ecfa3f53b768472d3dbc741d")]
 [assembly: System.Reflection.AssemblyProductAttribute("mhm-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mhm-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
