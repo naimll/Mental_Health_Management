@@ -4,3 +4,5 @@
 
 /mhm-api/.vs/mhm-api/FileContentIndex/11edc22b-498e-4079-9906-11116da359c9.vsidx
 /mhm-api/.vs/mhm-api/FileContentIndex/844e20e1-fa45-49f9-8e16-d2777fe6f9c5.vsidx
+*.vsidx
+/mhm-api/.vs/mhm-api/DesignTimeBuild/.dtbcache.v2
