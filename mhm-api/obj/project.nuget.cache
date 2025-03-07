@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "JXshX1bhn+w6IYQW6ON1rOA3MC4QcWIQ4Rjjbh8u/hyxVZjAnucjuOg+IZGTizDlCVTqGfh6faouu/QdRAayyQ==",
   "success": true,
   "projectFilePath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj",
@@ -34,5 +35,11 @@
     "C:\\Users\\Naim\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512",
     "C:\\Users\\Naim\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "VtAbF9Ck73YvWrfwH8FuTdLs0BIjxYvNK6Sh0srpiFmzZn6aDJRqHq8OfuwTUVzMDfiz6wiKQNSu9WGUw3qKvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Alma Novobërdaliu\\Faculty\\Master\\Semestri III\\Lab\\Mental_Health_Management\\mhm-api\\mhm-api.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 60857c8046ffe1bb6b979d6766d7623f61d715a8
   "logs": []
 }

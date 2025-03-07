@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Alma Novobërdaliu\\Faculty\\Master\\Semestri III\\Lab\\Mental_Health_Management\\mhm-api\\mhm-api.csproj": {}
   },
   "projects": {
-    "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Alma Novobërdaliu\\Faculty\\Master\\Semestri III\\Lab\\Mental_Health_Management\\mhm-api\\mhm-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Alma Novobërdaliu\\Faculty\\Master\\Semestri III\\Lab\\Mental_Health_Management\\mhm-api\\mhm-api.csproj",
         "projectName": "mhm-api",
-        "projectPath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\mhm-api.csproj",
-        "packagesPath": "C:\\Users\\Naim\\.nuget\\packages\\",
-        "outputPath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Alma Novobërdaliu\\Faculty\\Master\\Semestri III\\Lab\\Mental_Health_Management\\mhm-api\\mhm-api.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Alma Novobërdaliu\\Faculty\\Master\\Semestri III\\Lab\\Mental_Health_Management\\mhm-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Naim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,16 +38,12 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
           "dependencies": {
             "Microsoft.ML": {
               "target": "Package",
@@ -67,6 +62,8 @@
               "version": "[6.4.0, )"
             }
           },
+=======
+>>>>>>> 60857c8046ffe1bb6b979d6766d7623f61d715a8
           "imports": [
             "net461",
             "net462",
@@ -78,15 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
