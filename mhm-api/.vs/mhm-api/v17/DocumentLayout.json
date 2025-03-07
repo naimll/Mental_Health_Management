@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\models\\moodentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:models\\moodentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\service\\moodpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:service\\moodpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\controllers\\therapysessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:controllers\\therapysessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\controllers\\moodentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:controllers\\moodentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\models\\moodentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:models\\moodentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\models\\ml\\moodmodeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:models\\ml\\moodmodeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\models\\ml\\moodmodelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:models\\ml\\moodmodelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|d:\\ubt-master\\semestri3\\lab\\mental-health-management\\mhm-api\\service\\imoodpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB34A7-14CE-4198-9F9D-65C07651671A}|mhm-api.csproj|solutionrelative:service\\imoodpredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MoodEntry.cs",
-              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\MoodEntry.cs",
-              "RelativeDocumentMoniker": "Models\\MoodEntry.cs",
-              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\MoodEntry.cs",
-              "RelativeToolTip": "Models\\MoodEntry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T11:31:29.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TherapySessionsController.cs",
-              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\TherapySessionsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TherapySessionsController.cs",
-              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\TherapySessionsController.cs",
-              "RelativeToolTip": "Controllers\\TherapySessionsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T11:29:08.119Z",
+              "WhenOpened": "2025-03-07T12:23:45.594Z",
               "EditorCaption": ""
             },
             {
@@ -70,35 +69,86 @@
               "RelativeDocumentMoniker": "Controllers\\MoodEntriesController.cs",
               "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\MoodEntriesController.cs",
               "RelativeToolTip": "Controllers\\MoodEntriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDUAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T11:28:40.71Z",
+              "WhenOpened": "2025-03-07T12:20:18.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "MoodEntry.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\MoodEntry.cs",
+              "RelativeDocumentMoniker": "Models\\MoodEntry.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\MoodEntry.cs",
+              "RelativeToolTip": "Models\\MoodEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T11:28:23.988Z",
+              "WhenOpened": "2025-03-07T12:15:30.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABwAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "MoodPredictionService.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Service\\MoodPredictionService.cs",
+              "RelativeDocumentMoniker": "Service\\MoodPredictionService.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Service\\MoodPredictionService.cs",
+              "RelativeToolTip": "Service\\MoodPredictionService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T09:36:20.147Z",
+              "WhenOpened": "2025-03-07T12:12:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingController.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "Controllers\\TrainingController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:24:42.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMoodPredictionService.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Service\\IMoodPredictionService.cs",
+              "RelativeDocumentMoniker": "Service\\IMoodPredictionService.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Service\\IMoodPredictionService.cs",
+              "RelativeToolTip": "Service\\IMoodPredictionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:02:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoodModelOutput.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\ML\\MoodModelOutput.cs",
+              "RelativeDocumentMoniker": "Models\\ML\\MoodModelOutput.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\ML\\MoodModelOutput.cs",
+              "RelativeToolTip": "Models\\ML\\MoodModelOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:02:25.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoodModelInput.cs",
+              "DocumentMoniker": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\ML\\MoodModelInput.cs",
+              "RelativeDocumentMoniker": "Models\\ML\\MoodModelInput.cs",
+              "ToolTip": "D:\\UBT-Master\\Semestri3\\Lab\\mental-health-management\\mhm-api\\Models\\ML\\MoodModelInput.cs",
+              "RelativeToolTip": "Models\\ML\\MoodModelInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:02:23.675Z",
               "EditorCaption": ""
             }
           ]

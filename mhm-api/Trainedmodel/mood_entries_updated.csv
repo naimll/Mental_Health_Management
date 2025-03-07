@@ -1,0 +1,1001 @@
+Id,UserId,Mood,Notes,CreatedAt,Actions
+b0e65657-6983-4f07-af88-a0592ade479f,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Depressed,Personal reflection,2024-03-24T14:30:03.872088,Talk to a friend or therapist
+96422ed8-bd3d-42fa-9796-1790bf0c524f,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Depressed,Personal reflection,2024-10-29T14:30:03.872150,Talk to a friend or therapist
+7cc78b4f-0ec1-4ea7-a0ff-30019e79dd60,ee7fd89d-bc19-4360-8548-5dcc170c238c,Happy,Personal reflection,2024-11-07T14:30:03.872186,Continue daily routine
+5ae4191d-9813-4d07-a174-bdc2126b99eb,c674dfff-efca-4f45-b639-764d2ee8e905,Anxious,Personal reflection,2024-07-04T14:30:03.872219,Practice deep breathing
+5f56b42b-ed73-429f-9501-8ad447ab5d16,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Excited,Personal reflection,2024-07-25T14:30:03.872254,Celebrate with friends
+beea7ce5-a096-4f11-9a54-429dfbfa12fc,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Calm,Personal reflection,2024-09-03T14:30:03.872288,Enjoy the moment
+1ad27652-69dd-4a7e-b93b-da1ea5d11ca6,75910b19-8bce-4797-9958-b71ea0d50486,Depressed,Personal reflection,2024-09-12T14:30:03.872320,Talk to a friend or therapist
+aa09f0ad-f9aa-4788-ba04-d87b2f45935a,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Anxious,Personal reflection,2024-04-16T14:30:03.872351,Practice deep breathing
+f38ddbb3-2b36-4865-a687-f2ecf5b9324d,48887b97-8acc-453f-8143-d39045220d8b,Relaxed,Personal reflection,2024-04-01T14:30:03.872381,No action assigned
+33f780ef-97aa-43f2-a689-8b569bee7685,7e9db291-18a4-4c3e-838a-35a35a70d396,Happy,Personal reflection,2024-04-27T14:30:03.872411,Continue daily routine
+f96c9be4-ce87-4959-b176-e4673379912a,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Neutral,Personal reflection,2024-05-20T14:30:03.872457,No action assigned
+12cf2d3a-4f0d-4eb9-9925-e9ccd9f1bc7a,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Excited,Personal reflection,2024-10-10T14:30:03.872475,Celebrate with friends
+8aefb4ea-facf-46d0-a607-51fe9aea2ecf,7cb7702b-38d0-4c91-9ae0-00f96462af01,Sad,Personal reflection,2025-02-14T14:30:03.872495,Listen to relaxing music
+cca73592-6092-4efb-baab-189195aec71d,57a0f366-222e-4464-844d-0d86c61c6b5c,Calm,Personal reflection,2024-12-12T14:30:03.872525,Enjoy the moment
+7fc72f23-ada9-4b78-8691-0135778e7e58,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Anxious,Personal reflection,2024-11-08T14:30:03.872542,Practice deep breathing
+cf25f4c9-3441-4680-9de8-c313109448cf,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Neutral,Personal reflection,2024-11-24T14:30:03.872559,No action assigned
+ef8a69c6-d1b9-4d03-a052-a403823c172f,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Angry,Personal reflection,2024-08-02T14:30:03.872582,Try meditation
+3b9803f1-6246-488a-8174-14fd66921383,7cb7702b-38d0-4c91-9ae0-00f96462af01,Relaxed,Personal reflection,2024-04-03T14:30:03.872600,No action assigned
+9b2dcd60-d445-4709-8bf9-767982ebe375,f17321f1-dc90-4bac-a6e9-bd1e181770da,Neutral,Personal reflection,2024-05-09T14:30:03.872617,No action assigned
+dbbe2447-7b14-4ebd-ae2a-6d15a2944abf,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Sad,Personal reflection,2024-04-27T14:30:03.872633,Listen to relaxing music
+cab89865-9b25-4398-a10b-00381ae4733b,9fdb3419-adbe-4550-ba32-124b8be5f562,Depressed,Personal reflection,2024-11-20T14:30:03.872652,Talk to a friend or therapist
+b8edbf61-f966-48e6-91a0-e6a57ee50db4,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Calm,Personal reflection,2024-10-28T14:30:03.872669,Enjoy the moment
+db73ecbc-dfbb-45d3-a740-c77f9c5668fe,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Excited,Personal reflection,2024-07-16T14:30:03.872685,Celebrate with friends
+0d82efa1-159f-45d2-b03d-aa3e942c0062,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Neutral,Personal reflection,2024-12-19T14:30:03.872703,No action assigned
+21079993-f01b-4b15-9d9d-f842241aa088,f472673b-129c-4c2d-b8ca-3f6d59637d61,Stressed,Personal reflection,2024-06-05T14:30:03.872719,Take a break
+e8434128-3df4-4b89-a142-c048fb9f546f,2f410741-3375-4262-ac78-61269a66718c,Stressed,Personal reflection,2025-02-13T14:30:03.872736,Take a break
+6a36c3c3-0b23-4a87-b86a-904201b2d96c,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Angry,Personal reflection,2024-04-16T14:30:03.872752,Try meditation
+0e327bd6-d97a-47d3-97d1-35ac81c9ff47,44ed067a-6905-49e0-a4f4-2116592c2ad2,Happy,Personal reflection,2024-07-03T14:30:03.872769,Continue daily routine
+807ead0e-f016-4be2-a717-f58cbd8ffc19,78643191-4894-42ce-b6ed-c645582e8822,Excited,Personal reflection,2024-08-12T14:30:03.872786,Celebrate with friends
+d6407953-a72a-48fd-9ada-c48d108cf32a,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Happy,Personal reflection,2024-09-24T14:30:03.872802,Continue daily routine
+aa37b9c2-17dc-4aa8-86d1-c022a50d1bd9,f472673b-129c-4c2d-b8ca-3f6d59637d61,Depressed,Personal reflection,2024-07-24T14:30:03.872818,Talk to a friend or therapist
+322f585b-644c-4f46-a778-e03ce54a4332,e10f192f-da8c-4b9b-a950-32e56777a8e5,Excited,Personal reflection,2024-10-09T14:30:03.872834,Celebrate with friends
+13bd1ca7-4251-4673-bea1-684bb3c8751b,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Anxious,Personal reflection,2024-05-30T14:30:03.872851,Practice deep breathing
+6116f5f3-8f99-4139-9821-6af09b21261f,2413cfc6-785f-4340-b331-7a56e35e2aab,Stressed,Personal reflection,2025-02-19T14:30:03.872867,Take a break
+359f3a68-e9b8-47fc-a358-ec1fdb07428d,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Anxious,Personal reflection,2024-05-27T14:30:03.872883,Practice deep breathing
+c7fe5448-dd04-4be9-a3ba-d3b351182384,d6da8ecd-2388-4869-bc3a-3c2680f32130,Happy,Personal reflection,2024-03-25T14:30:03.872900,Continue daily routine
+90942f6a-1e5f-4849-8a8a-f13dc8a53397,d6da8ecd-2388-4869-bc3a-3c2680f32130,Neutral,Personal reflection,2024-12-10T14:30:03.872915,No action assigned
+e7f1ca70-c6e7-4e82-a0b9-b6928fad0103,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Relaxed,Personal reflection,2024-04-05T14:30:03.872930,No action assigned
+e6d3c997-32e7-4756-af60-d69801d469f5,8d049976-e3e5-4ec7-89d5-35badad24022,Relaxed,Personal reflection,2024-03-07T14:30:03.872946,No action assigned
+da02ff32-b889-4aff-9f7d-b78964842938,14c109c9-cb20-45f9-8a71-112782b15287,Angry,Personal reflection,2024-06-14T14:30:03.872962,Try meditation
+2f8b3cd9-121b-43eb-8350-422b143718bb,9fdb3419-adbe-4550-ba32-124b8be5f562,Depressed,Personal reflection,2024-04-30T14:30:03.872978,Talk to a friend or therapist
+81d232fd-2efc-4d7d-9c89-c53482ad9ad1,64c4608a-4849-4b58-be58-279217dcbd93,Stressed,Personal reflection,2024-07-02T14:30:03.872995,Take a break
+c786057a-899b-4ec3-9c07-d568b8908dd7,5106ad09-1514-4481-98bd-a64b172c7f61,Neutral,Personal reflection,2024-12-15T14:30:03.873011,No action assigned
+120f65f5-4a1f-4b4a-b061-b0322e46cc36,f17321f1-dc90-4bac-a6e9-bd1e181770da,Depressed,Personal reflection,2024-08-09T14:30:03.873027,Talk to a friend or therapist
+4fa6fad6-73b1-4d10-b161-22679473d5d3,8d049976-e3e5-4ec7-89d5-35badad24022,Stressed,Personal reflection,2024-04-12T14:30:03.873043,Take a break
+292e98fb-e2b6-47b5-bf94-425555c50f1c,75910b19-8bce-4797-9958-b71ea0d50486,Neutral,Personal reflection,2024-07-05T14:30:03.873059,No action assigned
+6e85052f-53bc-4d28-819a-c2e5c3fef72a,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Calm,Personal reflection,2024-10-21T14:30:03.873075,Enjoy the moment
+8b852ae6-8bce-43f0-a446-84979b7e7eb9,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Neutral,Personal reflection,2025-01-20T14:30:03.873094,No action assigned
+32a87ae9-162c-449d-bed0-66685fdbd557,78643191-4894-42ce-b6ed-c645582e8822,Anxious,Personal reflection,2025-02-11T14:30:03.873117,Practice deep breathing
+9544ac8c-8867-411e-b9c5-0145178cd9ec,8d049976-e3e5-4ec7-89d5-35badad24022,Neutral,Personal reflection,2024-06-10T14:30:03.873133,No action assigned
+14ff8d2c-67eb-401c-98c8-f1389cc2e6d4,becc7a2a-0155-4c4b-8647-e0e092c15d45,Neutral,Personal reflection,2024-10-26T14:30:03.873148,No action assigned
+b9bb567f-2c66-4951-9358-951843464c52,d6da8ecd-2388-4869-bc3a-3c2680f32130,Relaxed,Personal reflection,2024-03-29T14:30:03.873164,No action assigned
+e64bb34e-0323-4af7-b630-265037327b5e,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2024-04-13T14:30:03.873181,Talk to a friend or therapist
+fc47985d-9337-4f49-a94c-0140af506cc5,28b18f0d-d8b4-4521-9978-c7730938ddaa,Angry,Personal reflection,2025-01-20T14:30:03.873198,Try meditation
+a434ab91-aaf3-42cb-a010-1efe4853bbfa,75910b19-8bce-4797-9958-b71ea0d50486,Calm,Personal reflection,2024-03-20T14:30:03.873214,Enjoy the moment
+273f456f-267f-4558-8971-384552f96d04,48887b97-8acc-453f-8143-d39045220d8b,Angry,Personal reflection,2024-03-23T14:30:03.873230,Try meditation
+17e95321-1418-4b24-8b27-822ca007fa51,2413cfc6-785f-4340-b331-7a56e35e2aab,Neutral,Personal reflection,2024-07-22T14:30:03.873247,No action assigned
+1869b128-0957-48c1-b73a-3a1cee24c074,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Happy,Personal reflection,2024-10-01T14:30:03.873263,Continue daily routine
+5e9865b9-e526-413e-bf85-e64ea1f353c0,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Depressed,Personal reflection,2024-04-03T14:30:03.873280,Talk to a friend or therapist
+06351688-78b6-42f4-a8cc-7675e79a4382,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Relaxed,Personal reflection,2024-12-28T14:30:03.873296,No action assigned
+a6ddb2cc-4e54-4522-8ef4-e813b6c19197,9fdb3419-adbe-4550-ba32-124b8be5f562,Neutral,Personal reflection,2024-05-12T14:30:03.873312,No action assigned
+a273164c-d28f-49bb-a041-688d3208c869,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Sad,Personal reflection,2024-12-05T14:30:03.873338,Listen to relaxing music
+521e9c4c-0a15-4d7c-94ef-7001d84f9792,becc7a2a-0155-4c4b-8647-e0e092c15d45,Angry,Personal reflection,2025-02-14T14:30:03.873354,Try meditation
+c215932f-efcc-4c41-9de3-e32ec95945c9,57a0f366-222e-4464-844d-0d86c61c6b5c,Calm,Personal reflection,2024-12-15T14:30:03.873370,Enjoy the moment
+ebf15e84-2492-483b-b76c-0224faeca425,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Depressed,Personal reflection,2024-07-30T14:30:03.873386,Talk to a friend or therapist
+5b9c65c9-9a21-4779-9968-795fcc6cc3db,c674dfff-efca-4f45-b639-764d2ee8e905,Neutral,Personal reflection,2024-12-16T14:30:03.873403,No action assigned
+259eb678-8670-41f0-882d-fdb43ea0e3ed,2413cfc6-785f-4340-b331-7a56e35e2aab,Excited,Personal reflection,2024-08-04T14:30:03.873419,Celebrate with friends
+588295d6-5b5a-409e-8213-bd47254e216c,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Calm,Personal reflection,2024-07-05T14:30:03.873455,Enjoy the moment
+0f45143c-b28f-483f-856e-8603eda73747,9fdb3419-adbe-4550-ba32-124b8be5f562,Excited,Personal reflection,2024-03-25T14:30:03.873487,Celebrate with friends
+8000d039-745a-49e9-999f-b304dc41ea8e,64c4608a-4849-4b58-be58-279217dcbd93,Calm,Personal reflection,2024-11-19T14:30:03.873513,Enjoy the moment
+ccc6087c-6320-4899-a372-dffbed10fcc3,7cb7702b-38d0-4c91-9ae0-00f96462af01,Excited,Personal reflection,2025-01-28T14:30:03.873530,Celebrate with friends
+1b262354-4ab8-4ee2-acb0-9c954ec06873,5d42377a-af01-4b1b-a802-c7040598ccb6,Depressed,Personal reflection,2024-12-25T14:30:03.873546,Talk to a friend or therapist
+a8261062-9142-48e5-b972-bee441a71e93,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Excited,Personal reflection,2024-10-21T14:30:03.873562,Celebrate with friends
+2964a4dd-bdab-4f92-b5de-8fd2acf4223d,48887b97-8acc-453f-8143-d39045220d8b,Excited,Personal reflection,2024-03-07T14:30:03.873578,Celebrate with friends
+006bcbae-b011-46e0-901d-0cc28820aea9,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Sad,Personal reflection,2024-10-22T14:30:03.873595,Listen to relaxing music
+dec15b14-7eeb-4064-91ae-da85be92ec96,7e9db291-18a4-4c3e-838a-35a35a70d396,Excited,Personal reflection,2024-11-28T14:30:03.873611,Celebrate with friends
+e1588a38-6b06-4d35-a002-4ae594024fa4,e38ab0f7-43c6-4ffa-b309-52db441dba68,Anxious,Personal reflection,2025-01-01T14:30:03.873627,Practice deep breathing
+4d42138a-5f3d-4bde-a54e-d10c9699069a,14c109c9-cb20-45f9-8a71-112782b15287,Angry,Personal reflection,2024-07-20T14:30:03.873643,Try meditation
+77a28b04-5391-4620-a6f6-f0dc92b9ecbd,75910b19-8bce-4797-9958-b71ea0d50486,Excited,Personal reflection,2024-10-09T14:30:03.873660,Celebrate with friends
+945e787a-0fc9-4f90-9839-8973eabf5f25,7e9db291-18a4-4c3e-838a-35a35a70d396,Calm,Personal reflection,2024-10-26T14:30:03.873677,Enjoy the moment
+41ed3428-818d-42db-b6e4-82764f38fd66,5106ad09-1514-4481-98bd-a64b172c7f61,Angry,Personal reflection,2025-02-02T14:30:03.873694,Try meditation
+0fdeb1b5-42b8-424b-bf0e-4a1b6d55c79a,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Excited,Personal reflection,2024-12-09T14:30:03.873711,Celebrate with friends
+2bbfa00b-e875-4274-9d04-47e94ec51d4d,2f410741-3375-4262-ac78-61269a66718c,Happy,Personal reflection,2024-11-11T14:30:03.873727,Continue daily routine
+84e21ae0-7bbf-48e3-a8c9-0663b7c4ad26,f472673b-129c-4c2d-b8ca-3f6d59637d61,Depressed,Personal reflection,2024-06-20T14:30:03.873743,Talk to a friend or therapist
+5e48c3ad-4796-4a0e-a58d-61a8d8b81dbf,d6da8ecd-2388-4869-bc3a-3c2680f32130,Excited,Personal reflection,2024-03-31T14:30:03.873759,Celebrate with friends
+064a95d9-f0b4-4bae-a08e-c9b06635107d,75910b19-8bce-4797-9958-b71ea0d50486,Calm,Personal reflection,2024-08-08T14:30:03.873776,Enjoy the moment
+3498018f-94f2-40ca-b308-27f1913af200,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Sad,Personal reflection,2024-05-20T14:30:03.873792,Listen to relaxing music
+b280b10e-ed38-482d-929b-516a918d9fb9,64c4608a-4849-4b58-be58-279217dcbd93,Anxious,Personal reflection,2024-11-18T14:30:03.873808,Practice deep breathing
+0ad8394d-2843-4434-af9f-fd74fb535226,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Happy,Personal reflection,2024-12-07T14:30:03.873825,Continue daily routine
+6666a5a1-3630-473b-bcfa-367cecc67eeb,5106ad09-1514-4481-98bd-a64b172c7f61,Happy,Personal reflection,2024-08-08T14:30:03.873839,Continue daily routine
+ec532ba2-c232-4e04-a0a7-8201ddabb825,9a149800-3d1a-44e2-b911-fde92e3b0eea,Angry,Personal reflection,2024-12-28T14:30:03.873854,Try meditation
+fc2d31bb-7796-45fa-be53-7c433ebb4c05,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Happy,Personal reflection,2024-08-28T14:30:03.873873,Continue daily routine
+e184cff0-26c8-4cea-a6a0-4a650e059475,7e9db291-18a4-4c3e-838a-35a35a70d396,Anxious,Personal reflection,2024-07-15T14:30:03.873890,Practice deep breathing
+59197064-6cf6-41e3-8420-8e88cc43b482,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Neutral,Personal reflection,2024-03-23T14:30:03.873909,No action assigned
+bb98e1ac-8620-4aab-8bbf-06a6f4e79f39,8d049976-e3e5-4ec7-89d5-35badad24022,Neutral,Personal reflection,2024-03-26T14:30:03.873958,No action assigned
+d7066441-648f-4051-a87d-a1c0de831613,e10f192f-da8c-4b9b-a950-32e56777a8e5,Excited,Personal reflection,2024-08-29T14:30:03.873980,Celebrate with friends
+77387609-4f87-450f-916f-f3d6a9ee10de,becc7a2a-0155-4c4b-8647-e0e092c15d45,Neutral,Personal reflection,2024-06-30T14:30:03.874134,No action assigned
+72f03794-acd8-43c2-822f-d8663e6dd890,e38ab0f7-43c6-4ffa-b309-52db441dba68,Calm,Personal reflection,2024-12-18T14:30:03.874166,Enjoy the moment
+1e0abb1b-87c8-455d-a8c9-ae90fec76e0f,2413cfc6-785f-4340-b331-7a56e35e2aab,Stressed,Personal reflection,2024-03-11T14:30:03.874182,Take a break
+4539664c-00ed-4ea2-ba65-eafef1c99e8d,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Calm,Personal reflection,2024-08-19T14:30:03.874199,Enjoy the moment
+e94d9b0d-799c-4117-ae64-08a001f53998,20c4bc00-a849-435d-b884-20e2ddfca6d7,Happy,Personal reflection,2024-05-18T14:30:03.874215,Continue daily routine
+f20a1263-a649-4c53-b309-40ac46c62eba,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Depressed,Personal reflection,2025-01-23T14:30:03.874231,Talk to a friend or therapist
+ac93e276-9830-4dac-a0a5-d7d654f82c95,75910b19-8bce-4797-9958-b71ea0d50486,Depressed,Personal reflection,2024-11-15T14:30:03.874248,Talk to a friend or therapist
+eac95368-8a11-41e3-a48e-4642dfd44fb9,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Relaxed,Personal reflection,2024-12-13T14:30:03.874263,No action assigned
+11967a6f-6463-4b1d-9806-1eb714f80296,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Excited,Personal reflection,2024-08-18T14:30:03.874290,Celebrate with friends
+c0c287aa-2112-403c-a326-56dea82cda3a,e10f192f-da8c-4b9b-a950-32e56777a8e5,Relaxed,Personal reflection,2024-11-17T14:30:03.874320,No action assigned
+6472ad0d-9cd1-4f95-a7e5-73af54482f3d,e2102598-256b-4e8c-839a-fc7524787f9d,Excited,Personal reflection,2024-10-22T14:30:03.874347,Celebrate with friends
+536291c6-e8e0-49f3-a4ff-ee37e67b1d74,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Calm,Personal reflection,2024-08-14T14:30:03.874370,Enjoy the moment
+42aa7d1f-a6d4-4170-9f35-1764d4e09a56,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Excited,Personal reflection,2024-12-10T14:30:03.874386,Celebrate with friends
+14a9787e-54b5-4e33-a6e4-a321721f11bf,e10f192f-da8c-4b9b-a950-32e56777a8e5,Depressed,Personal reflection,2024-12-13T14:30:03.874408,Talk to a friend or therapist
+bc71774e-43b8-46eb-84e7-840c1116d588,e2102598-256b-4e8c-839a-fc7524787f9d,Sad,Personal reflection,2024-03-06T14:30:03.874424,Listen to relaxing music
+e146726d-e5c3-45b7-8c17-ba0c91a93b80,78643191-4894-42ce-b6ed-c645582e8822,Excited,Personal reflection,2024-05-08T14:30:03.874444,Celebrate with friends
+95a60beb-afe7-4eb5-9831-da04e9cdf9c9,c674dfff-efca-4f45-b639-764d2ee8e905,Calm,Personal reflection,2024-03-30T14:30:03.874472,Enjoy the moment
+f0802b7f-89e7-4a5f-a6f7-907bc586c7c4,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Calm,Personal reflection,2024-04-30T14:30:03.874489,Enjoy the moment
+5b999466-9b3e-438e-b7b7-b552da03a4c5,f17321f1-dc90-4bac-a6e9-bd1e181770da,Excited,Personal reflection,2024-12-12T14:30:03.874505,Celebrate with friends
+2c324a1e-1d5c-4bf2-8b1f-2e76b59cdf21,28b18f0d-d8b4-4521-9978-c7730938ddaa,Excited,Personal reflection,2024-06-07T14:30:03.874520,Celebrate with friends
+5c1054ad-f55e-4b57-a9f0-cdba3c704da0,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Sad,Personal reflection,2024-10-15T14:30:03.874538,Listen to relaxing music
+17cc414e-71d1-4319-b097-dbae287677d3,7e9db291-18a4-4c3e-838a-35a35a70d396,Sad,Personal reflection,2024-05-29T14:30:03.874554,Listen to relaxing music
+1907202e-4ab4-43d9-9d29-f9d378f1497e,d6da8ecd-2388-4869-bc3a-3c2680f32130,Neutral,Personal reflection,2024-04-08T14:30:03.874570,No action assigned
+6509decd-bc7d-4a9d-af34-8942846e94b5,5106ad09-1514-4481-98bd-a64b172c7f61,Relaxed,Personal reflection,2024-03-19T14:30:03.874588,No action assigned
+cd51d038-c54b-4adf-b5c7-c1e71aab92c0,f17321f1-dc90-4bac-a6e9-bd1e181770da,Excited,Personal reflection,2025-02-21T14:30:03.874604,Celebrate with friends
+6e09e110-58be-4017-b373-a3a91220a9c9,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Excited,Personal reflection,2024-03-22T14:30:03.874620,Celebrate with friends
+de30904c-1f5f-4fd4-9f3b-3fcb1fa9460e,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Sad,Personal reflection,2025-01-29T14:30:03.874655,Listen to relaxing music
+6620f755-e8c1-48e4-aea4-22de9a983a4e,e38ab0f7-43c6-4ffa-b309-52db441dba68,Anxious,Personal reflection,2024-11-10T14:30:03.874672,Practice deep breathing
+e95657a0-d5bd-45e6-8b2b-4f470e1e97b8,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Excited,Personal reflection,2024-06-29T14:30:03.874688,Celebrate with friends
+81f45c79-3d3e-4bef-a1b0-47bba27b683c,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Relaxed,Personal reflection,2024-03-05T14:30:03.874704,No action assigned
+60d3c075-4f03-41ba-af0d-4dd8bccb608c,2f410741-3375-4262-ac78-61269a66718c,Anxious,Personal reflection,2025-01-21T14:30:03.874719,Practice deep breathing
+32a42c39-a53a-4683-bab7-f79a1291f986,becc7a2a-0155-4c4b-8647-e0e092c15d45,Relaxed,Personal reflection,2024-05-19T14:30:03.874736,No action assigned
+a23491de-6ef7-4251-abb4-44a8b6c1ddd3,44ed067a-6905-49e0-a4f4-2116592c2ad2,Calm,Personal reflection,2024-11-22T14:30:03.874752,Enjoy the moment
+4322777c-d741-4c33-a6d5-4227a1872d05,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Happy,Personal reflection,2024-03-12T14:30:03.874775,Continue daily routine
+799d54bc-d9f0-4a4e-8419-6792d8cef927,9a149800-3d1a-44e2-b911-fde92e3b0eea,Sad,Personal reflection,2024-11-27T14:30:03.874791,Listen to relaxing music
+4918cc44-ba15-47c7-8566-bb1b0d935ce1,e38ab0f7-43c6-4ffa-b309-52db441dba68,Depressed,Personal reflection,2024-04-27T14:30:03.874807,Talk to a friend or therapist
+9ddac927-a17e-4457-82e6-8130c14c1a55,44ed067a-6905-49e0-a4f4-2116592c2ad2,Calm,Personal reflection,2024-03-20T14:30:03.874822,Enjoy the moment
+a5ccb852-aec6-4004-b560-34bd26731049,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Anxious,Personal reflection,2024-11-01T14:30:03.874838,Practice deep breathing
+08a6ff41-ed9a-4348-bcaa-d8fac26242c1,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Happy,Personal reflection,2024-12-29T14:30:03.874858,Continue daily routine
+534af976-2b51-4f62-af3f-92406bb66249,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Happy,Personal reflection,2024-06-06T14:30:03.874875,Continue daily routine
+e5e74238-a674-43d9-9d1f-a075610b76d9,e38ab0f7-43c6-4ffa-b309-52db441dba68,Neutral,Personal reflection,2025-02-01T14:30:03.874891,No action assigned
+e95b72f5-fd4f-4746-8b7e-ee4ae3ed9db5,5d42377a-af01-4b1b-a802-c7040598ccb6,Angry,Personal reflection,2024-04-21T14:30:03.874907,Try meditation
+64a8c9a7-960c-4be5-9080-75bae3e0d479,44ed067a-6905-49e0-a4f4-2116592c2ad2,Stressed,Personal reflection,2024-12-19T14:30:03.874923,Take a break
+c63c0a9a-473c-40da-8854-7d984c5bd5c5,9a149800-3d1a-44e2-b911-fde92e3b0eea,Sad,Personal reflection,2024-10-28T14:30:03.874942,Listen to relaxing music
+30fe1ef6-67c9-484c-bee4-8751f6771cbc,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Happy,Personal reflection,2025-02-08T14:30:03.874960,Continue daily routine
+042451fb-f14e-4356-a620-98ade310c2f0,57a0f366-222e-4464-844d-0d86c61c6b5c,Stressed,Personal reflection,2024-12-11T14:30:03.874976,Take a break
+347fc687-2230-4f7c-97ae-91e9d181a3db,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Happy,Personal reflection,2025-01-24T14:30:03.874992,Continue daily routine
+3b3cb81d-fae4-4d39-be2b-5aa7291f5f1d,20c4bc00-a849-435d-b884-20e2ddfca6d7,Anxious,Personal reflection,2024-07-01T14:30:03.875009,Practice deep breathing
+72ebbf89-23da-4705-9866-fa163f8549f2,e2102598-256b-4e8c-839a-fc7524787f9d,Neutral,Personal reflection,2024-04-01T14:30:03.875026,No action assigned
+8aef5f88-deda-40a4-a4dc-51d4f8335549,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Calm,Personal reflection,2025-01-15T14:30:03.875041,Enjoy the moment
+f950eb0f-b2a3-4688-b416-3cdf14425c40,44ed067a-6905-49e0-a4f4-2116592c2ad2,Excited,Personal reflection,2024-07-11T14:30:03.875059,Celebrate with friends
+b6e536b4-a157-405e-aee1-12e63c0a8198,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Anxious,Personal reflection,2024-11-30T14:30:03.875076,Practice deep breathing
+c6362a19-b29b-4718-a977-a07e72172923,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2024-03-30T14:30:03.875091,Talk to a friend or therapist
+7142303e-2946-4f8d-b2b1-657e1f63f025,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Anxious,Personal reflection,2024-09-30T14:30:03.875109,Practice deep breathing
+a92b0a54-b021-4643-b8f3-1198ffc8cab0,c674dfff-efca-4f45-b639-764d2ee8e905,Neutral,Personal reflection,2024-04-09T14:30:03.875125,No action assigned
+b3581efd-5e1c-4236-8913-a615c9e8a47d,d6da8ecd-2388-4869-bc3a-3c2680f32130,Happy,Personal reflection,2025-03-02T14:30:03.875141,Continue daily routine
+13a85f62-4f1d-4a8f-b3f3-81e3a6313585,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Angry,Personal reflection,2024-06-07T14:30:03.875157,Try meditation
+052f1735-54f0-45d4-8a34-3d2673dd8df5,5106ad09-1514-4481-98bd-a64b172c7f61,Stressed,Personal reflection,2024-04-23T14:30:03.875173,Take a break
+b8549299-b92c-4f2b-acbe-ff33c6639cd7,44ed067a-6905-49e0-a4f4-2116592c2ad2,Stressed,Personal reflection,2024-08-28T14:30:03.875189,Take a break
+e3aa389f-07a6-4c61-8116-9d1a3f733c80,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Neutral,Personal reflection,2024-10-11T14:30:03.875207,No action assigned
+fe91a681-04f1-456d-bcec-c0aa8266fdf0,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Calm,Personal reflection,2024-04-01T14:30:03.875223,Enjoy the moment
+afb810dd-53a8-4cc9-9690-ead3c60138a4,9fdb3419-adbe-4550-ba32-124b8be5f562,Depressed,Personal reflection,2024-11-22T14:30:03.875238,Talk to a friend or therapist
+39356d23-5437-4bdf-b069-7580979642cd,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Excited,Personal reflection,2025-01-08T14:30:03.875254,Celebrate with friends
+b5ac4e2f-c257-4aeb-9713-3f756deb42c7,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Angry,Personal reflection,2025-01-29T14:30:03.875269,Try meditation
+9a193151-66a6-4566-aecd-38127488e7ac,57a0f366-222e-4464-844d-0d86c61c6b5c,Angry,Personal reflection,2025-01-01T14:30:03.875284,Try meditation
+376d2916-0448-4c00-bad8-fccb88343242,75910b19-8bce-4797-9958-b71ea0d50486,Calm,Personal reflection,2024-04-27T14:30:03.875303,Enjoy the moment
+b528ff21-12e2-4ead-a168-e137c83902d4,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Relaxed,Personal reflection,2024-04-24T14:30:03.875321,No action assigned
+4b214a13-41a4-41b0-8522-dd3d0e2e92c5,2413cfc6-785f-4340-b331-7a56e35e2aab,Relaxed,Personal reflection,2024-04-21T14:30:03.875337,No action assigned
+748ba6c1-6008-405a-987e-9e7f23a3e29c,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Stressed,Personal reflection,2025-02-07T14:30:03.875354,Take a break
+52b66fcb-c52e-49bd-ac48-309464905d8f,78643191-4894-42ce-b6ed-c645582e8822,Neutral,Personal reflection,2024-10-03T14:30:03.875370,No action assigned
+8f03370f-5dd9-445b-9f13-c5d45416cc0c,44ed067a-6905-49e0-a4f4-2116592c2ad2,Excited,Personal reflection,2024-05-21T14:30:03.875386,Celebrate with friends
+5a9a96ee-7a43-418a-9cc9-68391c92db53,5106ad09-1514-4481-98bd-a64b172c7f61,Sad,Personal reflection,2024-11-29T14:30:03.875402,Listen to relaxing music
+b525d669-5aa2-487c-842b-085caff06b1c,5d42377a-af01-4b1b-a802-c7040598ccb6,Sad,Personal reflection,2024-07-19T14:30:03.875418,Listen to relaxing music
+69f2a9c3-b140-47b6-8ccc-3f88c89ab711,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Neutral,Personal reflection,2025-02-16T14:30:03.875434,No action assigned
+e3480ed2-b504-4ae9-9015-22f3e3c4c064,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Depressed,Personal reflection,2025-01-19T14:30:03.875449,Talk to a friend or therapist
+d24da95a-a888-4fad-9374-14488ac324ff,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Relaxed,Personal reflection,2024-11-09T14:30:03.875468,No action assigned
+7dbe8848-cf4f-4f56-bc8f-8564dcb6d0c8,e38ab0f7-43c6-4ffa-b309-52db441dba68,Depressed,Personal reflection,2024-11-22T14:30:03.875483,Talk to a friend or therapist
+179007f7-5952-441c-a853-81ee7e8c12bc,2413cfc6-785f-4340-b331-7a56e35e2aab,Depressed,Personal reflection,2024-04-29T14:30:03.875501,Talk to a friend or therapist
+6fb8b02d-70a4-4b90-b9f7-b2665763c061,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Calm,Personal reflection,2024-10-12T14:30:03.875517,Enjoy the moment
+a8b005e2-3fd2-4b7f-8163-c37afa10a745,2413cfc6-785f-4340-b331-7a56e35e2aab,Happy,Personal reflection,2024-12-18T14:30:03.875534,Continue daily routine
+2bbe73bb-1359-477e-bdf5-bf6d430ca038,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Stressed,Personal reflection,2024-04-30T14:30:03.875550,Take a break
+00ec2bd7-41a6-48cd-bbda-fa47c752d393,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Stressed,Personal reflection,2024-11-15T14:30:03.875567,Take a break
+45d19608-b451-4ddf-b9f9-c8dc1637054e,2413cfc6-785f-4340-b331-7a56e35e2aab,Stressed,Personal reflection,2024-12-18T14:30:03.875592,Take a break
+66f1a725-2464-4579-89f2-63df0b5c8117,64c4608a-4849-4b58-be58-279217dcbd93,Sad,Personal reflection,2024-08-19T14:30:03.875609,Listen to relaxing music
+c96313d5-c3a2-4ab4-b606-450457f71fe7,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Angry,Personal reflection,2024-11-07T14:30:03.875626,Try meditation
+f6a05218-7763-43b2-aae9-e20b2aec5fe6,7e9db291-18a4-4c3e-838a-35a35a70d396,Relaxed,Personal reflection,2024-07-07T14:30:03.875642,No action assigned
+4e0184b3-a872-48d8-81b2-7fd97e24b90c,7cb7702b-38d0-4c91-9ae0-00f96462af01,Stressed,Personal reflection,2024-11-08T14:30:03.875659,Take a break
+ff293f79-52d0-43fe-880c-a60782fe3a99,ee7fd89d-bc19-4360-8548-5dcc170c238c,Angry,Personal reflection,2024-05-09T14:30:03.875675,Try meditation
+bad7cb56-4ffb-4a48-bce8-212091afcfca,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Calm,Personal reflection,2024-05-21T14:30:03.875691,Enjoy the moment
+762b9ee8-811d-43e8-a8d9-ed965d5ca2ef,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Stressed,Personal reflection,2024-06-22T14:30:03.875708,Take a break
+fd34aaf1-b2c4-4856-8a6d-36a8c3e714ab,20c4bc00-a849-435d-b884-20e2ddfca6d7,Excited,Personal reflection,2024-10-07T14:30:03.875724,Celebrate with friends
+f7dc1b57-2b3d-4798-9aeb-8b77837a2414,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Angry,Personal reflection,2025-03-02T14:30:03.875742,Try meditation
+0c23590f-7347-4c71-b69a-1bc3d184c2e4,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Neutral,Personal reflection,2024-04-18T14:30:03.875761,No action assigned
+3e931728-1ebc-48e0-9ea4-b444b443e695,2413cfc6-785f-4340-b331-7a56e35e2aab,Calm,Personal reflection,2024-10-26T14:30:03.875780,Enjoy the moment
+e4988c20-01e6-4c69-b0ae-8b0238dc9bcf,becc7a2a-0155-4c4b-8647-e0e092c15d45,Anxious,Personal reflection,2024-10-13T14:30:03.875796,Practice deep breathing
+1b2ba18a-5e94-4540-bc68-6827b06bd03a,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Anxious,Personal reflection,2024-05-12T14:30:03.875812,Practice deep breathing
+c7424e4f-b667-4174-b47b-bfdcf7541760,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Calm,Personal reflection,2024-04-14T14:30:03.875828,Enjoy the moment
+ff8b89cd-29de-499e-a7a9-de16cdc01e94,e2102598-256b-4e8c-839a-fc7524787f9d,Calm,Personal reflection,2024-07-02T14:30:03.875845,Enjoy the moment
+3f2b6db1-acb3-499b-8c93-052b28ac20ca,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Anxious,Personal reflection,2024-04-14T14:30:03.875860,Practice deep breathing
+54f320e8-4016-4a26-9ee6-5fac01269dac,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Happy,Personal reflection,2024-09-24T14:30:03.875876,Continue daily routine
+e62f1c77-edcb-4a47-a140-cc27499882b9,ee7fd89d-bc19-4360-8548-5dcc170c238c,Stressed,Personal reflection,2024-11-17T14:30:03.875892,Take a break
+761ffb39-37aa-4222-9fe5-7d91f15b3140,9fdb3419-adbe-4550-ba32-124b8be5f562,Stressed,Personal reflection,2025-02-08T14:30:03.875907,Take a break
+aeea52c5-f4ee-4533-8153-09ef2cc89aa9,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Angry,Personal reflection,2024-10-21T14:30:03.875923,Try meditation
+2674c8ac-ef97-4384-8332-22434f5465ec,9a149800-3d1a-44e2-b911-fde92e3b0eea,Depressed,Personal reflection,2024-05-28T14:30:03.875940,Talk to a friend or therapist
+6b70a21c-7928-4723-883f-603934c61084,8d049976-e3e5-4ec7-89d5-35badad24022,Calm,Personal reflection,2024-10-10T14:30:03.875957,Enjoy the moment
+07c1937d-ed73-452e-a09a-aed4699b3c6f,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Stressed,Personal reflection,2024-05-10T14:30:03.875974,Take a break
+c3f4884e-c395-4a45-9fec-e35cdcf4e357,8d049976-e3e5-4ec7-89d5-35badad24022,Depressed,Personal reflection,2025-01-13T14:30:03.875990,Talk to a friend or therapist
+8ae8cff2-e0c6-43a9-9b31-cfd47ff14f74,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Stressed,Personal reflection,2024-11-25T14:30:03.876008,Take a break
+1907c2d8-bfe5-40eb-b7ad-4c0953561403,f472673b-129c-4c2d-b8ca-3f6d59637d61,Depressed,Personal reflection,2024-12-01T14:30:03.876023,Talk to a friend or therapist
+ce584586-e271-4f68-98fc-c18973c02464,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Calm,Personal reflection,2024-05-06T14:30:03.876040,Enjoy the moment
+4060e1e1-76c4-4c54-807d-59c6600536d7,d6da8ecd-2388-4869-bc3a-3c2680f32130,Happy,Personal reflection,2024-07-07T14:30:03.876056,Continue daily routine
+692c4859-5ecd-49ae-ae09-174a30a5cba4,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Anxious,Personal reflection,2024-04-21T14:30:03.876097,Practice deep breathing
+8a123c48-a25a-425e-8d27-073ca70f74ef,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Neutral,Personal reflection,2024-06-12T14:30:03.876143,No action assigned
+48846157-14bc-4367-b8a2-cf14b881f6ff,e2102598-256b-4e8c-839a-fc7524787f9d,Relaxed,Personal reflection,2024-03-17T14:30:03.876164,No action assigned
+3165a077-d5d5-486e-a809-ed297cb627c6,64c4608a-4849-4b58-be58-279217dcbd93,Excited,Personal reflection,2024-04-13T14:30:03.876181,Celebrate with friends
+7f852f58-2439-4cd2-8ed8-579a4c473a9d,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Sad,Personal reflection,2024-12-11T14:30:03.876197,Listen to relaxing music
+584c3488-f4d0-4d7f-b103-0efe2adb5022,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Calm,Personal reflection,2024-09-11T14:30:03.876213,Enjoy the moment
+299ab293-700c-4145-9e45-cc8a46c8e626,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Anxious,Personal reflection,2025-02-03T14:30:03.876229,Practice deep breathing
+4dd86270-1cec-4b15-8477-c8d6e6ff9c13,2f410741-3375-4262-ac78-61269a66718c,Neutral,Personal reflection,2025-02-07T14:30:03.876245,No action assigned
+a90d1a01-61c2-4d6c-a81d-887b380a4b37,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Stressed,Personal reflection,2024-04-22T14:30:03.876261,Take a break
+1cecc5f7-a566-4f13-8c0e-d9050e4f236b,9fdb3419-adbe-4550-ba32-124b8be5f562,Excited,Personal reflection,2024-08-12T14:30:03.876277,Celebrate with friends
+31b6bdde-969d-4267-99f7-a57f6afb11f9,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Calm,Personal reflection,2024-08-04T14:30:03.876293,Enjoy the moment
+cc06e3c3-8122-484c-8792-397615fdd493,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Neutral,Personal reflection,2025-02-17T14:30:03.876309,No action assigned
+5a4a8f66-1109-4690-a61e-2fec4a9f28c3,28b18f0d-d8b4-4521-9978-c7730938ddaa,Sad,Personal reflection,2024-11-12T14:30:03.876327,Listen to relaxing music
+87d93335-8e24-462c-bc49-94f2c601ed67,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Anxious,Personal reflection,2024-06-19T14:30:03.876345,Practice deep breathing
+1b5071bd-0c0e-47f1-ba18-562a7a26e8bd,44ed067a-6905-49e0-a4f4-2116592c2ad2,Calm,Personal reflection,2025-02-19T14:30:03.876361,Enjoy the moment
+8a6fc627-c283-4003-a09c-e3abeddd2b13,75910b19-8bce-4797-9958-b71ea0d50486,Happy,Personal reflection,2024-09-15T14:30:03.876377,Continue daily routine
+4f47a884-1b98-4d6b-9d50-04bb1bb78f57,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Calm,Personal reflection,2024-08-02T14:30:03.876393,Enjoy the moment
+04b9c108-12a7-4ac4-9606-571da508f134,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Excited,Personal reflection,2024-08-16T14:30:03.876408,Celebrate with friends
+00fcb122-4c7e-407b-abc2-46d42bbff10d,e10f192f-da8c-4b9b-a950-32e56777a8e5,Relaxed,Personal reflection,2025-01-11T14:30:03.876425,No action assigned
+22595dad-9f3b-49ce-b827-3baff018b4a8,5106ad09-1514-4481-98bd-a64b172c7f61,Relaxed,Personal reflection,2024-09-11T14:30:03.876442,No action assigned
+ff556d8d-58b9-4624-994f-8f73843677b3,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Happy,Personal reflection,2025-01-07T14:30:03.876458,Continue daily routine
+db2b6eaa-609e-4c65-a1be-c8576b85e695,151f169f-30af-4287-ace4-3d22846e622b,Sad,Personal reflection,2024-04-04T14:30:03.876473,Listen to relaxing music
+86ea96d1-1809-4106-b6c1-ed942e9d1345,9a149800-3d1a-44e2-b911-fde92e3b0eea,Anxious,Personal reflection,2024-08-26T14:30:03.876491,Practice deep breathing
+34e7ed97-46d8-4001-a98e-404e5dfeeb96,78643191-4894-42ce-b6ed-c645582e8822,Calm,Personal reflection,2025-02-17T14:30:03.876506,Enjoy the moment
+19fb2d47-a647-4a4b-ad6f-3ae223f0851d,becc7a2a-0155-4c4b-8647-e0e092c15d45,Sad,Personal reflection,2024-09-13T14:30:03.876522,Listen to relaxing music
+51a88c08-1319-48fe-a04b-aa060a3cabbd,7e9db291-18a4-4c3e-838a-35a35a70d396,Excited,Personal reflection,2024-07-07T14:30:03.876539,Celebrate with friends
+40aa3133-fc77-4484-b044-15a2e34d7ffd,5d42377a-af01-4b1b-a802-c7040598ccb6,Anxious,Personal reflection,2024-12-26T14:30:03.876558,Practice deep breathing
+599a04ca-14c5-453d-873c-bd6129b4510a,28b18f0d-d8b4-4521-9978-c7730938ddaa,Calm,Personal reflection,2024-07-20T14:30:03.876574,Enjoy the moment
+9941f124-b41e-4716-8315-b60813328f2a,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Depressed,Personal reflection,2024-10-03T14:30:03.876591,Talk to a friend or therapist
+cec9ffcc-27ce-4bb8-869f-305dba16abd8,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Neutral,Personal reflection,2024-07-15T14:30:03.876607,No action assigned
+0794c8b6-cbb4-460f-8ed5-0a242bc724bb,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Sad,Personal reflection,2024-09-23T14:30:03.876624,Listen to relaxing music
+87f86b2b-b895-448f-9464-adf361f1cb10,75910b19-8bce-4797-9958-b71ea0d50486,Sad,Personal reflection,2024-09-21T14:30:03.876639,Listen to relaxing music
+1572883d-3614-45c3-9b4e-0413b77d6faa,57a0f366-222e-4464-844d-0d86c61c6b5c,Happy,Personal reflection,2024-09-22T14:30:03.876657,Continue daily routine
+7d2b9e52-cecc-4043-abfa-209789ce0265,7cb7702b-38d0-4c91-9ae0-00f96462af01,Sad,Personal reflection,2024-07-28T14:30:03.876680,Listen to relaxing music
+91a98dfc-3f91-4765-a20c-efd845fc105e,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Stressed,Personal reflection,2024-03-18T14:30:03.876697,Take a break
+2db0a8d0-9da6-4e83-99a0-806c19319cf5,7e9db291-18a4-4c3e-838a-35a35a70d396,Angry,Personal reflection,2025-01-21T14:30:03.876712,Try meditation
+20037586-eb94-4d83-b638-b3ff00186622,2f410741-3375-4262-ac78-61269a66718c,Sad,Personal reflection,2024-08-19T14:30:03.876728,Listen to relaxing music
+61b60868-d68c-4fe0-959f-c46e0a3512c3,d6da8ecd-2388-4869-bc3a-3c2680f32130,Angry,Personal reflection,2024-12-11T14:30:03.876743,Try meditation
+d6224bdf-9963-4387-8a02-a137d4848434,151f169f-30af-4287-ace4-3d22846e622b,Sad,Personal reflection,2024-11-04T14:30:03.876761,Listen to relaxing music
+d45c4f0e-8071-495f-8600-f5b24808b85f,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Excited,Personal reflection,2025-02-17T14:30:03.876781,Celebrate with friends
+49e2aae0-648a-4547-b79a-6ee58dce0372,2f410741-3375-4262-ac78-61269a66718c,Excited,Personal reflection,2024-10-03T14:30:03.876925,Celebrate with friends
+279699eb-d2cc-4ab5-9277-39e3b70d5966,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Anxious,Personal reflection,2024-05-27T14:30:03.877217,Practice deep breathing
+85c36c71-37c4-41c1-ab0e-73dfd9cb5bf3,48887b97-8acc-453f-8143-d39045220d8b,Calm,Personal reflection,2025-01-04T14:30:03.877275,Enjoy the moment
+c75bce6e-65a5-408d-bb82-ef45158daeae,7cb7702b-38d0-4c91-9ae0-00f96462af01,Sad,Personal reflection,2024-11-13T14:30:03.877294,Listen to relaxing music
+ac399d28-ff74-42c9-9682-b41fdd001169,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Calm,Personal reflection,2025-01-24T14:30:03.877307,Enjoy the moment
+db29588c-e9a0-4600-b183-e8e861d5c09e,7cb7702b-38d0-4c91-9ae0-00f96462af01,Excited,Personal reflection,2024-11-26T14:30:03.877318,Celebrate with friends
+20abb3a0-34bd-4216-9ed5-7c9682b6a185,9a149800-3d1a-44e2-b911-fde92e3b0eea,Depressed,Personal reflection,2025-02-26T14:30:03.877329,Talk to a friend or therapist
+2f803ff0-c100-4098-b5ba-1204cce5cecc,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Sad,Personal reflection,2024-05-20T14:30:03.877349,Listen to relaxing music
+03681de9-612f-43ce-a66b-ed933175d79b,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Happy,Personal reflection,2024-11-15T14:30:03.877362,Continue daily routine
+c7629d11-edfb-4f00-8ceb-4e55e630fd48,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Excited,Personal reflection,2024-09-04T14:30:03.877373,Celebrate with friends
+686efc65-429a-42e0-896a-27596a189e57,7cb7702b-38d0-4c91-9ae0-00f96462af01,Relaxed,Personal reflection,2024-07-10T14:30:03.877383,No action assigned
+bd41a54e-ae51-430c-a322-6b8a72ceb5b9,9a149800-3d1a-44e2-b911-fde92e3b0eea,Anxious,Personal reflection,2024-07-19T14:30:03.877394,Practice deep breathing
+a1ff911a-0c4e-4db7-b6f9-ac33c3f2d9b0,14c109c9-cb20-45f9-8a71-112782b15287,Anxious,Personal reflection,2024-05-23T14:30:03.877405,Practice deep breathing
+305ee2ed-1d2c-4ec5-8911-39ba2e95df08,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Relaxed,Personal reflection,2024-12-07T14:30:03.877415,No action assigned
+d313ba74-1723-45d7-ae20-ca191ea8f6b6,28b18f0d-d8b4-4521-9978-c7730938ddaa,Anxious,Personal reflection,2024-11-23T14:30:03.877428,Practice deep breathing
+13146727-fefb-4b01-b946-4d1d5cf80eb6,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Sad,Personal reflection,2024-09-17T14:30:03.877444,Listen to relaxing music
+5ae10290-395c-41d5-9c3c-dceaf9a4797e,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Happy,Personal reflection,2024-06-24T14:30:03.877461,Continue daily routine
+6af200bb-67e5-4875-b78a-5f19636614b0,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Stressed,Personal reflection,2024-09-02T14:30:03.877476,Take a break
+57fe6b31-2f6d-406a-84f0-dc4d337de05b,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Depressed,Personal reflection,2024-05-12T14:30:03.877486,Talk to a friend or therapist
+f097d48b-e73a-40d0-bf1e-e31bdb50ed75,75910b19-8bce-4797-9958-b71ea0d50486,Excited,Personal reflection,2024-07-01T14:30:03.877497,Celebrate with friends
+24ffdcb5-b223-4a66-8d08-5e723ddbbbc6,78643191-4894-42ce-b6ed-c645582e8822,Stressed,Personal reflection,2024-07-29T14:30:03.877512,Take a break
+5da7951f-b061-4f7b-82ff-84f058f7c292,14c109c9-cb20-45f9-8a71-112782b15287,Anxious,Personal reflection,2024-04-06T14:30:03.877526,Practice deep breathing
+7af23f58-b9b4-45c2-8824-6f45f5848905,becc7a2a-0155-4c4b-8647-e0e092c15d45,Depressed,Personal reflection,2024-10-13T14:30:03.877541,Talk to a friend or therapist
+0c887a5e-62e3-40bd-b480-786b7b7e501b,2413cfc6-785f-4340-b331-7a56e35e2aab,Sad,Personal reflection,2025-01-19T14:30:03.877564,Listen to relaxing music
+2bf764f8-7ba6-42d1-8fb2-91b8ac28a647,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Relaxed,Personal reflection,2024-08-06T14:30:03.877599,No action assigned
+91fdff00-43c6-411d-be6d-cb2119b8e612,28b18f0d-d8b4-4521-9978-c7730938ddaa,Happy,Personal reflection,2024-05-16T14:30:03.877613,Continue daily routine
+4556fc63-376e-495d-ac33-09a19038c673,57a0f366-222e-4464-844d-0d86c61c6b5c,Excited,Personal reflection,2024-07-13T14:30:03.877628,Celebrate with friends
+81a602cb-609d-4a70-bc91-e1e5c0684d4d,78643191-4894-42ce-b6ed-c645582e8822,Angry,Personal reflection,2025-01-27T14:30:03.877644,Try meditation
+e1f3e0da-da97-43bc-80c6-e4ef39aaf7cb,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Neutral,Personal reflection,2024-11-19T14:30:03.877659,No action assigned
+74ae3f1f-bc1a-4f03-85cc-42f67c4de4d0,f17321f1-dc90-4bac-a6e9-bd1e181770da,Neutral,Personal reflection,2024-03-12T14:30:03.877670,No action assigned
+24d25d20-9229-460a-9b47-6150b082c08a,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Neutral,Personal reflection,2025-01-13T14:30:03.877687,No action assigned
+15e585ac-ac49-4caf-82ad-36f86c73fec8,57a0f366-222e-4464-844d-0d86c61c6b5c,Anxious,Personal reflection,2024-06-04T14:30:03.877703,Practice deep breathing
+85bbebf4-d08c-4940-b546-13c2b858fae7,7e9db291-18a4-4c3e-838a-35a35a70d396,Calm,Personal reflection,2024-09-21T14:30:03.877725,Enjoy the moment
+f6b1abde-b89a-4e75-863f-5480d3374ad6,14c109c9-cb20-45f9-8a71-112782b15287,Anxious,Personal reflection,2024-06-24T14:30:03.877754,Practice deep breathing
+1f006c72-31a9-4544-8a51-b74ad101df38,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Neutral,Personal reflection,2025-02-16T14:30:03.877769,No action assigned
+204c17bd-2abf-4a31-b4c4-051f59ef4958,7cb7702b-38d0-4c91-9ae0-00f96462af01,Stressed,Personal reflection,2024-11-08T14:30:03.877784,Take a break
+9e8333af-ad84-4c67-a597-2fc6343508ef,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Happy,Personal reflection,2024-09-10T14:30:03.877802,Continue daily routine
+666636fc-0336-4866-accb-2bd847256ba3,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Neutral,Personal reflection,2024-10-20T14:30:03.877831,No action assigned
+50038886-444b-476f-b5d0-817e911e8848,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Angry,Personal reflection,2024-04-15T14:30:03.877868,Try meditation
+e965fec5-5ce7-4463-9ddc-51aa95bd9b60,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Relaxed,Personal reflection,2024-05-27T14:30:03.877900,No action assigned
+4af4cfb4-a5d0-472a-9ad4-033525f7dccd,48887b97-8acc-453f-8143-d39045220d8b,Happy,Personal reflection,2024-12-17T14:30:03.877919,Continue daily routine
+5a390330-3efc-4876-9426-5fe22ac8b757,151f169f-30af-4287-ace4-3d22846e622b,Calm,Personal reflection,2024-12-29T14:30:03.877938,Enjoy the moment
+bab745cc-0eba-4e06-8fda-6dd93b6dc7c8,75910b19-8bce-4797-9958-b71ea0d50486,Neutral,Personal reflection,2024-05-24T14:30:03.877951,No action assigned
+822cbafa-e159-403e-b66f-ba71ec4dd4be,9fdb3419-adbe-4550-ba32-124b8be5f562,Calm,Personal reflection,2024-03-18T14:30:03.878196,Enjoy the moment
+a36b23bb-e122-4ef8-abc4-b97cf574a384,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Excited,Personal reflection,2025-01-02T14:30:03.878269,Celebrate with friends
+0a6703fa-a1b2-41f6-be9a-2136148b5670,64c4608a-4849-4b58-be58-279217dcbd93,Anxious,Personal reflection,2024-12-09T14:30:03.878292,Practice deep breathing
+63f84345-987e-47ff-8bfe-a4ba59bede0a,ee7fd89d-bc19-4360-8548-5dcc170c238c,Neutral,Personal reflection,2024-12-12T14:30:03.878304,No action assigned
+f7d746e5-437d-40fa-923c-86319186d7a1,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Neutral,Personal reflection,2024-12-30T14:30:03.878401,No action assigned
+df96c8bc-04db-4ac2-be53-3c1e4adf5824,e2102598-256b-4e8c-839a-fc7524787f9d,Excited,Personal reflection,2024-12-18T14:30:03.878434,Celebrate with friends
+b2c120e1-63b7-407d-8f2a-92bec560f741,7e9db291-18a4-4c3e-838a-35a35a70d396,Happy,Personal reflection,2024-05-23T14:30:03.878447,Continue daily routine
+57451165-d23d-4f1e-bbf0-f0cfdd784f9c,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Sad,Personal reflection,2025-01-08T14:30:03.878458,Listen to relaxing music
+73ecdb8d-7bda-4346-93b8-61f7baf14e92,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Sad,Personal reflection,2024-08-20T14:30:03.878469,Listen to relaxing music
+ea39dc65-5e3d-4c70-a999-d9075b59a295,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Relaxed,Personal reflection,2024-04-30T14:30:03.878480,No action assigned
+585a9578-6da8-4fe8-abef-d7b2cbe1bbc5,5d42377a-af01-4b1b-a802-c7040598ccb6,Happy,Personal reflection,2024-11-15T14:30:03.878490,Continue daily routine
+fb539cda-349a-4a33-b8b2-c9fd4a93f155,2f410741-3375-4262-ac78-61269a66718c,Depressed,Personal reflection,2024-09-07T14:30:03.878500,Talk to a friend or therapist
+e722b0af-ec9e-4b12-bd0e-774ccf148044,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Angry,Personal reflection,2025-02-13T14:30:03.878521,Try meditation
+0db3c250-ea03-4781-bbaf-548696f6dc53,14c109c9-cb20-45f9-8a71-112782b15287,Angry,Personal reflection,2024-11-17T14:30:03.878550,Try meditation
+5ac0f14a-d73e-4a69-9f31-d2f784898748,5d42377a-af01-4b1b-a802-c7040598ccb6,Neutral,Personal reflection,2024-04-08T14:30:03.878561,No action assigned
+a7e64e94-28c8-4c2e-ab2c-d6f697a08c58,f17321f1-dc90-4bac-a6e9-bd1e181770da,Stressed,Personal reflection,2024-08-08T14:30:03.878572,Take a break
+c7da2bf9-f3a5-413e-88b7-0796b9b7c565,5d42377a-af01-4b1b-a802-c7040598ccb6,Sad,Personal reflection,2024-09-18T14:30:03.878583,Listen to relaxing music
+7c98361d-75ea-4549-bc35-b127933b792b,75910b19-8bce-4797-9958-b71ea0d50486,Angry,Personal reflection,2024-12-19T14:30:03.878593,Try meditation
+66ea5a74-6ba5-4bf2-a7cc-f9769311311f,f472673b-129c-4c2d-b8ca-3f6d59637d61,Excited,Personal reflection,2024-12-30T14:30:03.878604,Celebrate with friends
+c55506ac-88f0-4435-a136-fb7231b83b7c,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2024-04-17T14:30:03.878617,Talk to a friend or therapist
+39e1bb1a-ec1b-4130-9d7b-7d74cac6bcc1,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Sad,Personal reflection,2024-06-07T14:30:03.878627,Listen to relaxing music
+09cccde4-d3f2-47b1-a8a5-edd9ba8377fe,becc7a2a-0155-4c4b-8647-e0e092c15d45,Relaxed,Personal reflection,2024-10-09T14:30:03.878638,No action assigned
+5d1f12b6-d50a-4004-ae69-b5cf36333d17,ee7fd89d-bc19-4360-8548-5dcc170c238c,Calm,Personal reflection,2024-09-13T14:30:03.878648,Enjoy the moment
+1c85997e-55fc-4c79-9eb8-4ae3632bf410,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Happy,Personal reflection,2024-08-06T14:30:03.878659,Continue daily routine
+5e213040-0963-4c36-9b44-a63088d75522,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Happy,Personal reflection,2024-11-17T14:30:03.878669,Continue daily routine
+6c3be78a-bcd3-48b1-b529-985ba4185084,48887b97-8acc-453f-8143-d39045220d8b,Calm,Personal reflection,2025-02-08T14:30:03.878681,Enjoy the moment
+fa7806ee-b23f-4d86-b8e3-fbdcb8ed3092,75910b19-8bce-4797-9958-b71ea0d50486,Anxious,Personal reflection,2024-06-17T14:30:03.878694,Practice deep breathing
+e8999e1b-77c8-4726-be0a-c55562af6117,f472673b-129c-4c2d-b8ca-3f6d59637d61,Depressed,Personal reflection,2024-10-28T14:30:03.878713,Talk to a friend or therapist
+3c50dd3e-2156-45d6-b2f5-1326c8589865,28b18f0d-d8b4-4521-9978-c7730938ddaa,Relaxed,Personal reflection,2024-06-07T14:30:03.878734,No action assigned
+d5f2b302-f445-485e-bee1-129be8446e1a,57a0f366-222e-4464-844d-0d86c61c6b5c,Calm,Personal reflection,2025-01-23T14:30:03.878744,Enjoy the moment
+993c4395-b735-43a7-8889-85394e9104f4,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Stressed,Personal reflection,2024-04-02T14:30:03.878754,Take a break
+cbd1e0da-cab5-45d3-960b-e5f3b0281aa2,28b18f0d-d8b4-4521-9978-c7730938ddaa,Anxious,Personal reflection,2025-02-21T14:30:03.878765,Practice deep breathing
+34e8e39a-b512-4e1d-b80f-47311dfdeb8b,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Excited,Personal reflection,2024-04-06T14:30:03.878780,Celebrate with friends
+5ffd87c5-70ed-455c-8340-b6b15c8d4574,20c4bc00-a849-435d-b884-20e2ddfca6d7,Depressed,Personal reflection,2024-10-02T14:30:03.878796,Talk to a friend or therapist
+fa467e9e-d93c-42b1-bd3f-90209eded501,44ed067a-6905-49e0-a4f4-2116592c2ad2,Calm,Personal reflection,2024-12-21T14:30:03.878822,Enjoy the moment
+8ddc7b65-512e-41d0-a595-f327a14a9d73,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Angry,Personal reflection,2025-01-16T14:30:03.878845,Try meditation
+9af28b24-1b21-4690-9836-eadf1a2426e4,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Calm,Personal reflection,2024-05-31T14:30:03.878855,Enjoy the moment
+ae687e3d-b523-4c57-bc36-0f83f00c2f8d,151f169f-30af-4287-ace4-3d22846e622b,Angry,Personal reflection,2025-02-23T14:30:03.878866,Try meditation
+75d8c1f0-f3ec-4833-a955-482988a47109,7cb7702b-38d0-4c91-9ae0-00f96462af01,Relaxed,Personal reflection,2024-07-02T14:30:03.878876,No action assigned
+57844a34-eaca-43fd-81b6-66fe1a0d8dea,7e9db291-18a4-4c3e-838a-35a35a70d396,Neutral,Personal reflection,2024-05-05T14:30:03.878887,No action assigned
+6c4d9254-b0cc-4ee3-af0a-2ba3055bee06,48887b97-8acc-453f-8143-d39045220d8b,Depressed,Personal reflection,2024-07-15T14:30:03.878897,Talk to a friend or therapist
+55f52d45-5e48-413a-83e8-11ec25e3a962,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Happy,Personal reflection,2025-01-09T14:30:03.878915,Continue daily routine
+752456c2-4e27-4b94-a65a-5ee0920023ea,becc7a2a-0155-4c4b-8647-e0e092c15d45,Neutral,Personal reflection,2024-11-02T14:30:03.878927,No action assigned
+2b6fb353-5839-4f39-a4e4-fc7d6682df26,8d049976-e3e5-4ec7-89d5-35badad24022,Anxious,Personal reflection,2024-10-16T14:30:03.878938,Practice deep breathing
+898464cc-771b-4752-97e5-52b5e8b0c492,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Happy,Personal reflection,2024-06-11T14:30:03.878948,Continue daily routine
+a8f2e8f9-04b1-4473-913b-d5bde1369838,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Stressed,Personal reflection,2024-06-28T14:30:03.878960,Take a break
+e91f4bc0-37d4-4062-b426-aa1b35d3b9b0,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Depressed,Personal reflection,2025-02-17T14:30:03.878978,Talk to a friend or therapist
+1fb39af3-294f-4d58-be36-87e5ed209d9e,9fdb3419-adbe-4550-ba32-124b8be5f562,Neutral,Personal reflection,2024-04-05T14:30:03.878988,No action assigned
+642ee967-eef5-4ce0-9b3f-0e5b5113434f,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Neutral,Personal reflection,2024-12-24T14:30:03.878998,No action assigned
+fc593717-68a6-47d0-b30f-18091a464533,5d42377a-af01-4b1b-a802-c7040598ccb6,Calm,Personal reflection,2024-05-17T14:30:03.879010,Enjoy the moment
+2caa1da6-9d0e-4b93-b1f9-bd1c84c94d0a,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Anxious,Personal reflection,2024-11-28T14:30:03.879020,Practice deep breathing
+301ef8b7-efcb-43e8-8cb9-7eddb50a0d12,5d42377a-af01-4b1b-a802-c7040598ccb6,Excited,Personal reflection,2024-11-30T14:30:03.879031,Celebrate with friends
+5ecfe4c5-34e2-4147-9ef0-bcf0da7f3217,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Angry,Personal reflection,2024-08-20T14:30:03.879041,Try meditation
+8f997f66-e7cc-448d-be8e-83b036828fac,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Angry,Personal reflection,2024-05-22T14:30:03.879052,Try meditation
+0fa02b87-cff1-49f5-96f4-5b179a18be8a,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Angry,Personal reflection,2024-06-05T14:30:03.879062,Try meditation
+390598a8-63f9-4324-b860-d1c614a005d8,44ed067a-6905-49e0-a4f4-2116592c2ad2,Calm,Personal reflection,2025-03-02T14:30:03.879073,Enjoy the moment
+17b6b4b1-10b7-4050-8d37-2d6b523304e9,2413cfc6-785f-4340-b331-7a56e35e2aab,Angry,Personal reflection,2024-05-21T14:30:03.879083,Try meditation
+c5dd1ba8-82e0-483b-838d-c3fff4fa6989,28b18f0d-d8b4-4521-9978-c7730938ddaa,Relaxed,Personal reflection,2025-01-10T14:30:03.879095,No action assigned
+c6a138a5-c21e-48a6-a0c4-e9fd787d2b07,151f169f-30af-4287-ace4-3d22846e622b,Stressed,Personal reflection,2024-09-27T14:30:03.879105,Take a break
+d0c3daf6-2698-4ecd-b5b8-74c19b2f9bd9,7e9db291-18a4-4c3e-838a-35a35a70d396,Sad,Personal reflection,2024-08-03T14:30:03.879115,Listen to relaxing music
+07c60623-46c9-4eb7-a891-f6f2ecd157e4,5106ad09-1514-4481-98bd-a64b172c7f61,Sad,Personal reflection,2024-04-19T14:30:03.879125,Listen to relaxing music
+5c1e9ae4-9bb7-4984-9991-06e7c8141a61,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Anxious,Personal reflection,2025-02-03T14:30:03.879137,Practice deep breathing
+9cd3e8ee-8d1d-4aaf-9e0f-badf872839d8,e2102598-256b-4e8c-839a-fc7524787f9d,Excited,Personal reflection,2024-10-01T14:30:03.879147,Celebrate with friends
+c40d08b5-3dae-437c-8348-7960159572b9,7e9db291-18a4-4c3e-838a-35a35a70d396,Excited,Personal reflection,2024-08-11T14:30:03.879162,Celebrate with friends
+4d4db090-a8f6-4293-ae82-1ef48822c706,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Neutral,Personal reflection,2024-11-29T14:30:03.879186,No action assigned
+dca411e3-5694-47fe-89a7-0ec076ed5c4f,f17321f1-dc90-4bac-a6e9-bd1e181770da,Sad,Personal reflection,2024-12-31T14:30:03.879202,Listen to relaxing music
+d933fe39-324c-4b22-b476-ee0e5f01846f,20c4bc00-a849-435d-b884-20e2ddfca6d7,Excited,Personal reflection,2025-01-17T14:30:03.879213,Celebrate with friends
+7b178884-42fa-49f8-aaa0-d4172714a603,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Excited,Personal reflection,2024-05-03T14:30:03.879226,Celebrate with friends
+ca8b8658-d2f1-44c7-8179-ec5026c3f724,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Angry,Personal reflection,2024-05-31T14:30:03.879241,Try meditation
+f74852c2-b603-43b9-a4da-fa6f67cc164c,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Depressed,Personal reflection,2024-06-04T14:30:03.879254,Talk to a friend or therapist
+02a659b6-872b-4b99-ac5b-b0dbb623ad2d,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Calm,Personal reflection,2024-03-11T14:30:03.879268,Enjoy the moment
+88e51d16-2156-4d31-9457-a615b7901d29,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Angry,Personal reflection,2024-05-30T14:30:03.879302,Try meditation
+32c6afe9-cc3d-4a60-b537-95613bccb0f4,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Happy,Personal reflection,2024-10-12T14:30:03.879436,Continue daily routine
+c3eac9ae-52f7-4463-b0a8-a5810d508bd5,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Angry,Personal reflection,2025-01-01T14:30:03.879498,Try meditation
+9c218d4c-e2fd-4500-bd3e-df9d5c01ffdf,2413cfc6-785f-4340-b331-7a56e35e2aab,Happy,Personal reflection,2024-10-05T14:30:03.879519,Continue daily routine
+17040483-a802-4a52-965f-932651b6c739,5d42377a-af01-4b1b-a802-c7040598ccb6,Happy,Personal reflection,2024-12-13T14:30:03.879546,Continue daily routine
+5ff65bc8-7d5c-435f-8428-47acf9d36e2a,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Angry,Personal reflection,2025-02-04T14:30:03.879660,Try meditation
+e587e606-ef8e-46d5-9dea-52915af2b4d6,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Stressed,Personal reflection,2024-08-13T14:30:03.879715,Take a break
+8e303bf6-2321-4bb8-ba99-c71e522940de,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Excited,Personal reflection,2024-05-27T14:30:03.879751,Celebrate with friends
+6ac6ff95-0eed-41d7-aa72-13ef0cc0b760,7e9db291-18a4-4c3e-838a-35a35a70d396,Stressed,Personal reflection,2024-06-12T14:30:03.879790,Take a break
+0a6d3370-d936-431f-9fb6-424727fb54ce,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Anxious,Personal reflection,2025-01-24T14:30:03.879804,Practice deep breathing
+1df21e62-a12d-4bcf-b783-7859fac5b4b8,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Anxious,Personal reflection,2024-03-27T14:30:03.879820,Practice deep breathing
+30a44e03-568e-4dd5-9d03-c8b55ea96eeb,57a0f366-222e-4464-844d-0d86c61c6b5c,Calm,Personal reflection,2024-10-26T14:30:03.879835,Enjoy the moment
+53f09ded-e736-457a-8f0b-6ff2160be404,8d049976-e3e5-4ec7-89d5-35badad24022,Anxious,Personal reflection,2024-05-12T14:30:03.879854,Practice deep breathing
+27631276-45cf-487a-8ab5-d7d37bb97bfa,e2102598-256b-4e8c-839a-fc7524787f9d,Calm,Personal reflection,2024-05-07T14:30:03.879865,Enjoy the moment
+98c0a55f-d26c-44a2-b6cf-c3f034a177b7,8d049976-e3e5-4ec7-89d5-35badad24022,Happy,Personal reflection,2024-08-06T14:30:03.879896,Continue daily routine
+628523f1-49cc-4a3c-9c71-2f5cb3639002,78643191-4894-42ce-b6ed-c645582e8822,Sad,Personal reflection,2024-07-01T14:30:03.879912,Listen to relaxing music
+b2e9acf2-13ec-40b5-a857-2b9badd9dc94,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Neutral,Personal reflection,2024-10-02T14:30:03.879953,No action assigned
+d110a6ad-5499-442b-9986-0dfe9d29f707,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Neutral,Personal reflection,2024-11-18T14:30:03.880057,No action assigned
+10049637-094f-483c-b59c-fb873336a84f,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Angry,Personal reflection,2025-02-16T14:30:03.880079,Try meditation
+0adfe27f-8259-4375-ae85-dda4a453a87d,5106ad09-1514-4481-98bd-a64b172c7f61,Depressed,Personal reflection,2024-06-14T14:30:03.880106,Talk to a friend or therapist
+be6fc0b7-dabe-4592-b96a-0c48ce90cbf2,becc7a2a-0155-4c4b-8647-e0e092c15d45,Calm,Personal reflection,2024-04-19T14:30:03.880157,Enjoy the moment
+e5e727be-7348-448e-8f78-6f53270d0a2e,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Anxious,Personal reflection,2024-11-24T14:30:03.880280,Practice deep breathing
+5ac7155f-e663-405b-9611-a7fd59a43b83,5d42377a-af01-4b1b-a802-c7040598ccb6,Neutral,Personal reflection,2025-01-14T14:30:03.880327,No action assigned
+87612020-81d0-484b-9da3-f8053681590e,75910b19-8bce-4797-9958-b71ea0d50486,Calm,Personal reflection,2024-07-14T14:30:03.880354,Enjoy the moment
+f0fd667c-316d-44a3-bc54-4f2c3f9a919a,e38ab0f7-43c6-4ffa-b309-52db441dba68,Anxious,Personal reflection,2024-09-15T14:30:03.880369,Practice deep breathing
+7e517a5d-506f-44c0-99bb-23c231119432,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Excited,Personal reflection,2024-03-21T14:30:03.880504,Celebrate with friends
+15485751-047b-44e4-bdbc-4485bc611a90,9fdb3419-adbe-4550-ba32-124b8be5f562,Calm,Personal reflection,2025-01-26T14:30:03.880555,Enjoy the moment
+28d1a7e3-9dc8-4b66-9c9f-040ca50d1f1f,f17321f1-dc90-4bac-a6e9-bd1e181770da,Calm,Personal reflection,2024-12-15T14:30:03.880576,Enjoy the moment
+45154832-72c6-4f40-aea1-c2a9948f6c8c,d6da8ecd-2388-4869-bc3a-3c2680f32130,Neutral,Personal reflection,2024-04-01T14:30:03.880597,No action assigned
+95e88077-981d-4fd0-be9e-f59e0a8d3e09,e2102598-256b-4e8c-839a-fc7524787f9d,Happy,Personal reflection,2024-08-08T14:30:03.880617,Continue daily routine
+1d4656f2-2fc7-4694-a637-31c73fbf4b68,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Happy,Personal reflection,2024-12-07T14:30:03.880638,Continue daily routine
+7dbdcc7e-05c2-4852-83bd-7553d9795caf,78643191-4894-42ce-b6ed-c645582e8822,Neutral,Personal reflection,2025-02-18T14:30:03.880663,No action assigned
+577216ad-6ac8-42d8-b4bf-f3aa08a43e98,2413cfc6-785f-4340-b331-7a56e35e2aab,Relaxed,Personal reflection,2024-12-21T14:30:03.880703,No action assigned
+1e5c087a-16e7-48dc-8337-e85b2cc9efab,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Anxious,Personal reflection,2024-03-13T14:30:03.880737,Practice deep breathing
+77c362d5-14e1-4eea-a168-f7527289c1ac,c674dfff-efca-4f45-b639-764d2ee8e905,Anxious,Personal reflection,2024-11-20T14:30:03.880754,Practice deep breathing
+ee52f158-9349-4626-b295-dbe9e99c0f25,48887b97-8acc-453f-8143-d39045220d8b,Calm,Personal reflection,2024-12-23T14:30:03.880887,Enjoy the moment
+59396ecf-d37a-4554-a9cc-041807ba0829,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Excited,Personal reflection,2024-07-02T14:30:03.880937,Celebrate with friends
+8d7a5a18-f6ef-4dd4-bd39-57da25f476f3,e10f192f-da8c-4b9b-a950-32e56777a8e5,Neutral,Personal reflection,2024-12-22T14:30:03.880969,No action assigned
+d9813039-ac02-4018-b64b-00802118fa34,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Relaxed,Personal reflection,2024-09-12T14:30:03.880983,No action assigned
+22b47a68-7c3a-48e6-b34c-5f59de70247a,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Angry,Personal reflection,2024-06-18T14:30:03.880995,Try meditation
+f3e820a9-c9f5-4f3f-a0fa-b0f4231624b4,9fdb3419-adbe-4550-ba32-124b8be5f562,Happy,Personal reflection,2024-03-13T14:30:03.881010,Continue daily routine
+b428ccb4-9f78-4ef2-abe0-6d504abe8239,c674dfff-efca-4f45-b639-764d2ee8e905,Happy,Personal reflection,2024-03-30T14:30:03.881024,Continue daily routine
+f82efb10-f525-4779-b5dd-f7119be753d5,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Relaxed,Personal reflection,2024-12-25T14:30:03.881035,No action assigned
+013027dd-dfdb-42e9-8f54-c41f19ad07ce,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Anxious,Personal reflection,2024-05-16T14:30:03.881053,Practice deep breathing
+a21e65ea-5961-4a17-9506-42592dc6b1e8,f17321f1-dc90-4bac-a6e9-bd1e181770da,Neutral,Personal reflection,2024-06-28T14:30:03.881064,No action assigned
+15ff3e63-9b6c-4349-90b0-b675dfd1cee7,151f169f-30af-4287-ace4-3d22846e622b,Excited,Personal reflection,2024-08-26T14:30:03.881075,Celebrate with friends
+67b0b1bf-7f6a-4597-b30d-c79d911bcf5e,d6da8ecd-2388-4869-bc3a-3c2680f32130,Depressed,Personal reflection,2024-12-25T14:30:03.881093,Talk to a friend or therapist
+70a790af-3bdc-454c-bb51-1f5e83a8cab2,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Happy,Personal reflection,2024-12-11T14:30:03.881110,Continue daily routine
+2e8b01cb-b483-4007-b3a8-cbecffe89a30,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Neutral,Personal reflection,2025-02-24T14:30:03.881124,No action assigned
+cfcb62c6-c4e9-41e4-8ed1-511b7883bd2e,2f410741-3375-4262-ac78-61269a66718c,Neutral,Personal reflection,2024-03-27T14:30:03.881134,No action assigned
+1423cf48-5482-4e72-ae05-9583ad711c70,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Relaxed,Personal reflection,2024-05-22T14:30:03.881146,No action assigned
+9103db32-fe08-4d8d-9dd8-8e6cf8998abe,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Calm,Personal reflection,2024-04-15T14:30:03.881155,Enjoy the moment
+d010c5ce-91c8-405d-8bde-d9853484eb2f,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Anxious,Personal reflection,2024-05-08T14:30:03.881165,Practice deep breathing
+70578311-6e63-4e0a-915d-50d95f5e897e,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Sad,Personal reflection,2024-12-03T14:30:03.881175,Listen to relaxing music
+4438cb57-9b6f-4fe1-81ac-7469a307da74,e2102598-256b-4e8c-839a-fc7524787f9d,Relaxed,Personal reflection,2024-07-27T14:30:03.881185,No action assigned
+cc284688-48f4-4841-8c5c-beace35c71ce,9a149800-3d1a-44e2-b911-fde92e3b0eea,Excited,Personal reflection,2024-10-17T14:30:03.881195,Celebrate with friends
+666841bb-d973-4036-bde2-176160d58c17,14c109c9-cb20-45f9-8a71-112782b15287,Angry,Personal reflection,2024-09-23T14:30:03.881205,Try meditation
+1ec4f33e-b2ec-4523-b61b-cb9038fdb878,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Stressed,Personal reflection,2024-07-22T14:30:03.881214,Take a break
+7691dbea-b686-4525-8794-1dc02205cc03,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Excited,Personal reflection,2025-01-09T14:30:03.881247,Celebrate with friends
+c39c5211-e58c-4971-90ef-b730b4e2220b,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Relaxed,Personal reflection,2025-02-15T14:30:03.881257,No action assigned
+93705661-ba3e-4717-b967-798fb5bb2cfa,e10f192f-da8c-4b9b-a950-32e56777a8e5,Sad,Personal reflection,2024-07-16T14:30:03.881267,Listen to relaxing music
+5b1f3cea-be38-462c-bc8f-c283d21b3642,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Calm,Personal reflection,2024-06-17T14:30:03.881277,Enjoy the moment
+5601a6b9-51eb-4c96-bea0-f66de9b48e33,28b18f0d-d8b4-4521-9978-c7730938ddaa,Relaxed,Personal reflection,2025-02-10T14:30:03.881287,No action assigned
+6bc5f1db-2484-4590-8842-df8f28e47c54,44ed067a-6905-49e0-a4f4-2116592c2ad2,Neutral,Personal reflection,2024-07-01T14:30:03.881298,No action assigned
+4f7642e4-af77-44ad-a030-07b10b5b4864,48887b97-8acc-453f-8143-d39045220d8b,Angry,Personal reflection,2024-11-30T14:30:03.881308,Try meditation
+b63d29d9-95d8-47a7-ba24-ade39131e4ef,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Relaxed,Personal reflection,2025-02-26T14:30:03.881318,No action assigned
+f69f8b6a-152d-4780-bbc8-16c337b06bc3,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Angry,Personal reflection,2024-06-27T14:30:03.881327,Try meditation
+ac7e9e5b-86d1-4023-b090-e8dd37f06d01,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Depressed,Personal reflection,2024-07-21T14:30:03.881338,Talk to a friend or therapist
+a8fe7408-6776-49a1-a01a-9db2de81c166,ee7fd89d-bc19-4360-8548-5dcc170c238c,Stressed,Personal reflection,2024-03-20T14:30:03.881353,Take a break
+63982a01-2a49-4a54-b930-69ec66ff09d7,64c4608a-4849-4b58-be58-279217dcbd93,Excited,Personal reflection,2025-01-11T14:30:03.881368,Celebrate with friends
+ca1cb458-306c-41d8-86af-6f2f66cdbc0b,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Stressed,Personal reflection,2024-12-14T14:30:03.881398,Take a break
+179b1481-ff2e-4888-8e78-a6882e1c3e1d,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Calm,Personal reflection,2024-11-14T14:30:03.881435,Enjoy the moment
+0919fbf5-2cb2-4390-a08d-1f06ed0386e2,ee7fd89d-bc19-4360-8548-5dcc170c238c,Stressed,Personal reflection,2024-07-09T14:30:03.881463,Take a break
+a403e550-182d-4851-93cc-354fd47e7138,e10f192f-da8c-4b9b-a950-32e56777a8e5,Anxious,Personal reflection,2025-02-12T14:30:03.881474,Practice deep breathing
+aaa3127b-a2f9-4cc2-b5e5-eb8895f5cf9a,48887b97-8acc-453f-8143-d39045220d8b,Angry,Personal reflection,2024-03-28T14:30:03.881484,Try meditation
+2dca8cf0-6a3d-494e-b6d7-cfbcae4b7594,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Angry,Personal reflection,2024-11-19T14:30:03.881523,Try meditation
+1b41e136-176e-4e4d-8026-d2464e05b908,7cb7702b-38d0-4c91-9ae0-00f96462af01,Depressed,Personal reflection,2024-09-08T14:30:03.881539,Talk to a friend or therapist
+b1a1e93c-deec-4df1-aae7-a148d99de030,151f169f-30af-4287-ace4-3d22846e622b,Happy,Personal reflection,2024-12-29T14:30:03.881550,Continue daily routine
+0508b871-9c4a-4f25-b899-6c645b57d55c,78643191-4894-42ce-b6ed-c645582e8822,Stressed,Personal reflection,2025-02-02T14:30:03.881561,Take a break
+f53d5cc9-a348-40c8-ab33-687194d32645,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Depressed,Personal reflection,2024-04-18T14:30:03.881571,Talk to a friend or therapist
+793767e4-5cf2-4b25-8d8e-73e71e3c5896,57a0f366-222e-4464-844d-0d86c61c6b5c,Happy,Personal reflection,2024-11-21T14:30:03.881581,Continue daily routine
+55e00f8b-d3d1-407b-87df-1a95dbba54e7,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Sad,Personal reflection,2024-09-07T14:30:03.881591,Listen to relaxing music
+c79e1419-6dcb-4175-b283-3a4aff318336,14c109c9-cb20-45f9-8a71-112782b15287,Anxious,Personal reflection,2024-07-20T14:30:03.881601,Practice deep breathing
+988f52bc-483b-4362-9475-2cfb95a40115,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Sad,Personal reflection,2025-02-21T14:30:03.881613,Listen to relaxing music
+109cc167-a2ed-44a6-93ee-b7133544a435,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Neutral,Personal reflection,2025-02-19T14:30:03.881624,No action assigned
+ec226f9d-ffbc-4dc3-ae27-f4d66c687208,becc7a2a-0155-4c4b-8647-e0e092c15d45,Angry,Personal reflection,2024-09-09T14:30:03.881634,Try meditation
+8bd688c4-f243-41cf-87d7-4e394e7798dc,151f169f-30af-4287-ace4-3d22846e622b,Calm,Personal reflection,2024-06-25T14:30:03.881644,Enjoy the moment
+57e8d4fe-fdef-4aee-b532-3e85d54d461c,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Happy,Personal reflection,2024-12-17T14:30:03.881656,Continue daily routine
+4e187af8-bf05-4eb6-bc9e-1039be07b48c,becc7a2a-0155-4c4b-8647-e0e092c15d45,Depressed,Personal reflection,2024-07-04T14:30:03.881667,Talk to a friend or therapist
+6358f1bc-675c-462a-ae73-299bb55cf18c,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Angry,Personal reflection,2024-06-18T14:30:03.881679,Try meditation
+c71ac36b-da09-4f82-baf6-038066253854,becc7a2a-0155-4c4b-8647-e0e092c15d45,Relaxed,Personal reflection,2024-10-23T14:30:03.881689,No action assigned
+e5a606fb-4f2e-4c2f-add4-460f8d538360,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Neutral,Personal reflection,2024-10-09T14:30:03.881702,No action assigned
+c3ab12b7-be9c-40b5-83f9-c5779be48920,e10f192f-da8c-4b9b-a950-32e56777a8e5,Depressed,Personal reflection,2024-03-19T14:30:03.881717,Talk to a friend or therapist
+6a4ecf7f-519f-4073-a1fc-49acd5c7603c,e2102598-256b-4e8c-839a-fc7524787f9d,Stressed,Personal reflection,2024-05-30T14:30:03.881747,Take a break
+d2bcc8a2-710d-48e4-8d0b-29c330a019ab,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Depressed,Personal reflection,2024-03-09T14:30:03.881865,Talk to a friend or therapist
+e88a52f9-adb6-40cf-9310-36637eeb4890,57a0f366-222e-4464-844d-0d86c61c6b5c,Angry,Personal reflection,2024-09-12T14:30:03.881877,Try meditation
+bf11d001-bcc4-4763-839b-0cace94a1108,ee7fd89d-bc19-4360-8548-5dcc170c238c,Sad,Personal reflection,2025-02-15T14:30:03.881903,Listen to relaxing music
+cf861563-b87a-46a8-b285-52506a4ac004,ee7fd89d-bc19-4360-8548-5dcc170c238c,Relaxed,Personal reflection,2025-02-19T14:30:03.881929,No action assigned
+68ffe6b1-3c1f-412d-8ee9-888b658ee0a2,e10f192f-da8c-4b9b-a950-32e56777a8e5,Anxious,Personal reflection,2024-08-15T14:30:03.881939,Practice deep breathing
+41fb846e-22d9-498b-9897-eef9ea0d04c8,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Angry,Personal reflection,2025-02-07T14:30:03.881954,Try meditation
+d958bbe1-5ef0-446e-906d-15a55c5a9442,c674dfff-efca-4f45-b639-764d2ee8e905,Angry,Personal reflection,2024-11-19T14:30:03.881966,Try meditation
+261a172c-072b-4eeb-9f82-30eb6f166656,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Angry,Personal reflection,2024-04-06T14:30:03.881980,Try meditation
+6e9cbde3-7805-4d10-8556-1d49cd242d17,57a0f366-222e-4464-844d-0d86c61c6b5c,Neutral,Personal reflection,2025-02-05T14:30:03.882105,No action assigned
+87808cac-fc11-4fff-aef2-70cc88c83fa2,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Excited,Personal reflection,2024-06-21T14:30:03.882144,Celebrate with friends
+e4dfb088-87af-4f62-926e-4545308eeaed,9a149800-3d1a-44e2-b911-fde92e3b0eea,Depressed,Personal reflection,2025-02-11T14:30:03.882160,Talk to a friend or therapist
+42f82e8b-4dfa-45d2-85d2-5f0b166dabf8,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Anxious,Personal reflection,2024-07-13T14:30:03.882172,Practice deep breathing
+afd24d90-0b20-4f5e-85ad-2a5396840b17,e2102598-256b-4e8c-839a-fc7524787f9d,Sad,Personal reflection,2025-02-10T14:30:03.882183,Listen to relaxing music
+19596ef0-680f-492e-980c-e2c751b3d9c7,5106ad09-1514-4481-98bd-a64b172c7f61,Happy,Personal reflection,2024-12-04T14:30:03.882193,Continue daily routine
+17133da3-91ed-4ef6-a58b-b0761af9619d,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Neutral,Personal reflection,2024-11-17T14:30:03.882203,No action assigned
+2994c3b9-c53d-4a6e-9417-c1f4bf9b666d,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Sad,Personal reflection,2025-01-06T14:30:03.882213,Listen to relaxing music
+3f13a168-469a-4cab-9794-48da8a6d5223,75910b19-8bce-4797-9958-b71ea0d50486,Relaxed,Personal reflection,2024-04-24T14:30:03.882223,No action assigned
+31a78412-ca23-4f1e-8737-2e40fc31dfb1,8d049976-e3e5-4ec7-89d5-35badad24022,Happy,Personal reflection,2024-04-19T14:30:03.882233,Continue daily routine
+4992831c-031a-49a7-bb0f-b7aab7efc96f,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Sad,Personal reflection,2024-03-26T14:30:03.882244,Listen to relaxing music
+6e349c1a-7d03-490e-84d4-9e4ba809d77e,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Excited,Personal reflection,2024-07-28T14:30:03.882255,Celebrate with friends
+bdf87963-b915-4f20-b1ae-261679a442bb,e38ab0f7-43c6-4ffa-b309-52db441dba68,Excited,Personal reflection,2024-10-01T14:30:03.882265,Celebrate with friends
+2616f395-3c0c-4754-86d7-592dac766985,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Neutral,Personal reflection,2024-03-06T14:30:03.882276,No action assigned
+289d171a-a2a5-474e-8f94-dfebe11523e8,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Excited,Personal reflection,2024-10-31T14:30:03.882286,Celebrate with friends
+b860e7b9-4853-4524-99ff-478c18b9a1bd,8d049976-e3e5-4ec7-89d5-35badad24022,Relaxed,Personal reflection,2024-05-18T14:30:03.882295,No action assigned
+98fa90ed-51a3-433b-ac1d-884bf6bfa796,57a0f366-222e-4464-844d-0d86c61c6b5c,Relaxed,Personal reflection,2025-03-02T14:30:03.882305,No action assigned
+df717b22-7eda-45ca-bda6-d94bb3827af6,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Excited,Personal reflection,2024-06-02T14:30:03.882314,Celebrate with friends
+20603dc6-980c-4e8d-a387-a2892cda379d,151f169f-30af-4287-ace4-3d22846e622b,Relaxed,Personal reflection,2024-08-02T14:30:03.882324,No action assigned
+efffcd53-742b-4f59-a64a-2ba31e6661d1,20c4bc00-a849-435d-b884-20e2ddfca6d7,Relaxed,Personal reflection,2024-12-07T14:30:03.882335,No action assigned
+64a3b9e1-e7ed-49b9-b031-d0b6c5b0d125,28b18f0d-d8b4-4521-9978-c7730938ddaa,Happy,Personal reflection,2025-01-05T14:30:03.882344,Continue daily routine
+bad743a4-e1b9-4662-85fc-e88638a137a9,e10f192f-da8c-4b9b-a950-32e56777a8e5,Happy,Personal reflection,2024-12-16T14:30:03.882354,Continue daily routine
+7d4e16ef-16a9-4206-9158-6f0abd1e4310,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Relaxed,Personal reflection,2024-03-21T14:30:03.882364,No action assigned
+5da2beb9-7c80-42ea-a7cb-f24eff5943a1,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Neutral,Personal reflection,2024-09-27T14:30:03.882374,No action assigned
+a1003853-4c15-4281-9fd7-45b1abff7e72,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Neutral,Personal reflection,2025-02-07T14:30:03.882384,No action assigned
+dfd84bf0-a9d2-4744-a14a-080c7f36d06e,f17321f1-dc90-4bac-a6e9-bd1e181770da,Sad,Personal reflection,2024-11-14T14:30:03.882393,Listen to relaxing music
+302b4609-63a0-48a7-8210-d41972d9bf11,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Calm,Personal reflection,2024-11-12T14:30:03.882412,Enjoy the moment
+45c2bdfe-5493-4d1a-a83b-04b4a79f049e,e10f192f-da8c-4b9b-a950-32e56777a8e5,Calm,Personal reflection,2024-03-20T14:30:03.882426,Enjoy the moment
+770d6ac1-9013-41f2-b004-1953b1168d92,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Depressed,Personal reflection,2024-11-20T14:30:03.882442,Talk to a friend or therapist
+621b7f42-9357-44eb-abcf-7d091638f807,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2024-05-07T14:30:03.882462,Talk to a friend or therapist
+757ee66a-b974-4bfe-9060-65db1ede0fcd,8d049976-e3e5-4ec7-89d5-35badad24022,Excited,Personal reflection,2025-01-26T14:30:03.882478,Celebrate with friends
+ea7ab8aa-2876-40e4-9d84-347ea4ef42f1,9a149800-3d1a-44e2-b911-fde92e3b0eea,Stressed,Personal reflection,2024-10-30T14:30:03.882493,Take a break
+00a73942-518f-49c7-abbb-437fd1c90a9c,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Happy,Personal reflection,2024-04-16T14:30:03.882510,Continue daily routine
+119e2aac-17d0-4a69-ae18-e8145f527d29,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Happy,Personal reflection,2024-10-11T14:30:03.882528,Continue daily routine
+03ff1caf-4f9f-4f9f-bda3-de3adabf6bbd,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Depressed,Personal reflection,2024-08-05T14:30:03.882538,Talk to a friend or therapist
+e6c1ae68-a4bc-4c3b-9137-1c752701222c,7e9db291-18a4-4c3e-838a-35a35a70d396,Angry,Personal reflection,2024-10-24T14:30:03.882548,Try meditation
+8ac6087a-953e-4bc4-99cc-9416216d4753,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Neutral,Personal reflection,2024-09-12T14:30:03.882558,No action assigned
+5410b7c8-e99f-4b67-ba22-dadaa8d6a7e9,78643191-4894-42ce-b6ed-c645582e8822,Depressed,Personal reflection,2024-04-20T14:30:03.882568,Talk to a friend or therapist
+10777a74-af5e-48b4-aee8-b6fa3c27659a,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Happy,Personal reflection,2024-10-11T14:30:03.882581,Continue daily routine
+ff860712-1eb8-4025-985f-a7118a090cb8,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Sad,Personal reflection,2024-11-12T14:30:03.882597,Listen to relaxing music
+ac0e1415-e519-4cdc-83d3-f8c63df2893c,2f410741-3375-4262-ac78-61269a66718c,Depressed,Personal reflection,2024-07-21T14:30:03.882613,Talk to a friend or therapist
+2920c681-5c00-44dd-8775-9b25b6f26b54,8d049976-e3e5-4ec7-89d5-35badad24022,Happy,Personal reflection,2024-07-21T14:30:03.882629,Continue daily routine
+baee8f4f-2113-4912-adbf-8b90671b1107,7e9db291-18a4-4c3e-838a-35a35a70d396,Calm,Personal reflection,2025-02-09T14:30:03.882640,Enjoy the moment
+dce51d25-97cf-4dbb-8b8a-d9c1e674e764,f17321f1-dc90-4bac-a6e9-bd1e181770da,Sad,Personal reflection,2025-01-29T14:30:03.882650,Listen to relaxing music
+13e54fb8-e1f2-4286-94ad-d53a807937e7,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Relaxed,Personal reflection,2024-11-04T14:30:03.882659,No action assigned
+ba33cb10-bee8-4fdc-8ed0-737a6e5534f5,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2024-06-04T14:30:03.882672,Talk to a friend or therapist
+c4f5b5f2-22f3-4d2b-8744-05f1acdf1cb4,e10f192f-da8c-4b9b-a950-32e56777a8e5,Excited,Personal reflection,2024-09-23T14:30:03.882683,Celebrate with friends
+f5bba3c1-75c2-4d00-8df2-871a737ea11d,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Relaxed,Personal reflection,2024-10-31T14:30:03.882693,No action assigned
+41237849-0742-408c-9f91-25b98aa3db3a,e10f192f-da8c-4b9b-a950-32e56777a8e5,Calm,Personal reflection,2024-12-26T14:30:03.882703,Enjoy the moment
+419ca9ea-dfff-40ce-b89e-1ba74b83a86c,2f410741-3375-4262-ac78-61269a66718c,Sad,Personal reflection,2025-02-28T14:30:03.882712,Listen to relaxing music
+2ee1686a-e5f7-4c86-9584-e2c8f00d9144,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Anxious,Personal reflection,2024-12-08T14:30:03.882722,Practice deep breathing
+ec90a651-75a5-40ea-84cc-a833a6f4e726,20c4bc00-a849-435d-b884-20e2ddfca6d7,Stressed,Personal reflection,2025-02-09T14:30:03.882731,Take a break
+c8fff6c8-e4a1-4bdf-b686-3c7b7992e632,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Anxious,Personal reflection,2025-01-24T14:30:03.882745,Practice deep breathing
+cdc1f88e-e7c7-4124-a06f-d66bc399034e,ee7fd89d-bc19-4360-8548-5dcc170c238c,Angry,Personal reflection,2024-08-16T14:30:03.882756,Try meditation
+84e3e3d7-5e5b-497e-b739-07432703b2cc,ee7fd89d-bc19-4360-8548-5dcc170c238c,Calm,Personal reflection,2024-08-25T14:30:03.882766,Enjoy the moment
+22dc8868-4811-40b0-ad51-97fcede47d0c,64c4608a-4849-4b58-be58-279217dcbd93,Angry,Personal reflection,2024-11-12T14:30:03.882777,Try meditation
+4d1dda48-fdf3-4a9e-8533-cd199475edb5,20c4bc00-a849-435d-b884-20e2ddfca6d7,Sad,Personal reflection,2024-11-03T14:30:03.882794,Listen to relaxing music
+b7a94544-1583-4fbf-9400-cc7de6ebbbeb,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Excited,Personal reflection,2024-05-15T14:30:03.882808,Celebrate with friends
+3d24001e-1761-4da4-be88-75e7d0f1ce5b,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Calm,Personal reflection,2024-07-11T14:30:03.882831,Enjoy the moment
+1b62b1dd-6874-4c25-944c-4e9cbba096b7,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Stressed,Personal reflection,2024-05-05T14:30:03.882854,Take a break
+24c20fb5-2f16-4308-ad25-ceaae5e238bb,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Neutral,Personal reflection,2024-11-09T14:30:03.882865,No action assigned
+a5d8aab1-6600-4887-ab9b-522503e57548,d6da8ecd-2388-4869-bc3a-3c2680f32130,Anxious,Personal reflection,2025-01-29T14:30:03.882883,Practice deep breathing
+7305cc79-bb04-4a26-ac6b-01f0eb5396a7,20c4bc00-a849-435d-b884-20e2ddfca6d7,Excited,Personal reflection,2024-09-07T14:30:03.882899,Celebrate with friends
+a8fbe65e-7735-463b-9b75-09f36f0a2f86,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Excited,Personal reflection,2024-06-15T14:30:03.882909,Celebrate with friends
+5c6d75d5-4d40-4d71-8bb3-7c35691e0066,8d049976-e3e5-4ec7-89d5-35badad24022,Anxious,Personal reflection,2024-11-14T14:30:03.882922,Practice deep breathing
+48823b9f-950b-4488-ab7d-82056deecae9,2f410741-3375-4262-ac78-61269a66718c,Depressed,Personal reflection,2024-11-29T14:30:03.882932,Talk to a friend or therapist
+89d60676-e7b4-45ee-baf9-7b845830a069,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Neutral,Personal reflection,2024-08-08T14:30:03.882941,No action assigned
+3f420288-3ad4-4bc6-9008-6abc96881c7c,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Anxious,Personal reflection,2024-09-12T14:30:03.882951,Practice deep breathing
+505c8ceb-e9b4-438a-ad68-40761da73ead,e2102598-256b-4e8c-839a-fc7524787f9d,Calm,Personal reflection,2024-09-02T14:30:03.882961,Enjoy the moment
+dd4129f5-d55c-44e6-8dd0-3f9587dc24a1,2f410741-3375-4262-ac78-61269a66718c,Neutral,Personal reflection,2024-03-09T14:30:03.882971,No action assigned
+0260ea7d-5f58-4aa8-8876-69911abe6e6f,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Relaxed,Personal reflection,2024-03-22T14:30:03.882981,No action assigned
+72be031f-644a-4f89-96cd-8fea2f99c612,2413cfc6-785f-4340-b331-7a56e35e2aab,Stressed,Personal reflection,2024-06-15T14:30:03.882996,Take a break
+2d6131ff-5b8b-44ee-bf1a-0df976f614bd,5d42377a-af01-4b1b-a802-c7040598ccb6,Happy,Personal reflection,2024-08-14T14:30:03.883007,Continue daily routine
+09451962-48ff-4b62-8134-c340500ebc50,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Stressed,Personal reflection,2024-09-30T14:30:03.883017,Take a break
+a536d9b1-3b7e-46b5-bbf2-0050471576c7,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Calm,Personal reflection,2024-10-14T14:30:03.883026,Enjoy the moment
+388e77e5-2ea1-4867-8416-44f1fdabd735,e10f192f-da8c-4b9b-a950-32e56777a8e5,Excited,Personal reflection,2024-08-20T14:30:03.883037,Celebrate with friends
+263548d3-e833-46eb-b2e7-175574804eb2,9a149800-3d1a-44e2-b911-fde92e3b0eea,Happy,Personal reflection,2024-04-27T14:30:03.883047,Continue daily routine
+9dbef531-7709-4e04-9086-3b8f4bf1c6e4,14c109c9-cb20-45f9-8a71-112782b15287,Neutral,Personal reflection,2024-07-19T14:30:03.883059,No action assigned
+3c317b90-7eb2-4129-aec8-07ab02b16ae6,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Happy,Personal reflection,2024-11-22T14:30:03.883068,Continue daily routine
+69b7d61b-95be-4c7a-ad9d-7482e5b0cb8e,f472673b-129c-4c2d-b8ca-3f6d59637d61,Neutral,Personal reflection,2024-06-10T14:30:03.883078,No action assigned
+b5e3d312-e310-4afc-8e6d-7eb3439c48f8,8d049976-e3e5-4ec7-89d5-35badad24022,Relaxed,Personal reflection,2024-09-27T14:30:03.883087,No action assigned
+adb4e58e-e633-415a-ba4b-7cf0f11c0ef1,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Calm,Personal reflection,2024-08-19T14:30:03.883098,Enjoy the moment
+016f5426-6324-4af4-8135-4e79f7533dea,f17321f1-dc90-4bac-a6e9-bd1e181770da,Anxious,Personal reflection,2024-11-07T14:30:03.883108,Practice deep breathing
+2e6b434a-7fd5-4ec0-b024-0870bc2b8d06,7cb7702b-38d0-4c91-9ae0-00f96462af01,Excited,Personal reflection,2024-04-04T14:30:03.883117,Celebrate with friends
+a1fc964c-7702-40de-8bc1-e17320c799b1,9fdb3419-adbe-4550-ba32-124b8be5f562,Angry,Personal reflection,2024-11-01T14:30:03.883136,Try meditation
+517e209a-c3ce-480c-ad7b-f5dec83283e1,7e9db291-18a4-4c3e-838a-35a35a70d396,Relaxed,Personal reflection,2024-10-16T14:30:03.883162,No action assigned
+4efba63e-ff8f-453e-890e-6dcb81e7a7a9,5106ad09-1514-4481-98bd-a64b172c7f61,Happy,Personal reflection,2024-08-03T14:30:03.883189,Continue daily routine
+fabaf7e1-6c51-479b-b955-e69d82c86fd1,14c109c9-cb20-45f9-8a71-112782b15287,Happy,Personal reflection,2024-06-01T14:30:03.883206,Continue daily routine
+8f6ac328-0b10-4b36-945d-4f1c33b6dd1e,c674dfff-efca-4f45-b639-764d2ee8e905,Excited,Personal reflection,2024-08-31T14:30:03.883220,Celebrate with friends
+20488e5c-11a9-4401-a66f-62880d79f758,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Excited,Personal reflection,2024-05-09T14:30:03.883236,Celebrate with friends
+bf39816f-5122-4a48-b9f3-8907103e1d33,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Sad,Personal reflection,2025-01-09T14:30:03.883255,Listen to relaxing music
+bff67a58-e203-41a3-a482-e800d80e701c,e2102598-256b-4e8c-839a-fc7524787f9d,Stressed,Personal reflection,2024-04-03T14:30:03.883267,Take a break
+83cffe1c-b371-43c6-a18a-3c0c711e07da,9a149800-3d1a-44e2-b911-fde92e3b0eea,Sad,Personal reflection,2024-04-05T14:30:03.883277,Listen to relaxing music
+9f4cbc56-402b-4edc-a757-0375dce356f9,57a0f366-222e-4464-844d-0d86c61c6b5c,Angry,Personal reflection,2024-07-24T14:30:03.883291,Try meditation
+098afed1-fa6b-4b26-a010-2a791fcfce0a,20c4bc00-a849-435d-b884-20e2ddfca6d7,Sad,Personal reflection,2024-08-19T14:30:03.883302,Listen to relaxing music
+8087bce5-c61a-4124-9ea9-45d45c601930,5106ad09-1514-4481-98bd-a64b172c7f61,Calm,Personal reflection,2024-08-17T14:30:03.883312,Enjoy the moment
+6789a856-7610-40be-bc12-88ac04ab7235,e2102598-256b-4e8c-839a-fc7524787f9d,Depressed,Personal reflection,2025-02-06T14:30:03.883339,Talk to a friend or therapist
+436541be-1582-4148-9e03-4c9b1d3a3f21,151f169f-30af-4287-ace4-3d22846e622b,Sad,Personal reflection,2024-10-29T14:30:03.883364,Listen to relaxing music
+6dd4e99f-b0bd-48e2-a3c8-5ced69b5ad61,44ed067a-6905-49e0-a4f4-2116592c2ad2,Angry,Personal reflection,2024-11-12T14:30:03.883376,Try meditation
+cfa597ed-290f-4049-9433-8a12a41b8287,14c109c9-cb20-45f9-8a71-112782b15287,Sad,Personal reflection,2024-05-15T14:30:03.883386,Listen to relaxing music
+9a608462-d835-491b-a645-2d66a35db089,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Calm,Personal reflection,2024-10-23T14:30:03.883396,Enjoy the moment
+eff46d48-d2e1-4fad-a814-dcd7b524c6ad,14c109c9-cb20-45f9-8a71-112782b15287,Angry,Personal reflection,2024-12-19T14:30:03.883406,Try meditation
+e84e479f-9758-413e-9fb4-247f1c235098,d6da8ecd-2388-4869-bc3a-3c2680f32130,Neutral,Personal reflection,2024-09-09T14:30:03.883417,No action assigned
+9254cffb-c22b-4405-9a4a-009f95ca6726,44ed067a-6905-49e0-a4f4-2116592c2ad2,Neutral,Personal reflection,2025-01-18T14:30:03.883426,No action assigned
+90cdf966-b241-4989-81b5-7ae2a70d4093,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Relaxed,Personal reflection,2024-06-16T14:30:03.883439,No action assigned
+d7cdefcc-1892-40c8-9f8e-7f7719669065,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Excited,Personal reflection,2024-12-23T14:30:03.883454,Celebrate with friends
+cf307e2b-32c2-4e9b-a058-95f74356e44e,9a149800-3d1a-44e2-b911-fde92e3b0eea,Relaxed,Personal reflection,2024-10-07T14:30:03.883468,No action assigned
+f0484d9f-21a9-4499-9189-297cf599f81a,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Excited,Personal reflection,2024-09-02T14:30:03.883478,Celebrate with friends
+be9ce5e5-3aa8-414a-ad6a-3a0f093b4775,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Happy,Personal reflection,2025-01-31T14:30:03.883488,Continue daily routine
+371f1bc3-2270-4661-b776-cdd8570ba79c,e38ab0f7-43c6-4ffa-b309-52db441dba68,Angry,Personal reflection,2024-04-29T14:30:03.883499,Try meditation
+de3af397-1271-459b-bece-866a2c2851b1,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Depressed,Personal reflection,2024-06-10T14:30:03.883513,Talk to a friend or therapist
+d57a378b-9ac4-4fad-bf8a-716ed7f7e549,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Angry,Personal reflection,2024-08-14T14:30:03.883528,Try meditation
+bb8f8c0a-737b-47c2-86b8-27e437cf37d1,78643191-4894-42ce-b6ed-c645582e8822,Depressed,Personal reflection,2025-02-08T14:30:03.883544,Talk to a friend or therapist
+192e3e6a-5682-4fbe-ad0f-e753c45b9dda,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Neutral,Personal reflection,2024-04-08T14:30:03.883559,No action assigned
+e061dbe0-5f18-4263-a4b2-310192cc0307,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Depressed,Personal reflection,2025-01-16T14:30:03.883575,Talk to a friend or therapist
+4f379340-415c-4bfe-99b0-fad4671955fb,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Neutral,Personal reflection,2024-05-29T14:30:03.883586,No action assigned
+84185a7b-197e-45d9-87d4-8fe05eef0ff9,5106ad09-1514-4481-98bd-a64b172c7f61,Angry,Personal reflection,2024-10-05T14:30:03.883611,Try meditation
+147780b0-b21f-4a7e-ad1c-49833da1b60a,9a149800-3d1a-44e2-b911-fde92e3b0eea,Calm,Personal reflection,2024-11-19T14:30:03.883638,Enjoy the moment
+a762a9d2-9cdc-47cf-852c-10ed429c715a,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Anxious,Personal reflection,2024-03-08T14:30:03.883649,Practice deep breathing
+f743270b-b026-4221-8a77-4e29662ea005,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Calm,Personal reflection,2024-05-31T14:30:03.883663,Enjoy the moment
+a362fcfe-e8b9-48d4-84b0-af571920c6b0,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Neutral,Personal reflection,2024-09-05T14:30:03.883677,No action assigned
+d3726877-c82e-4442-831a-6d1f04170e47,becc7a2a-0155-4c4b-8647-e0e092c15d45,Depressed,Personal reflection,2024-11-10T14:30:03.883693,Talk to a friend or therapist
+23c51eb4-ad76-4938-985e-21c0b0c6a779,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Angry,Personal reflection,2024-12-19T14:30:03.883714,Try meditation
+1d599cf8-0b37-45da-a877-38fb80f2aef6,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Relaxed,Personal reflection,2024-06-20T14:30:03.883734,No action assigned
+634ce6c2-0c45-498e-a3fe-f11f0aa423e4,becc7a2a-0155-4c4b-8647-e0e092c15d45,Depressed,Personal reflection,2024-09-25T14:30:03.883745,Talk to a friend or therapist
+e9e8c45f-0fde-419d-a2cd-d484984ff1f3,14c109c9-cb20-45f9-8a71-112782b15287,Stressed,Personal reflection,2024-08-16T14:30:03.883758,Take a break
+b3f753f7-d728-4c4e-9d77-874286743d85,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Angry,Personal reflection,2025-01-31T14:30:03.883768,Try meditation
+e02223bd-aac7-49d3-ab32-bdaa2e86f63a,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Neutral,Personal reflection,2024-11-23T14:30:03.883782,No action assigned
+7ed59be1-4faa-4474-8296-0e12eb16e08e,e2102598-256b-4e8c-839a-fc7524787f9d,Sad,Personal reflection,2024-07-28T14:30:03.883795,Listen to relaxing music
+d8bf5409-7bab-43d9-b1a9-94bbec9da308,e10f192f-da8c-4b9b-a950-32e56777a8e5,Anxious,Personal reflection,2024-03-18T14:30:03.883804,Practice deep breathing
+bf4b1958-04a1-4337-b7f1-b286fe76ce3d,f17321f1-dc90-4bac-a6e9-bd1e181770da,Angry,Personal reflection,2024-10-16T14:30:03.883839,Try meditation
+f3fee934-1539-4c69-829a-72ea86ef0885,f17321f1-dc90-4bac-a6e9-bd1e181770da,Stressed,Personal reflection,2024-10-08T14:30:03.883850,Take a break
+70f61fd7-0abb-45d2-bd51-12020437315a,7cb7702b-38d0-4c91-9ae0-00f96462af01,Happy,Personal reflection,2024-11-05T14:30:03.883863,Continue daily routine
+8e8681b3-86d5-445f-9083-19861baa8fb5,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Stressed,Personal reflection,2025-01-12T14:30:03.883878,Take a break
+acd61bcd-b0c6-45a6-ad2c-a2c243487e23,28b18f0d-d8b4-4521-9978-c7730938ddaa,Relaxed,Personal reflection,2024-03-08T14:30:03.883895,No action assigned
+1e258f33-ca4c-4db3-9bd0-7f5136bd215b,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Angry,Personal reflection,2024-07-17T14:30:03.883906,Try meditation
+e8e4ba9e-fc37-40de-9f0d-f812b235c356,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Excited,Personal reflection,2024-11-02T14:30:03.883915,Celebrate with friends
+7955f5e6-5338-42cc-9e87-d45d152f67c8,48887b97-8acc-453f-8143-d39045220d8b,Sad,Personal reflection,2024-12-24T14:30:03.883925,Listen to relaxing music
+c1542d13-bf9f-4db7-a035-22656ed9bb0c,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Excited,Personal reflection,2024-05-19T14:30:03.883939,Celebrate with friends
+a823a3cc-6d1e-48c7-a8e5-3b77fe43d45a,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Sad,Personal reflection,2024-10-28T14:30:03.883949,Listen to relaxing music
+65b9f4ca-37bd-4a21-a2a5-d74557226e89,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Relaxed,Personal reflection,2025-02-03T14:30:03.883959,No action assigned
+13cfa602-e8ab-4243-b95e-1a5a6dccc715,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Stressed,Personal reflection,2024-07-03T14:30:03.883975,Take a break
+19ff19f1-cd28-47cf-b17d-2f742326c263,9fdb3419-adbe-4550-ba32-124b8be5f562,Happy,Personal reflection,2025-02-11T14:30:03.883991,Continue daily routine
+db1e872b-7628-4e8f-8720-3653d5724a76,9a149800-3d1a-44e2-b911-fde92e3b0eea,Excited,Personal reflection,2024-10-17T14:30:03.884001,Celebrate with friends
+33bc557b-c38a-43a7-95af-f119df8ad08a,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Stressed,Personal reflection,2024-10-23T14:30:03.884011,Take a break
+d98fb410-3aaf-482d-8927-bcb2072e1047,9fdb3419-adbe-4550-ba32-124b8be5f562,Excited,Personal reflection,2024-05-28T14:30:03.884021,Celebrate with friends
+4a37e0d8-2f8b-4bc8-8a19-67202329de38,14c109c9-cb20-45f9-8a71-112782b15287,Relaxed,Personal reflection,2024-03-11T14:30:03.884031,No action assigned
+f4817e78-f285-4a98-a501-6e3c243a200f,28b18f0d-d8b4-4521-9978-c7730938ddaa,Neutral,Personal reflection,2024-10-13T14:30:03.884040,No action assigned
+32dbe25a-7cf8-4b1f-922a-a699208a5e23,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Anxious,Personal reflection,2024-07-21T14:30:03.884055,Practice deep breathing
+77c5815c-86e0-4086-9487-f26d3e9f5b89,9fdb3419-adbe-4550-ba32-124b8be5f562,Neutral,Personal reflection,2024-06-03T14:30:03.884065,No action assigned
+c26ea189-0715-48b4-94ac-5e8b8b7cd95e,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Excited,Personal reflection,2024-06-01T14:30:03.884074,Celebrate with friends
+62440024-50ba-4a84-8c03-423714db09ec,d6da8ecd-2388-4869-bc3a-3c2680f32130,Neutral,Personal reflection,2025-03-02T14:30:03.884084,No action assigned
+e1014467-5a1f-476b-a82b-b2459f30a3cb,f17321f1-dc90-4bac-a6e9-bd1e181770da,Sad,Personal reflection,2025-03-03T14:30:03.884093,Listen to relaxing music
+0956155c-5395-4ea8-9cae-2515f9c9787b,9fdb3419-adbe-4550-ba32-124b8be5f562,Angry,Personal reflection,2024-10-02T14:30:03.884103,Try meditation
+a77127fe-4be5-4ab2-bdf5-eb261b097c82,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Relaxed,Personal reflection,2024-12-01T14:30:03.884117,No action assigned
+ec35f6ff-a8bf-422e-8cf0-4bdebc952b29,48887b97-8acc-453f-8143-d39045220d8b,Relaxed,Personal reflection,2024-11-13T14:30:03.884127,No action assigned
+d5cd7a2a-c4c5-4527-abbd-583aa21da3eb,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Neutral,Personal reflection,2024-11-18T14:30:03.884137,No action assigned
+5dbb57f7-a6e6-4f3a-9217-67778aa86b48,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2025-01-07T14:30:03.884150,Talk to a friend or therapist
+0eaf97c0-ea35-434d-b6d4-495009314443,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Neutral,Personal reflection,2024-03-18T14:30:03.884160,No action assigned
+d7761095-97c9-4198-b147-7d9186e91353,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Angry,Personal reflection,2024-05-31T14:30:03.884169,Try meditation
+381d969d-3e83-4a75-bbf8-da2f68f310bd,75910b19-8bce-4797-9958-b71ea0d50486,Stressed,Personal reflection,2024-05-13T14:30:03.884180,Take a break
+cacf5f40-ddf1-4398-9e4e-7172b838d8cf,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Relaxed,Personal reflection,2024-07-27T14:30:03.884190,No action assigned
+ddf4dbc6-10fe-4578-83e4-00a91c4e0a8f,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Stressed,Personal reflection,2024-10-10T14:30:03.884200,Take a break
+8bcfc201-f129-4bef-8b9f-8961b11797d6,ee7fd89d-bc19-4360-8548-5dcc170c238c,Relaxed,Personal reflection,2024-11-14T14:30:03.884209,No action assigned
+aafd96e9-075e-41c1-8189-176322c24d81,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Sad,Personal reflection,2024-11-07T14:30:03.884219,Listen to relaxing music
+97b9173d-1a3f-4b96-ac0b-5e6b96835cfb,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Sad,Personal reflection,2024-10-14T14:30:03.884228,Listen to relaxing music
+8d88dec1-a853-45c4-855f-49f9b9af3e94,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Angry,Personal reflection,2024-05-06T14:30:03.884238,Try meditation
+9cf0f632-bcde-4da7-ae73-4ea436849f82,becc7a2a-0155-4c4b-8647-e0e092c15d45,Happy,Personal reflection,2025-01-19T14:30:03.884247,Continue daily routine
+856e2ec2-4fca-4d8a-83cb-a4318ce372fb,5106ad09-1514-4481-98bd-a64b172c7f61,Depressed,Personal reflection,2024-06-17T14:30:03.884262,Talk to a friend or therapist
+bff61ccc-a650-4be9-aad0-185929bca052,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Happy,Personal reflection,2024-04-08T14:30:03.884283,Continue daily routine
+590b2284-98a5-4e4d-b98e-c17e7bd30edc,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Depressed,Personal reflection,2024-11-12T14:30:03.884331,Talk to a friend or therapist
+21d91177-12de-4c73-96c0-3dd58f419eeb,20c4bc00-a849-435d-b884-20e2ddfca6d7,Angry,Personal reflection,2024-03-26T14:30:03.884343,Try meditation
+cdd165ff-ed60-43ff-b8ab-e444a1c8da1e,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Neutral,Personal reflection,2024-12-17T14:30:03.884353,No action assigned
+48e5afb9-b334-4d09-beb2-070fcf1ee0b8,2413cfc6-785f-4340-b331-7a56e35e2aab,Neutral,Personal reflection,2024-10-05T14:30:03.884370,No action assigned
+091e6690-a5c2-475a-9b99-8dfcfb2ba72f,9a149800-3d1a-44e2-b911-fde92e3b0eea,Sad,Personal reflection,2024-07-22T14:30:03.884381,Listen to relaxing music
+a18e09b6-d171-4fc0-bad8-6093e9a604e0,75910b19-8bce-4797-9958-b71ea0d50486,Neutral,Personal reflection,2024-06-08T14:30:03.884392,No action assigned
+0e70a566-f7f6-49d6-9bf6-28d34f589f97,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Calm,Personal reflection,2024-11-15T14:30:03.884402,Enjoy the moment
+5e47c139-7fd3-42b7-90fc-1396bb62b394,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Stressed,Personal reflection,2024-06-29T14:30:03.884411,Take a break
+f9dd5613-ff1e-432f-8fdf-3f579ac57c57,e10f192f-da8c-4b9b-a950-32e56777a8e5,Sad,Personal reflection,2024-07-04T14:30:03.884421,Listen to relaxing music
+6ae1f189-c610-431b-94c9-0b788dd834c2,64c4608a-4849-4b58-be58-279217dcbd93,Stressed,Personal reflection,2024-07-02T14:30:03.884431,Take a break
+6b0ef054-5dad-42ee-8983-6400c79e8eff,5d42377a-af01-4b1b-a802-c7040598ccb6,Stressed,Personal reflection,2025-01-01T14:30:03.884445,Take a break
+c88779f4-bf58-4bf7-8024-79410abcbed3,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Neutral,Personal reflection,2024-06-27T14:30:03.884455,No action assigned
+206950b0-fb06-422c-8436-8c9a499cbd52,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Relaxed,Personal reflection,2025-02-15T14:30:03.884465,No action assigned
+5fdabd4e-1a9a-41a1-b8ef-82d9be43dd12,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Sad,Personal reflection,2024-03-21T14:30:03.884474,Listen to relaxing music
+e5eaa314-920a-4c5c-986b-9995ad91c713,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Relaxed,Personal reflection,2024-03-18T14:30:03.884485,No action assigned
+a41342e7-4711-47e4-a7d9-5f14716c875b,5d42377a-af01-4b1b-a802-c7040598ccb6,Angry,Personal reflection,2024-11-05T14:30:03.884494,Try meditation
+0b3dd29e-4193-4d1e-9962-94e6f7817d52,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Excited,Personal reflection,2024-11-24T14:30:03.884509,Celebrate with friends
+4b8a9639-bc3b-4695-90e9-d0193b74ff68,d6da8ecd-2388-4869-bc3a-3c2680f32130,Relaxed,Personal reflection,2024-11-01T14:30:03.884519,No action assigned
+61c929e1-79a3-4dc8-88a6-c0021587ccc4,57a0f366-222e-4464-844d-0d86c61c6b5c,Neutral,Personal reflection,2024-10-10T14:30:03.884530,No action assigned
+2c1b6c3a-17b7-43a2-9aaa-8e6b77fcf407,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Excited,Personal reflection,2024-06-18T14:30:03.884543,Celebrate with friends
+75425dfd-2ea8-42ee-ace0-3f86b886b398,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Happy,Personal reflection,2024-04-09T14:30:03.884552,Continue daily routine
+e74c4602-b832-44dc-8950-26e0f8522c54,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Depressed,Personal reflection,2024-07-30T14:30:03.884565,Talk to a friend or therapist
+68170df7-e9dd-4eb9-8db4-813ecd4905b4,28b18f0d-d8b4-4521-9978-c7730938ddaa,Stressed,Personal reflection,2024-10-16T14:30:03.884583,Take a break
+89662d87-b5ba-4b6c-a80d-a37bd4088ce3,151f169f-30af-4287-ace4-3d22846e622b,Neutral,Personal reflection,2024-04-28T14:30:03.884594,No action assigned
+d8bd9660-cf88-4da0-a542-72b8abc5d976,5d42377a-af01-4b1b-a802-c7040598ccb6,Sad,Personal reflection,2024-04-11T14:30:03.884604,Listen to relaxing music
+5265066c-1cd1-4771-b551-bd136f8d32be,e10f192f-da8c-4b9b-a950-32e56777a8e5,Happy,Personal reflection,2024-11-16T14:30:03.884615,Continue daily routine
+cf801f2b-32fd-49a4-a74a-3205fd1f899f,7e9db291-18a4-4c3e-838a-35a35a70d396,Neutral,Personal reflection,2024-05-29T14:30:03.884630,No action assigned
+62297181-26fa-4b83-980b-bde33504bf6d,e2102598-256b-4e8c-839a-fc7524787f9d,Stressed,Personal reflection,2024-04-07T14:30:03.884644,Take a break
+5274a5d5-3c6d-48e7-a06a-3324b26d1b26,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Happy,Personal reflection,2024-07-14T14:30:03.884662,Continue daily routine
+1b0972ed-7b26-4ae8-b197-ad200b8e793d,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Happy,Personal reflection,2024-06-23T14:30:03.884672,Continue daily routine
+c397eda6-c30f-4894-8515-3d1dd68ae5d1,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Neutral,Personal reflection,2024-06-12T14:30:03.884685,No action assigned
+d06766b0-4e96-463c-8d5d-ab72cb7a61bd,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Depressed,Personal reflection,2024-07-25T14:30:03.884700,Talk to a friend or therapist
+2639c684-4a0b-467e-88ce-81df9e31e65c,5106ad09-1514-4481-98bd-a64b172c7f61,Angry,Personal reflection,2025-01-17T14:30:03.884713,Try meditation
+757fc18d-6d09-4928-93ba-24b083e6cdf1,9a149800-3d1a-44e2-b911-fde92e3b0eea,Angry,Personal reflection,2024-08-07T14:30:03.884723,Try meditation
+39a5f219-9879-47b5-a027-fed35058c839,5106ad09-1514-4481-98bd-a64b172c7f61,Anxious,Personal reflection,2024-06-27T14:30:03.884733,Practice deep breathing
+152405cd-5efc-4f20-ab2a-847360acf55a,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Relaxed,Personal reflection,2024-08-31T14:30:03.884750,No action assigned
+4e7f0690-577d-44f7-9935-c7b5d5143464,44ed067a-6905-49e0-a4f4-2116592c2ad2,Calm,Personal reflection,2024-04-25T14:30:03.884765,Enjoy the moment
+9d4c915c-437e-453d-b0a6-6c2f6a268ce0,e10f192f-da8c-4b9b-a950-32e56777a8e5,Happy,Personal reflection,2024-06-09T14:30:03.884779,Continue daily routine
+0e69c5e5-7a88-4ef7-8548-f5a6b548dd4e,44ed067a-6905-49e0-a4f4-2116592c2ad2,Stressed,Personal reflection,2024-05-21T14:30:03.884790,Take a break
+82480472-bd85-4cfe-b2f9-5c68f2a0a6e5,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Sad,Personal reflection,2024-03-13T14:30:03.884799,Listen to relaxing music
+32c0d0d7-05b0-4499-a15b-fccbb62fd5aa,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Excited,Personal reflection,2024-08-19T14:30:03.884809,Celebrate with friends
+932979be-4aa6-450e-acfb-9b0bcd50ac95,e2102598-256b-4e8c-839a-fc7524787f9d,Angry,Personal reflection,2025-01-15T14:30:03.884819,Try meditation
+a5d4960a-ca09-4a95-b546-d8e5c558a212,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Happy,Personal reflection,2024-04-15T14:30:03.884927,Continue daily routine
+ccbe58db-2a0a-4c7b-a147-bf032fb94f97,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Happy,Personal reflection,2025-01-30T14:30:03.884976,Continue daily routine
+85b21832-4c4d-466a-bbe7-39e6e171fb70,7cb7702b-38d0-4c91-9ae0-00f96462af01,Calm,Personal reflection,2024-05-14T14:30:03.884991,Enjoy the moment
+d0d8419a-ee9e-4882-a90d-21d112dc48f5,e10f192f-da8c-4b9b-a950-32e56777a8e5,Stressed,Personal reflection,2025-01-04T14:30:03.885002,Take a break
+d8c3e53b-0104-4bee-bcd8-3b14d1c125fe,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Stressed,Personal reflection,2024-08-26T14:30:03.885014,Take a break
+9d242f91-8906-4ef9-a0b7-64d49037f015,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Happy,Personal reflection,2024-09-30T14:30:03.885029,Continue daily routine
+7a018698-3592-4003-9587-cf1e91557d1c,44ed067a-6905-49e0-a4f4-2116592c2ad2,Anxious,Personal reflection,2024-06-25T14:30:03.885043,Practice deep breathing
+a21afada-4218-4ee2-8e9c-a32038db1d55,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Anxious,Personal reflection,2024-10-26T14:30:03.885054,Practice deep breathing
+c61cdf36-ebe3-4d45-941c-712f46a406ca,9a149800-3d1a-44e2-b911-fde92e3b0eea,Excited,Personal reflection,2024-06-12T14:30:03.885063,Celebrate with friends
+7a0611c9-7cc5-45e4-b816-3dff958ef13f,9fdb3419-adbe-4550-ba32-124b8be5f562,Angry,Personal reflection,2024-10-12T14:30:03.885074,Try meditation
+f04de98d-a096-4c72-9de0-eb5463005157,e10f192f-da8c-4b9b-a950-32e56777a8e5,Calm,Personal reflection,2024-05-21T14:30:03.885084,Enjoy the moment
+7cd8534a-60d9-45cd-9b6c-a14b2ec3663d,2f410741-3375-4262-ac78-61269a66718c,Angry,Personal reflection,2024-04-12T14:30:03.885093,Try meditation
+547e24fa-70b0-4bc6-8082-db7377ac4541,e38ab0f7-43c6-4ffa-b309-52db441dba68,Excited,Personal reflection,2024-07-04T14:30:03.885114,Celebrate with friends
+e35abb44-71f6-414d-9ffe-74754fdbaa37,7e9db291-18a4-4c3e-838a-35a35a70d396,Depressed,Personal reflection,2024-03-18T14:30:03.885132,Talk to a friend or therapist
+aa95e866-4630-4a23-878a-1d9a9b314c5b,7cb7702b-38d0-4c91-9ae0-00f96462af01,Calm,Personal reflection,2024-12-31T14:30:03.885142,Enjoy the moment
+e50f7872-c012-4114-af37-4dc18a073115,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Relaxed,Personal reflection,2024-06-11T14:30:03.885151,No action assigned
+d14c6c4a-5ce3-419f-a715-87961cd82b54,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Sad,Personal reflection,2024-10-07T14:30:03.885161,Listen to relaxing music
+cc11df6e-e5e7-4b10-bafd-264f994c4a9f,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Neutral,Personal reflection,2024-06-17T14:30:03.885171,No action assigned
+032d810c-d419-4616-becf-1cd0a9f03a1d,e2102598-256b-4e8c-839a-fc7524787f9d,Anxious,Personal reflection,2024-10-09T14:30:03.885182,Practice deep breathing
+edc0ee84-bd0c-4fcb-be27-0c778cbd740f,5106ad09-1514-4481-98bd-a64b172c7f61,Neutral,Personal reflection,2024-08-20T14:30:03.885191,No action assigned
+e1cb9359-6372-4c44-9923-4400bd1a0710,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Depressed,Personal reflection,2025-02-28T14:30:03.885201,Talk to a friend or therapist
+e9099f74-1462-41a1-8583-a4799988c172,2413cfc6-785f-4340-b331-7a56e35e2aab,Neutral,Personal reflection,2024-04-08T14:30:03.885210,No action assigned
+9f94401f-e17f-4cb5-ac54-f429cad2cdca,8d049976-e3e5-4ec7-89d5-35badad24022,Excited,Personal reflection,2024-09-01T14:30:03.885220,Celebrate with friends
+87fc5ace-8b42-427a-9ead-87622017ee17,e10f192f-da8c-4b9b-a950-32e56777a8e5,Stressed,Personal reflection,2024-10-13T14:30:03.885232,Take a break
+aa5d2266-1bfc-4e86-a9f0-bc33786b98f4,28b18f0d-d8b4-4521-9978-c7730938ddaa,Sad,Personal reflection,2024-12-21T14:30:03.885242,Listen to relaxing music
+4e4e383d-8e75-431b-82b0-fe2b6bab7272,7cb7702b-38d0-4c91-9ae0-00f96462af01,Relaxed,Personal reflection,2024-04-14T14:30:03.885251,No action assigned
+d0071a71-1a8c-46a7-9f48-e22848e2bf2b,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Depressed,Personal reflection,2024-08-31T14:30:03.885261,Talk to a friend or therapist
+fe9e4b4e-e60a-474a-96bc-af09dcd66395,8d049976-e3e5-4ec7-89d5-35badad24022,Happy,Personal reflection,2024-12-09T14:30:03.885271,Continue daily routine
+d0126336-3794-4b4e-84d0-4b1bbb514d5d,78643191-4894-42ce-b6ed-c645582e8822,Neutral,Personal reflection,2024-09-18T14:30:03.885281,No action assigned
+ee360c01-7dd1-44b0-bace-237f2d83d826,9fdb3419-adbe-4550-ba32-124b8be5f562,Neutral,Personal reflection,2024-12-10T14:30:03.885290,No action assigned
+1f84e3b6-c6ea-47e9-a871-3c7781f4c584,75910b19-8bce-4797-9958-b71ea0d50486,Calm,Personal reflection,2024-06-21T14:30:03.885300,Enjoy the moment
+45042ce1-6e21-4ec5-b1e2-ed72c4cf9521,20c4bc00-a849-435d-b884-20e2ddfca6d7,Neutral,Personal reflection,2025-02-19T14:30:03.885309,No action assigned
+97eba3a6-6750-4f5f-9b10-927ed3cec1f9,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Angry,Personal reflection,2024-03-22T14:30:03.885319,Try meditation
+cad0339a-1ffd-47bc-8ddc-177132327d24,7e9db291-18a4-4c3e-838a-35a35a70d396,Stressed,Personal reflection,2024-08-01T14:30:03.885329,Take a break
+69f6e1a5-ace8-407e-a4c3-f325fae519ff,7e9db291-18a4-4c3e-838a-35a35a70d396,Excited,Personal reflection,2024-04-06T14:30:03.885345,Celebrate with friends
+e0e1b628-0180-4c50-ade1-c318c3d2691c,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Angry,Personal reflection,2024-12-15T14:30:03.885362,Try meditation
+0dba5d67-a837-40bf-88fe-8e82c74fdd98,28b18f0d-d8b4-4521-9978-c7730938ddaa,Calm,Personal reflection,2024-12-01T14:30:03.885385,Enjoy the moment
+2a9ed8c1-2c0a-48a9-85e8-f6c29375d496,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Anxious,Personal reflection,2024-12-21T14:30:03.885417,Practice deep breathing
+958bae61-35f0-4610-b7ba-836c2bc59a02,48887b97-8acc-453f-8143-d39045220d8b,Angry,Personal reflection,2025-01-21T14:30:03.885427,Try meditation
+d5b1655f-01c8-40de-8ce8-208ca334733b,28b18f0d-d8b4-4521-9978-c7730938ddaa,Excited,Personal reflection,2025-02-09T14:30:03.885444,Celebrate with friends
+a3d41cd8-ba77-4bcf-a898-9e1ce12cf95d,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Calm,Personal reflection,2024-12-23T14:30:03.885454,Enjoy the moment
+d5b76734-ddf0-4cb0-a8b5-0e1d840e77bf,c674dfff-efca-4f45-b639-764d2ee8e905,Calm,Personal reflection,2025-02-20T14:30:03.885464,Enjoy the moment
+1747bcac-d4ef-4c6f-8aeb-9027661c08a4,2f410741-3375-4262-ac78-61269a66718c,Stressed,Personal reflection,2024-04-26T14:30:03.885474,Take a break
+3b6388bd-1ace-4fb4-9854-d8cb5701f60f,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Stressed,Personal reflection,2024-04-28T14:30:03.885486,Take a break
+16b62b46-2e51-47c0-9c70-27d3aefd3093,64c4608a-4849-4b58-be58-279217dcbd93,Angry,Personal reflection,2024-11-21T14:30:03.885498,Try meditation
+4943375e-a73f-418d-a8a6-1489df084a58,e10f192f-da8c-4b9b-a950-32e56777a8e5,Calm,Personal reflection,2024-08-19T14:30:03.885508,Enjoy the moment
+40bdab47-a1f8-4b55-801c-61108253139e,e10f192f-da8c-4b9b-a950-32e56777a8e5,Stressed,Personal reflection,2024-03-06T14:30:03.885518,Take a break
+ef376268-3969-4471-9405-0601ae92d146,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Anxious,Personal reflection,2025-02-04T14:30:03.885527,Practice deep breathing
+f9598765-fe49-4fc6-8f28-a58cb5ccf7e5,64c4608a-4849-4b58-be58-279217dcbd93,Anxious,Personal reflection,2024-09-19T14:30:03.885537,Practice deep breathing
+4a41e88f-6cb3-4298-aea5-aaa33b3e9afe,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Excited,Personal reflection,2024-07-22T14:30:03.885546,Celebrate with friends
+e2c447f2-b542-483c-9d8b-71601b259399,e38ab0f7-43c6-4ffa-b309-52db441dba68,Angry,Personal reflection,2024-07-07T14:30:03.885556,Try meditation
+efe76ffb-6be9-45e0-bd1f-356a562bd665,5106ad09-1514-4481-98bd-a64b172c7f61,Angry,Personal reflection,2024-05-17T14:30:03.885566,Try meditation
+35bf5f6b-2299-4865-a9f5-6ee37de6d08b,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Calm,Personal reflection,2025-01-12T14:30:03.885575,Enjoy the moment
+ff75dbac-ed09-4c9e-9fd2-8072abfc5640,20c4bc00-a849-435d-b884-20e2ddfca6d7,Neutral,Personal reflection,2025-01-29T14:30:03.885585,No action assigned
+eb413457-6bd2-49e1-8dae-890a2ab51c9c,57a0f366-222e-4464-844d-0d86c61c6b5c,Happy,Personal reflection,2024-09-17T14:30:03.885595,Continue daily routine
+e7b06cfc-aef0-45b6-9cde-ca91ea8c3ec9,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Relaxed,Personal reflection,2024-04-20T14:30:03.885605,No action assigned
+e203b56e-d094-4524-9ca8-e8cddcae0c57,2f410741-3375-4262-ac78-61269a66718c,Angry,Personal reflection,2024-09-21T14:30:03.885615,Try meditation
+eb589d93-293e-4c07-8f5c-f45866200968,d6da8ecd-2388-4869-bc3a-3c2680f32130,Stressed,Personal reflection,2024-08-09T14:30:03.885624,Take a break
+858b838f-f672-4f0c-986d-595b58c7f967,75910b19-8bce-4797-9958-b71ea0d50486,Depressed,Personal reflection,2024-10-30T14:30:03.885635,Talk to a friend or therapist
+d1334bd9-4b6c-4708-a333-e991c10cd547,7cb7702b-38d0-4c91-9ae0-00f96462af01,Angry,Personal reflection,2024-05-22T14:30:03.885645,Try meditation
+a296abd8-b934-4db9-b719-c9c1c879d2ce,2413cfc6-785f-4340-b331-7a56e35e2aab,Depressed,Personal reflection,2024-11-04T14:30:03.885660,Talk to a friend or therapist
+02b15ba6-12fd-4efc-bb59-7e35a634fc96,8d049976-e3e5-4ec7-89d5-35badad24022,Depressed,Personal reflection,2024-04-06T14:30:03.885675,Talk to a friend or therapist
+21cf9738-350c-493d-8def-76bef5540b9f,8d049976-e3e5-4ec7-89d5-35badad24022,Neutral,Personal reflection,2024-06-09T14:30:03.885692,No action assigned
+4d5ea508-93b5-4fa2-8b8c-6c8222f33401,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Stressed,Personal reflection,2024-05-18T14:30:03.885709,Take a break
+6fd74f2b-827e-4de5-8656-ee15df785ba4,78643191-4894-42ce-b6ed-c645582e8822,Anxious,Personal reflection,2024-10-31T14:30:03.885731,Practice deep breathing
+9c463869-1ffc-4082-a8b0-04d746e5d4ed,64c4608a-4849-4b58-be58-279217dcbd93,Neutral,Personal reflection,2024-07-15T14:30:03.885773,No action assigned
+4db014f6-e882-4d95-9047-8dcb1e00f8eb,becc7a2a-0155-4c4b-8647-e0e092c15d45,Anxious,Personal reflection,2024-07-31T14:30:03.885783,Practice deep breathing
+d512437c-1b7d-4369-8917-1d3e3ebe802b,d6da8ecd-2388-4869-bc3a-3c2680f32130,Excited,Personal reflection,2024-08-22T14:30:03.885794,Celebrate with friends
+233f4a88-9384-41ec-93e4-39b0051ff102,f472673b-129c-4c2d-b8ca-3f6d59637d61,Happy,Personal reflection,2024-03-18T14:30:03.885809,Continue daily routine
+e532a3fa-7600-468e-a66e-8a9f85612475,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Angry,Personal reflection,2024-12-24T14:30:03.885824,Try meditation
+ec17182e-14ae-4471-99da-efff18972ca4,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Angry,Personal reflection,2025-02-05T14:30:03.885839,Try meditation
+03647e94-8f14-4540-bcec-c504467f7a23,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Relaxed,Personal reflection,2024-07-22T14:30:03.885862,No action assigned
+0ad6a57c-b725-4d78-9d80-9b2ec0a42f67,f17321f1-dc90-4bac-a6e9-bd1e181770da,Depressed,Personal reflection,2024-05-30T14:30:03.885873,Talk to a friend or therapist
+d542318b-1f99-4ec4-a4d9-44fcaed4ca25,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Calm,Personal reflection,2024-09-11T14:30:03.885883,Enjoy the moment
+f3113d14-cbf3-454c-a25d-4910841fed48,57a0f366-222e-4464-844d-0d86c61c6b5c,Happy,Personal reflection,2024-08-16T14:30:03.885892,Continue daily routine
+751cd4af-57e6-441f-97e8-ab2660166c27,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Sad,Personal reflection,2024-08-05T14:30:03.885902,Listen to relaxing music
+bf269d99-f919-4988-8b35-d46a823f91a6,5106ad09-1514-4481-98bd-a64b172c7f61,Excited,Personal reflection,2024-12-21T14:30:03.885913,Celebrate with friends
+a6168e7a-ef99-42d7-9642-440b18b821f2,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Happy,Personal reflection,2024-06-23T14:30:03.885922,Continue daily routine
+75be892a-3d00-4a1c-9dac-1ccd6a91c579,78643191-4894-42ce-b6ed-c645582e8822,Excited,Personal reflection,2024-12-01T14:30:03.885932,Celebrate with friends
+beb61e4e-a3c1-433d-8aa8-88c9392488a1,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Stressed,Personal reflection,2024-08-21T14:30:03.885942,Take a break
+9b012496-0dcb-4965-bdba-e0fa5ae5b2e5,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Angry,Personal reflection,2025-02-17T14:30:03.885952,Try meditation
+23ff5f71-ecf3-44a0-bc9e-0696e0d7a56c,e2102598-256b-4e8c-839a-fc7524787f9d,Calm,Personal reflection,2024-10-05T14:30:03.885962,Enjoy the moment
+839761d8-ca42-4147-8a60-ad7375aae2bb,ee7fd89d-bc19-4360-8548-5dcc170c238c,Happy,Personal reflection,2024-12-21T14:30:03.885971,Continue daily routine
+755ce1a4-57d9-4d59-be7d-2bc7b24433c8,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Calm,Personal reflection,2024-08-18T14:30:03.885981,Enjoy the moment
+8299cd6e-fb96-4bbe-84c9-9c326582161c,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Neutral,Personal reflection,2024-10-11T14:30:03.886009,No action assigned
+2c1fe984-c5a3-4e2b-9ea5-7190a7bd4794,20c4bc00-a849-435d-b884-20e2ddfca6d7,Calm,Personal reflection,2025-01-18T14:30:03.886127,Enjoy the moment
+a3a3a11b-97fe-4aaa-9674-3959e44ba066,d6da8ecd-2388-4869-bc3a-3c2680f32130,Relaxed,Personal reflection,2024-10-23T14:30:03.886190,No action assigned
+2b0cbe5f-4885-4873-8be8-651ac97e11f8,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Depressed,Personal reflection,2024-08-04T14:30:03.886230,Talk to a friend or therapist
+90c6e211-06bb-444c-a1bf-f0bc4e650ce3,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Neutral,Personal reflection,2025-02-04T14:30:03.886267,No action assigned
+2033b6ca-1486-4a9f-b888-49aa9f0016bb,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Neutral,Personal reflection,2024-08-22T14:30:03.886280,No action assigned
+90780865-9f49-4b3f-91e3-b90d14f740e6,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Calm,Personal reflection,2024-09-19T14:30:03.886291,Enjoy the moment
+86ba155a-9754-4348-be79-b3eef3bf214d,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Relaxed,Personal reflection,2024-10-08T14:30:03.886302,No action assigned
+9270f0b9-3f61-4b5c-8e6a-9826e1f69491,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Angry,Personal reflection,2024-06-24T14:30:03.886312,Try meditation
+10f62208-a7a2-4c86-9779-2809e1b6ea35,7e9db291-18a4-4c3e-838a-35a35a70d396,Anxious,Personal reflection,2025-01-08T14:30:03.886322,Practice deep breathing
+93a17d82-e4fe-4fc5-a3c7-9eb608802eac,7e9db291-18a4-4c3e-838a-35a35a70d396,Stressed,Personal reflection,2025-01-31T14:30:03.886332,Take a break
+79dd76e8-192a-4b31-a8ce-79cd60c3178f,f17321f1-dc90-4bac-a6e9-bd1e181770da,Calm,Personal reflection,2024-11-15T14:30:03.886342,Enjoy the moment
+27af7dda-4187-4e5e-a285-feb8697ca1b4,becc7a2a-0155-4c4b-8647-e0e092c15d45,Sad,Personal reflection,2025-01-08T14:30:03.886366,Listen to relaxing music
+15269ff5-b983-4716-9f8f-25732f5ad98e,9fdb3419-adbe-4550-ba32-124b8be5f562,Depressed,Personal reflection,2024-03-15T14:30:03.886389,Talk to a friend or therapist
+f25700e5-4e5e-46dc-88ef-b57072a5dc6a,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Happy,Personal reflection,2024-07-01T14:30:03.886400,Continue daily routine
+65b5b076-5744-433e-becf-5105176aa203,14c109c9-cb20-45f9-8a71-112782b15287,Excited,Personal reflection,2024-07-27T14:30:03.886422,Celebrate with friends
+cdac9ff8-7e04-42e6-843e-2f6ce9cfa4fa,9fdb3419-adbe-4550-ba32-124b8be5f562,Happy,Personal reflection,2024-09-14T14:30:03.886437,Continue daily routine
+1dc99c95-477e-45e2-a63d-9c94244359c8,5106ad09-1514-4481-98bd-a64b172c7f61,Excited,Personal reflection,2024-10-24T14:30:03.886448,Celebrate with friends
+78c589d8-d3f5-4f8c-b55f-dde0de459224,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Happy,Personal reflection,2025-01-24T14:30:03.886458,Continue daily routine
+5f83b3b7-bd83-4016-9ffd-ef7190b2fc97,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Anxious,Personal reflection,2024-12-28T14:30:03.886474,Practice deep breathing
+8bb4a013-436a-43aa-9015-97f3618b84ac,d6da8ecd-2388-4869-bc3a-3c2680f32130,Calm,Personal reflection,2024-11-26T14:30:03.886484,Enjoy the moment
+955d8665-e6de-445c-96c7-52ced73e004e,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Happy,Personal reflection,2024-03-04T14:30:03.886494,Continue daily routine
+1d1e6bbb-48a4-4167-a39a-58dfbdd80bd6,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Depressed,Personal reflection,2024-08-20T14:30:03.886504,Talk to a friend or therapist
+4be02e02-5ab0-419e-b513-7b3288f76af7,28b18f0d-d8b4-4521-9978-c7730938ddaa,Relaxed,Personal reflection,2025-02-14T14:30:03.886515,No action assigned
+4b62d6f8-a762-4727-8584-7ab582068145,e2102598-256b-4e8c-839a-fc7524787f9d,Sad,Personal reflection,2024-07-19T14:30:03.886527,Listen to relaxing music
+59cc1c89-3dcd-4ee5-92e3-42f2589907b4,8823db5d-50bb-46b2-92ab-5b2de830cb8f,Sad,Personal reflection,2024-10-01T14:30:03.886537,Listen to relaxing music
+d9156919-445b-4ef7-b9cd-843f39c7f337,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Depressed,Personal reflection,2024-10-16T14:30:03.886547,Talk to a friend or therapist
+14151a9b-30bc-4fb5-9600-017ec3193c80,78643191-4894-42ce-b6ed-c645582e8822,Depressed,Personal reflection,2024-06-21T14:30:03.886557,Talk to a friend or therapist
+e8fbcac1-182c-4f57-bb64-fa01d6c03e98,78643191-4894-42ce-b6ed-c645582e8822,Anxious,Personal reflection,2025-01-25T14:30:03.886567,Practice deep breathing
+e95cc583-5f5f-4782-a42b-0c26cae03f6c,48887b97-8acc-453f-8143-d39045220d8b,Stressed,Personal reflection,2024-06-04T14:30:03.886581,Take a break
+04f9649b-2d3b-4164-a425-23ad3978d255,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Neutral,Personal reflection,2024-04-18T14:30:03.886592,No action assigned
+d48cf9b1-3889-4a87-95e4-194a66662882,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Anxious,Personal reflection,2024-12-21T14:30:03.886602,Practice deep breathing
+5d613bfb-af6f-40c0-9ef1-507b5e6ceefa,becc7a2a-0155-4c4b-8647-e0e092c15d45,Happy,Personal reflection,2024-11-09T14:30:03.886613,Continue daily routine
+af04565b-2b7d-450b-9217-27aadfbeeacd,5d42377a-af01-4b1b-a802-c7040598ccb6,Excited,Personal reflection,2024-11-02T14:30:03.886623,Celebrate with friends
+e4fba38c-52e2-41cf-86da-380b05f5a5f2,b0b79f86-555f-4bb5-a14c-1c0c14c26fa1,Relaxed,Personal reflection,2025-02-03T14:30:03.886633,No action assigned
+3e13812a-2300-4ccd-ba20-7c7478a4358f,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Stressed,Personal reflection,2024-06-19T14:30:03.886644,Take a break
+5e593cb8-7c36-40e7-9dc6-384b4b1edc90,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Happy,Personal reflection,2025-01-31T14:30:03.886654,Continue daily routine
+7b2e8e4b-7a62-49e6-8be1-fa9b7fee24f4,5106ad09-1514-4481-98bd-a64b172c7f61,Happy,Personal reflection,2024-05-16T14:30:03.886664,Continue daily routine
+a149bc2a-f4af-45d0-a5a8-9c783ed7d7b9,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Happy,Personal reflection,2024-09-27T14:30:03.886674,Continue daily routine
+36591e46-3075-4e88-8606-e2f66de70695,48887b97-8acc-453f-8143-d39045220d8b,Anxious,Personal reflection,2024-08-21T14:30:03.886684,Practice deep breathing
+dc2df177-715f-44d8-be18-afde33d99d39,28b18f0d-d8b4-4521-9978-c7730938ddaa,Sad,Personal reflection,2024-06-21T14:30:03.886693,Listen to relaxing music
+ab9b9a8c-4fc6-47ef-8c55-4ecc44ba943e,2f410741-3375-4262-ac78-61269a66718c,Stressed,Personal reflection,2024-12-01T14:30:03.886721,Take a break
+9543e5c9-0f7e-4ac0-9762-45bb77d74bd7,28b18f0d-d8b4-4521-9978-c7730938ddaa,Depressed,Personal reflection,2024-10-31T14:30:03.886742,Talk to a friend or therapist
+fedea028-5d7f-4b53-b678-870fc03c6c60,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Happy,Personal reflection,2024-06-22T14:30:03.886755,Continue daily routine
+536d4431-43fa-48a4-8433-3c2d1441ade5,ee7fd89d-bc19-4360-8548-5dcc170c238c,Neutral,Personal reflection,2024-08-02T14:30:03.886770,No action assigned
+906c9396-364c-4ec3-8af6-1c4070a8f705,7e9db291-18a4-4c3e-838a-35a35a70d396,Sad,Personal reflection,2024-08-16T14:30:03.886781,Listen to relaxing music
+98d01161-002a-4d8c-a0f2-85effc1494f6,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Excited,Personal reflection,2024-06-29T14:30:03.886797,Celebrate with friends
+0d2a3ba5-04ee-4d6d-b153-4d170c984299,14c109c9-cb20-45f9-8a71-112782b15287,Excited,Personal reflection,2024-05-09T14:30:03.886818,Celebrate with friends
+dfc6a104-26bb-4014-ba16-44e12d9bcb15,2f410741-3375-4262-ac78-61269a66718c,Happy,Personal reflection,2024-12-02T14:30:03.886857,Continue daily routine
+8a441236-6a22-4656-92a2-8122673ea5d7,2f410741-3375-4262-ac78-61269a66718c,Happy,Personal reflection,2024-09-14T14:30:03.886880,Continue daily routine
+1b0c06ea-e5b3-4eb4-93e0-99b910fbaad1,5106ad09-1514-4481-98bd-a64b172c7f61,Excited,Personal reflection,2024-07-02T14:30:03.886923,Celebrate with friends
+8d3f378f-4a84-4bc4-963e-8a544b27a7a4,7cb7702b-38d0-4c91-9ae0-00f96462af01,Sad,Personal reflection,2024-06-10T14:30:03.887044,Listen to relaxing music
+931aee56-00fc-470a-b884-958d2c1cecd7,57a0f366-222e-4464-844d-0d86c61c6b5c,Excited,Personal reflection,2024-04-09T14:30:03.887103,Celebrate with friends
+19126a0a-0d74-4846-9f1d-9f5c0ab5a490,e38ab0f7-43c6-4ffa-b309-52db441dba68,Happy,Personal reflection,2024-09-21T14:30:03.887141,Continue daily routine
+a4127c27-e5a6-4956-a520-30f95da64a9c,20c4bc00-a849-435d-b884-20e2ddfca6d7,Stressed,Personal reflection,2024-07-06T14:30:03.887161,Take a break
+acf2ab21-8ed9-4233-8d8c-5a4c798c7202,7cb7702b-38d0-4c91-9ae0-00f96462af01,Neutral,Personal reflection,2025-02-20T14:30:03.887178,No action assigned
+fc9554f0-ed66-4032-95a0-808dec33c268,8d049976-e3e5-4ec7-89d5-35badad24022,Sad,Personal reflection,2024-09-14T14:30:03.887218,Listen to relaxing music
+cae9ed98-487f-4a77-8235-719289e60b85,f17321f1-dc90-4bac-a6e9-bd1e181770da,Anxious,Personal reflection,2024-10-06T14:30:03.887262,Practice deep breathing
+1ce15bb9-cff1-48b2-a017-e18b8a5ec006,14c109c9-cb20-45f9-8a71-112782b15287,Sad,Personal reflection,2024-08-01T14:30:03.887280,Listen to relaxing music
+0f4d7146-96af-4ff3-aa18-5a6dd692cb5e,f17321f1-dc90-4bac-a6e9-bd1e181770da,Depressed,Personal reflection,2024-08-08T14:30:03.887298,Talk to a friend or therapist
+0044c8f7-4618-4693-bfeb-0db189b78a43,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Sad,Personal reflection,2024-10-02T14:30:03.887317,Listen to relaxing music
+613157e9-03d8-4eaf-a5a4-d726fbec0d4a,5d42377a-af01-4b1b-a802-c7040598ccb6,Angry,Personal reflection,2025-02-24T14:30:03.887333,Try meditation
+4f49bf20-245a-4861-8ad2-ac1161ec0a14,2413cfc6-785f-4340-b331-7a56e35e2aab,Neutral,Personal reflection,2024-07-13T14:30:03.887349,No action assigned
+7fb26752-92c7-4864-b322-a98c22c809e9,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Excited,Personal reflection,2024-04-01T14:30:03.887365,Celebrate with friends
+ea58aa67-b92f-4db7-9657-5f39890baa3a,f472673b-129c-4c2d-b8ca-3f6d59637d61,Happy,Personal reflection,2024-12-06T14:30:03.887381,Continue daily routine
+93e14fe7-704b-4552-827b-ba0264a5c468,5d42377a-af01-4b1b-a802-c7040598ccb6,Anxious,Personal reflection,2024-07-25T14:30:03.887397,Practice deep breathing
+30d6f27e-cda2-4375-9ea6-749bf862e96a,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Relaxed,Personal reflection,2024-03-13T14:30:03.887413,No action assigned
+abb0cd6b-7d13-4024-96ec-7417d3ab2ef8,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Stressed,Personal reflection,2024-05-06T14:30:03.887432,Take a break
+8aad2f5b-dd33-4fa2-940a-3eb7e02d13bc,becc7a2a-0155-4c4b-8647-e0e092c15d45,Relaxed,Personal reflection,2024-12-11T14:30:03.887451,No action assigned
+f6a0a39f-bfb6-4a10-92ba-65e0bbf23058,57a0f366-222e-4464-844d-0d86c61c6b5c,Angry,Personal reflection,2024-08-08T14:30:03.887606,Try meditation
+c834fa65-926d-4558-abf6-412294a41e62,e2102598-256b-4e8c-839a-fc7524787f9d,Stressed,Personal reflection,2024-04-26T14:30:03.887668,Take a break
+25fd2515-b192-4862-90e7-27fd09e7dee2,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Angry,Personal reflection,2024-05-30T14:30:03.887702,Try meditation
+13260484-515b-4c3c-ba47-61a2db945e5c,57a0f366-222e-4464-844d-0d86c61c6b5c,Relaxed,Personal reflection,2024-09-26T14:30:03.887730,No action assigned
+98870145-383d-4c35-bcd5-4f1e4f276cef,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Anxious,Personal reflection,2024-11-08T14:30:03.887740,Practice deep breathing
+602dd8ad-1981-478e-9798-01ad2697b0b6,78643191-4894-42ce-b6ed-c645582e8822,Anxious,Personal reflection,2024-09-07T14:30:03.887752,Practice deep breathing
+c159ff7b-57e9-418c-b93e-bb800f3762fe,e10f192f-da8c-4b9b-a950-32e56777a8e5,Angry,Personal reflection,2024-11-13T14:30:03.887762,Try meditation
+5c3d0994-607f-40b5-8263-168fd2541bd9,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Angry,Personal reflection,2024-03-26T14:30:03.887784,Try meditation
+ffde2632-d536-4d6d-ac06-6638f515e053,2f410741-3375-4262-ac78-61269a66718c,Excited,Personal reflection,2024-07-29T14:30:03.887806,Celebrate with friends
+bf52be7a-d2c9-44bb-b2b8-db6c52ecfee6,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Neutral,Personal reflection,2024-06-16T14:30:03.887817,No action assigned
+ad86ae14-09ce-4a08-9773-396c061905c7,7e9db291-18a4-4c3e-838a-35a35a70d396,Calm,Personal reflection,2024-07-01T14:30:03.887836,Enjoy the moment
+abfdd6f4-c4eb-4e7f-bad4-2565ec8b69c4,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Angry,Personal reflection,2024-04-05T14:30:03.887861,Try meditation
+b3269916-8dda-474b-a6fd-14e60417f9de,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Anxious,Personal reflection,2024-07-09T14:30:03.887891,Practice deep breathing
+807df9a9-6347-4c22-b347-caf22749b4f9,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Neutral,Personal reflection,2024-11-09T14:30:03.887901,No action assigned
+b007bd27-cc0a-445e-83ff-37a7bd4eb56b,f17321f1-dc90-4bac-a6e9-bd1e181770da,Depressed,Personal reflection,2024-09-01T14:30:03.887915,Talk to a friend or therapist
+9922fa38-cf4c-43c8-bb77-30afbc66a7bc,f17321f1-dc90-4bac-a6e9-bd1e181770da,Depressed,Personal reflection,2024-03-30T14:30:03.887934,Talk to a friend or therapist
+42853f26-0e71-4a5c-9406-1baa856ba17b,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Stressed,Personal reflection,2025-02-15T14:30:03.887947,Take a break
+991f6003-ffad-4adb-9d25-f80523b3ad03,7cb7702b-38d0-4c91-9ae0-00f96462af01,Anxious,Personal reflection,2024-03-09T14:30:03.887958,Practice deep breathing
+ffab16b9-9f38-4fdd-ad2e-b303c06631b0,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Excited,Personal reflection,2024-03-14T14:30:03.887970,Celebrate with friends
+110511eb-662e-4a94-b1ed-cd1ba3e04e90,20c4bc00-a849-435d-b884-20e2ddfca6d7,Happy,Personal reflection,2024-11-12T14:30:03.887994,Continue daily routine
+9feacdef-39b2-4cad-b725-a46453bafad4,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Neutral,Personal reflection,2024-03-11T14:30:03.888032,No action assigned
+dc313dee-9eda-41f6-8a4f-2a2bfc024750,e38ab0f7-43c6-4ffa-b309-52db441dba68,Stressed,Personal reflection,2024-05-07T14:30:03.888049,Take a break
+2d90237e-63b9-4f3d-97af-b3e589ce38e6,34dceb03-96c2-47d4-abb7-da567fd2fdfa,Anxious,Personal reflection,2024-04-13T14:30:03.888064,Practice deep breathing
+37cab272-0e48-4df5-bad9-f2e61e75e992,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Anxious,Personal reflection,2024-11-11T14:30:03.888080,Practice deep breathing
+d4018d55-d6bc-4868-8a58-bc52cb84aa1f,64c4608a-4849-4b58-be58-279217dcbd93,Angry,Personal reflection,2024-08-26T14:30:03.888091,Try meditation
+40412757-5a3c-4a32-b00a-fe03fd5f32d1,26c0f35a-6b65-4f1b-bea9-bb4d3ec23bb5,Calm,Personal reflection,2024-09-05T14:30:03.888117,Enjoy the moment
+4a0a0894-485e-4897-8ec3-2da4f3525ecd,f472673b-129c-4c2d-b8ca-3f6d59637d61,Depressed,Personal reflection,2024-09-17T14:30:03.888130,Talk to a friend or therapist
+40ad6ce5-1b95-44ab-bb62-c8fe23f1f4d9,48887b97-8acc-453f-8143-d39045220d8b,Depressed,Personal reflection,2024-05-12T14:30:03.888253,Talk to a friend or therapist
+1461fb94-4b53-45d7-87b3-7a97bbbeda83,14c109c9-cb20-45f9-8a71-112782b15287,Anxious,Personal reflection,2024-03-07T14:30:03.888285,Practice deep breathing
+77b61917-b453-4a7b-91f1-81739703dfad,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Anxious,Personal reflection,2024-11-01T14:30:03.888305,Practice deep breathing
+5240972e-e4d5-4ded-bd60-e6f0a0791f7e,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Stressed,Personal reflection,2025-01-06T14:30:03.888328,Take a break
+bf7eed97-36cf-4fee-a14f-a324dff63022,ee7fd89d-bc19-4360-8548-5dcc170c238c,Excited,Personal reflection,2024-07-13T14:30:03.888346,Celebrate with friends
+704884e4-7461-4837-a9bf-e63b56bf6a5d,e38ab0f7-43c6-4ffa-b309-52db441dba68,Calm,Personal reflection,2024-04-06T14:30:03.888383,Enjoy the moment
+e1bd9652-7c30-4bb8-99b5-04343fa915f0,57a0f366-222e-4464-844d-0d86c61c6b5c,Happy,Personal reflection,2024-03-06T14:30:03.888432,Continue daily routine
+94006439-f4f3-411a-af9c-d37b922f18b9,14c109c9-cb20-45f9-8a71-112782b15287,Depressed,Personal reflection,2024-06-09T14:30:03.888563,Talk to a friend or therapist
+28377279-8db9-4d13-902f-0e3d89c0e42e,8d049976-e3e5-4ec7-89d5-35badad24022,Stressed,Personal reflection,2024-03-12T14:30:03.888633,Take a break
+459333e5-70aa-4722-9d86-e4803af624ce,64c4608a-4849-4b58-be58-279217dcbd93,Depressed,Personal reflection,2024-09-10T14:30:03.888685,Talk to a friend or therapist
+a7ebeb08-9f03-4fc9-b6e3-5ccbb278edec,9fdb3419-adbe-4550-ba32-124b8be5f562,Calm,Personal reflection,2024-05-17T14:30:03.888705,Enjoy the moment
+9078148f-d596-4881-8b32-1b92010ba458,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Happy,Personal reflection,2024-03-11T14:30:03.888720,Continue daily routine
+f0a371c8-1305-476d-93f2-a0676926deb7,78643191-4894-42ce-b6ed-c645582e8822,Excited,Personal reflection,2024-08-04T14:30:03.888748,Celebrate with friends
+0b2694ca-eadb-4838-9615-e075bd3071d5,2413cfc6-785f-4340-b331-7a56e35e2aab,Excited,Personal reflection,2024-04-03T14:30:03.888761,Celebrate with friends
+c8613143-7bd7-4421-b853-8836011d68a1,75910b19-8bce-4797-9958-b71ea0d50486,Sad,Personal reflection,2024-10-11T14:30:03.888772,Listen to relaxing music
+bf71eab1-ed71-490f-b559-c995cfe2707f,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Sad,Personal reflection,2024-05-08T14:30:03.888784,Listen to relaxing music
+1f100443-2244-4b9c-8fde-4638000e44fc,e38ab0f7-43c6-4ffa-b309-52db441dba68,Excited,Personal reflection,2025-03-04T14:30:03.888816,Celebrate with friends
+e9266eb7-5213-4864-ba50-5be43a7653f5,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Relaxed,Personal reflection,2024-04-20T14:30:03.888836,No action assigned
+836e58be-ffe6-4305-b8e2-d9d426562dd9,20c4bc00-a849-435d-b884-20e2ddfca6d7,Anxious,Personal reflection,2024-11-21T14:30:03.888954,Practice deep breathing
+dc5d12b4-2098-490e-9e48-8b2da86605c8,657677ab-350d-4d1d-9ee9-de4dd8633fe1,Anxious,Personal reflection,2024-07-30T14:30:03.889009,Practice deep breathing
+e5938e5a-129d-41d4-8564-ca51c6bff9e7,9fdb3419-adbe-4550-ba32-124b8be5f562,Excited,Personal reflection,2024-11-13T14:30:03.889034,Celebrate with friends
+deda4d75-22b3-480b-aa6f-0cd4ae083486,44ed067a-6905-49e0-a4f4-2116592c2ad2,Sad,Personal reflection,2025-01-04T14:30:03.889058,Listen to relaxing music
+15916b30-d828-4973-9809-2d377ee180bd,75910b19-8bce-4797-9958-b71ea0d50486,Stressed,Personal reflection,2024-03-18T14:30:03.889096,Take a break
+0ef14237-b482-4ba3-9de5-a2f435215959,7cb7702b-38d0-4c91-9ae0-00f96462af01,Neutral,Personal reflection,2024-12-24T14:30:03.889132,No action assigned
+fc4f00d2-e1ac-40a1-9639-9469a3039c38,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Anxious,Personal reflection,2025-01-11T14:30:03.889162,Practice deep breathing
+840c82ef-1756-4d96-b407-fc9d636b7fda,2f410741-3375-4262-ac78-61269a66718c,Depressed,Personal reflection,2025-02-02T14:30:03.889187,Talk to a friend or therapist
+7dce30fa-1dc6-4034-af4a-83827ab54f0b,8d049976-e3e5-4ec7-89d5-35badad24022,Anxious,Personal reflection,2024-11-28T14:30:03.889216,Practice deep breathing
+9dcc09b4-a4aa-4796-8268-27664ef705ce,e38ab0f7-43c6-4ffa-b309-52db441dba68,Angry,Personal reflection,2024-12-23T14:30:03.889255,Try meditation
+d2ca86f0-8a79-4aff-b026-d8a18bc58fab,5106ad09-1514-4481-98bd-a64b172c7f61,Stressed,Personal reflection,2025-03-01T14:30:03.889274,Take a break
+6b566014-761c-449d-aab2-38aae584132b,ee7fd89d-bc19-4360-8548-5dcc170c238c,Angry,Personal reflection,2024-11-23T14:30:03.889296,Try meditation
+c492c7bf-f81d-457b-b07a-4e7b7765492f,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Excited,Personal reflection,2025-02-24T14:30:03.889312,Celebrate with friends
+27088c47-0c93-4baf-8bc8-8cdeeb473f67,9a149800-3d1a-44e2-b911-fde92e3b0eea,Angry,Personal reflection,2024-12-21T14:30:03.889330,Try meditation
+956e6cfd-8422-439c-a862-60342738610a,48887b97-8acc-453f-8143-d39045220d8b,Relaxed,Personal reflection,2025-02-15T14:30:03.889442,No action assigned
+4ec08157-fe47-4ff4-90be-ac0f7b363d7d,8d049976-e3e5-4ec7-89d5-35badad24022,Stressed,Personal reflection,2025-02-02T14:30:03.889495,Take a break
+9e1776ef-4c11-4e2b-b28f-b032485d9cc1,20c4bc00-a849-435d-b884-20e2ddfca6d7,Angry,Personal reflection,2024-09-14T14:30:03.889591,Try meditation
+23d0cd22-bb74-4092-9f79-58ce414f559c,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Sad,Personal reflection,2024-10-20T14:30:03.889654,Listen to relaxing music
+10d5c0c1-d88a-4bf3-98d6-7760528bf5a5,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Anxious,Personal reflection,2024-09-18T14:30:03.889695,Practice deep breathing
+1cda5d30-6b12-4d85-93b9-175d85acb6df,14c109c9-cb20-45f9-8a71-112782b15287,Neutral,Personal reflection,2024-05-16T14:30:03.889732,No action assigned
+8b88f28a-57c4-44fa-9e09-9536a5738357,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Anxious,Personal reflection,2024-04-26T14:30:03.889745,Practice deep breathing
+b262a1c8-532c-4aaa-862c-be8363b1f580,57a0f366-222e-4464-844d-0d86c61c6b5c,Sad,Personal reflection,2024-10-16T14:30:03.889764,Listen to relaxing music
+c0cf9a4f-7916-4641-a566-af148d934e6b,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Relaxed,Personal reflection,2024-05-28T14:30:03.889790,No action assigned
+93d41d87-d884-46c1-a38b-13e2bdc6c647,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Neutral,Personal reflection,2024-11-04T14:30:03.889804,No action assigned
+aa616a9d-630f-4f1a-8b88-eb4d20b3ebbb,071b5027-3fa9-4a2c-86f4-4f1993f18bd2,Depressed,Personal reflection,2024-03-04T14:30:03.889815,Talk to a friend or therapist
+2321135e-0ceb-4da6-89dc-c6a8c1863b52,48887b97-8acc-453f-8143-d39045220d8b,Sad,Personal reflection,2024-05-05T14:30:03.889837,Listen to relaxing music
+2f906540-e2dc-499c-80a3-e21e4ca8cc5d,20c4bc00-a849-435d-b884-20e2ddfca6d7,Stressed,Personal reflection,2024-10-13T14:30:03.890102,Take a break
+e48de841-f32d-4869-b3e1-c5a96e8b0c5d,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Sad,Personal reflection,2025-01-03T14:30:03.890175,Listen to relaxing music
+9d722dfc-f6e7-467b-801a-2ef1905de619,28b18f0d-d8b4-4521-9978-c7730938ddaa,Anxious,Personal reflection,2024-03-08T14:30:03.890195,Practice deep breathing
+0a165427-66df-41e7-8b5d-494a08d13a88,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Angry,Personal reflection,2024-06-26T14:30:03.890210,Try meditation
+bc4bb3d9-5bc0-45ab-b4f1-1541034e4edd,c674dfff-efca-4f45-b639-764d2ee8e905,Excited,Personal reflection,2024-12-24T14:30:03.890240,Celebrate with friends
+be3bea6d-4ef4-4a7f-9163-6a71d565ef45,7e9db291-18a4-4c3e-838a-35a35a70d396,Angry,Personal reflection,2024-12-19T14:30:03.890254,Try meditation
+ad0bf6c5-ea8f-4fdd-b3c4-f153566cdcd3,64c4608a-4849-4b58-be58-279217dcbd93,Neutral,Personal reflection,2024-06-17T14:30:03.890273,No action assigned
+b5a52794-95ac-47ea-925b-2cd4b952de0c,f17321f1-dc90-4bac-a6e9-bd1e181770da,Calm,Personal reflection,2024-08-14T14:30:03.890316,Enjoy the moment
+869d8416-9ed9-477e-a186-4d06a146e03c,5d42377a-af01-4b1b-a802-c7040598ccb6,Angry,Personal reflection,2024-10-23T14:30:03.890349,Try meditation
+da237977-dbdd-4bf4-9392-a626a1f7ee8d,f472673b-129c-4c2d-b8ca-3f6d59637d61,Excited,Personal reflection,2024-10-09T14:30:03.890365,Celebrate with friends
+b9fa9bd2-34bf-4a2d-b4e1-938384017a54,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Calm,Personal reflection,2025-01-21T14:30:03.890378,Enjoy the moment
+3eaee124-e790-4619-b307-80c8df6724c8,20c4bc00-a849-435d-b884-20e2ddfca6d7,Angry,Personal reflection,2025-02-12T14:30:03.890388,Try meditation
+8d086cf4-f491-45c1-a29b-bb2c08766e9f,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Calm,Personal reflection,2024-03-27T14:30:03.890404,Enjoy the moment
+b83bd7ef-2914-496c-b176-96d8190088d3,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Stressed,Personal reflection,2024-08-07T14:30:03.890415,Take a break
+ef8b0195-068f-4f11-b5b5-1e3bf44e5411,d6da8ecd-2388-4869-bc3a-3c2680f32130,Excited,Personal reflection,2025-01-09T14:30:03.890426,Celebrate with friends
+625611af-b332-4267-a706-1b24ce47aefb,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Excited,Personal reflection,2024-11-24T14:30:03.890436,Celebrate with friends
+3ec9f33d-c7c5-4dfb-9b99-143f27ed0cd4,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Stressed,Personal reflection,2024-03-11T14:30:03.890447,Take a break
+bacb3287-44a1-4109-9222-f48c6a62a2a5,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Depressed,Personal reflection,2024-12-04T14:30:03.890459,Talk to a friend or therapist
+f844e504-9b86-402d-be73-b612e0d9e6c8,8d049976-e3e5-4ec7-89d5-35badad24022,Happy,Personal reflection,2024-09-25T14:30:03.890470,Continue daily routine
+d501bd58-bf1c-4d4d-a7ec-bc2b6e548a04,e2102598-256b-4e8c-839a-fc7524787f9d,Happy,Personal reflection,2024-03-26T14:30:03.890481,Continue daily routine
+976dcb50-771c-49c7-8319-1f1b280808a2,e10f192f-da8c-4b9b-a950-32e56777a8e5,Sad,Personal reflection,2024-11-02T14:30:03.890491,Listen to relaxing music
+701093bc-3767-4241-9190-630c97b7e674,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Stressed,Personal reflection,2024-08-27T14:30:03.890502,Take a break
+59ca87b6-2a51-4b92-9ee8-07137c2207e1,2f410741-3375-4262-ac78-61269a66718c,Angry,Personal reflection,2024-07-16T14:30:03.890513,Try meditation
+8e3c405d-e1eb-4ea0-8f1f-adb98d276143,5106ad09-1514-4481-98bd-a64b172c7f61,Neutral,Personal reflection,2024-04-22T14:30:03.890526,No action assigned
+864e8647-b38a-4dae-b577-2dc48f36205c,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Angry,Personal reflection,2025-02-26T14:30:03.890536,Try meditation
+24af65f9-af42-47cf-b8d1-9d9007b4c534,5d42377a-af01-4b1b-a802-c7040598ccb6,Anxious,Personal reflection,2025-01-12T14:30:03.890547,Practice deep breathing
+df999150-4695-4fb6-81c7-7937222b2c2d,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Happy,Personal reflection,2024-09-29T14:30:03.890558,Continue daily routine
+e1213564-8b7d-4a53-96fc-93f31d28f5a3,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Depressed,Personal reflection,2025-02-04T14:30:03.890568,Talk to a friend or therapist
+3c263933-a07d-4268-9e72-bf671057214c,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Calm,Personal reflection,2024-09-09T14:30:03.890579,Enjoy the moment
+e0ae26de-20c5-41f4-a278-60d5ec5d56a7,ee6edb44-8c16-4e28-bdc1-5ad32f3e51d4,Happy,Personal reflection,2025-02-05T14:30:03.890589,Continue daily routine
+2c1a5def-f2b1-4dc8-971d-b1565ac859af,9a149800-3d1a-44e2-b911-fde92e3b0eea,Anxious,Personal reflection,2024-07-21T14:30:03.890600,Practice deep breathing
+7ea97d4d-aa0c-45b1-a79a-214c3821f604,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Calm,Personal reflection,2024-07-10T14:30:03.890618,Enjoy the moment
+1a150cee-9d36-4c2b-8df0-b89ff566a753,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Sad,Personal reflection,2024-07-26T14:30:03.890641,Listen to relaxing music
+426323d9-0f0d-4840-afdf-d474b6e5ed27,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Calm,Personal reflection,2024-09-18T14:30:03.890665,Enjoy the moment
+cdc60ec6-6565-4c24-b9ed-d83187102263,9fdb3419-adbe-4550-ba32-124b8be5f562,Calm,Personal reflection,2024-10-13T14:30:03.890675,Enjoy the moment
+90b13267-5a98-4cf8-9032-416bfeec4c05,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Excited,Personal reflection,2024-03-08T14:30:03.890685,Celebrate with friends
+7b6a108f-c567-445a-a535-5bba492e0621,9fdb3419-adbe-4550-ba32-124b8be5f562,Neutral,Personal reflection,2025-01-02T14:30:03.890698,No action assigned
+b5a607dc-dd35-42c6-b0db-8469cb53b3f3,2413cfc6-785f-4340-b331-7a56e35e2aab,Anxious,Personal reflection,2025-02-27T14:30:03.890729,Practice deep breathing
+5ecf3548-f74b-4c31-b280-f21801de4b20,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Anxious,Personal reflection,2024-06-15T14:30:03.890740,Practice deep breathing
+e7bd37ee-2ba4-4665-b47f-c3c8f37bd9e4,9a149800-3d1a-44e2-b911-fde92e3b0eea,Depressed,Personal reflection,2024-10-03T14:30:03.890756,Talk to a friend or therapist
+ffafe046-2518-4e55-9434-9801c59f991e,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Sad,Personal reflection,2025-02-06T14:30:03.890771,Listen to relaxing music
+87f4bb28-417c-47e0-8131-af719a860c63,f17321f1-dc90-4bac-a6e9-bd1e181770da,Sad,Personal reflection,2024-07-08T14:30:03.890784,Listen to relaxing music
+ffef5c71-6a39-4542-ab12-fa4f0c8fcea0,e38ab0f7-43c6-4ffa-b309-52db441dba68,Angry,Personal reflection,2024-04-14T14:30:03.890800,Try meditation
+d76f7372-0b90-4718-993d-e7f1424bba63,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Excited,Personal reflection,2024-12-26T14:30:03.890810,Celebrate with friends
+51c29bfa-d3a2-4c8f-8e9d-bc4a78d8b2a8,e10f192f-da8c-4b9b-a950-32e56777a8e5,Sad,Personal reflection,2024-09-05T14:30:03.890827,Listen to relaxing music
+e3b8b10a-6f7b-4863-82fe-dc6c392d2816,75910b19-8bce-4797-9958-b71ea0d50486,Stressed,Personal reflection,2024-10-23T14:30:03.890842,Take a break
+257b270f-2fbe-4640-9d3e-6fa5b9384aa7,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Calm,Personal reflection,2024-06-03T14:30:03.890854,Enjoy the moment
+bc438257-fe3b-4b40-807c-ce20da7b3074,78643191-4894-42ce-b6ed-c645582e8822,Sad,Personal reflection,2024-10-29T14:30:03.890866,Listen to relaxing music
+a9f4e4ee-f005-4d19-b74c-a4096a88f5cf,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Happy,Personal reflection,2024-07-27T14:30:03.890877,Continue daily routine
+e6ced085-7c26-4627-ac7d-e9440496c8cd,7e9db291-18a4-4c3e-838a-35a35a70d396,Anxious,Personal reflection,2025-01-26T14:30:03.890891,Practice deep breathing
+75f1c030-4de2-4c6e-b316-05e34209c3c5,e10f192f-da8c-4b9b-a950-32e56777a8e5,Depressed,Personal reflection,2024-08-29T14:30:03.890906,Talk to a friend or therapist
+c1cf8c40-0618-48f8-ba02-e0267539ea8e,57a0f366-222e-4464-844d-0d86c61c6b5c,Angry,Personal reflection,2024-11-24T14:30:03.890917,Try meditation
+361daf7c-8cfa-4e72-aee4-863fb7896737,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Angry,Personal reflection,2024-05-31T14:30:03.890927,Try meditation
+0870c32c-18fd-432c-82ff-99600ad19122,e6b1edb8-6ff3-4537-87c3-bf0c5e1ff932,Stressed,Personal reflection,2024-04-06T14:30:03.890950,Take a break
+63ee7037-da83-4018-9d49-3be8f08b6d9e,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Angry,Personal reflection,2024-08-19T14:30:03.890961,Try meditation
+89bb302c-d985-480d-884e-b28d4b7e6510,14c109c9-cb20-45f9-8a71-112782b15287,Angry,Personal reflection,2024-09-17T14:30:03.890972,Try meditation
+9182a705-a335-411b-890f-a5b6f5db2a68,44ed067a-6905-49e0-a4f4-2116592c2ad2,Angry,Personal reflection,2024-10-24T14:30:03.890983,Try meditation
+f458522f-90b2-423b-b007-f31daca3e598,7e9db291-18a4-4c3e-838a-35a35a70d396,Anxious,Personal reflection,2024-09-27T14:30:03.890994,Practice deep breathing
+02b92edb-f53d-40b8-aecc-8b9df5629901,20c4bc00-a849-435d-b884-20e2ddfca6d7,Sad,Personal reflection,2025-02-08T14:30:03.891004,Listen to relaxing music
+5b972dae-14d8-4ada-ad39-65642d5d6ed4,d2d9cb2d-defb-430d-8f71-2fbc51a02bc6,Sad,Personal reflection,2024-10-03T14:30:03.891014,Listen to relaxing music
+de6d6d88-3e7a-4f96-bf68-a224fd1215f1,e66f7c6f-0c7c-4686-b7cd-dfe27916a9dd,Sad,Personal reflection,2024-05-23T14:30:03.891025,Listen to relaxing music
+c5c823d5-46bc-45a3-97a0-7450c450783a,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Calm,Personal reflection,2024-07-18T14:30:03.891035,Enjoy the moment
+b0878a2a-215c-48ff-8649-11a1c42a9939,becc7a2a-0155-4c4b-8647-e0e092c15d45,Calm,Personal reflection,2024-10-07T14:30:03.891047,Enjoy the moment
+a1b54513-4909-4e54-99d3-478dec735623,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Excited,Personal reflection,2024-06-12T14:30:03.891057,Celebrate with friends
+46e34a70-ad48-4dfb-ad6a-f897a70f08c7,f17321f1-dc90-4bac-a6e9-bd1e181770da,Calm,Personal reflection,2025-01-26T14:30:03.891073,Enjoy the moment
+7eb96c79-a3b3-4743-999f-be5a62cb0093,9fdb3419-adbe-4550-ba32-124b8be5f562,Stressed,Personal reflection,2024-09-27T14:30:03.891084,Take a break
+c8959f27-d314-4164-bfb2-56d280288e37,2413cfc6-785f-4340-b331-7a56e35e2aab,Stressed,Personal reflection,2025-02-11T14:30:03.891096,Take a break
+ea48729f-618d-47ed-856f-6c76cb0a42d3,64c4608a-4849-4b58-be58-279217dcbd93,Anxious,Personal reflection,2024-06-18T14:30:03.891106,Practice deep breathing
+757be42f-ccf4-4eb6-bc30-7ae5a2d8c95a,14c109c9-cb20-45f9-8a71-112782b15287,Neutral,Personal reflection,2025-02-23T14:30:03.891117,No action assigned
+6ca07108-641f-476b-a415-d053c66b645e,28b18f0d-d8b4-4521-9978-c7730938ddaa,Sad,Personal reflection,2024-09-12T14:30:03.891131,Listen to relaxing music
+6d3b00cb-ee98-446f-b44a-01a8c8787ecc,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Excited,Personal reflection,2024-11-03T14:30:03.891143,Celebrate with friends
+a1dec1af-7654-4650-a9e0-94908a45dae3,5106ad09-1514-4481-98bd-a64b172c7f61,Stressed,Personal reflection,2024-11-15T14:30:03.891154,Take a break
+cc032fa4-ace5-4ca4-837b-5d5d30091170,79c56ba1-9bc5-49aa-a74e-58bb9b99be87,Relaxed,Personal reflection,2024-07-02T14:30:03.891167,No action assigned
+51e13c5f-a4c8-42db-b4a3-8119a5fd6ae4,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Happy,Personal reflection,2024-09-19T14:30:03.891177,Continue daily routine
+573c59f9-ac77-4f99-8680-c3189f069a48,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Depressed,Personal reflection,2025-01-16T14:30:03.891237,Talk to a friend or therapist
+f1542116-6a69-4544-9b81-89835954ea89,5a89f3b2-7e81-4b8e-bd36-4148a8d66cd7,Excited,Personal reflection,2024-05-24T14:30:03.891262,Celebrate with friends
+e39bfb13-7aae-4498-a028-7579944e4341,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Relaxed,Personal reflection,2024-09-06T14:30:03.891293,No action assigned
+91ae8976-356d-48e9-bf2d-2de6c5dbc22b,83eb1330-e1d8-45b6-9ea1-74587f4c1a47,Calm,Personal reflection,2024-07-29T14:30:03.891308,Enjoy the moment
+a0c406b7-6d84-48fc-90ce-e4969531872d,78643191-4894-42ce-b6ed-c645582e8822,Calm,Personal reflection,2025-01-04T14:30:03.891323,Enjoy the moment
+4051d457-f010-4056-b5e9-683b9dd9f6dd,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Excited,Personal reflection,2024-04-25T14:30:03.891334,Celebrate with friends
+7a293946-8708-491e-9349-3ba41967528e,e10f192f-da8c-4b9b-a950-32e56777a8e5,Excited,Personal reflection,2024-12-21T14:30:03.891344,Celebrate with friends
+bf82bc09-a8c5-4df4-88a7-e921e8569775,ab3ddc1d-512c-43fe-9bca-b7eb069a9c06,Relaxed,Personal reflection,2024-03-18T14:30:03.891355,No action assigned
+f8b3b6f2-a090-4e6f-a1a3-4e14acc41a6b,151f169f-30af-4287-ace4-3d22846e622b,Anxious,Personal reflection,2024-11-19T14:30:03.891365,Practice deep breathing
+2c0d029a-db46-49bd-9160-4c021f4f968c,e38ab0f7-43c6-4ffa-b309-52db441dba68,Stressed,Personal reflection,2025-01-04T14:30:03.891376,Take a break
+374ccd67-86e0-474d-a792-32f2cdeb60c5,68df80a8-3672-4f0a-bfb0-0315a0e3aca1,Neutral,Personal reflection,2024-06-22T14:30:03.891386,No action assigned
+0da8df66-3782-4e6f-9ee7-d8740dcf9505,90dce4e0-80ed-40f6-a581-2e33a45fbb67,Sad,Personal reflection,2024-06-07T14:30:03.891396,Listen to relaxing music
+3962fe7d-e901-4811-88c8-72b492ebf8c9,e38ab0f7-43c6-4ffa-b309-52db441dba68,Relaxed,Personal reflection,2024-12-02T14:30:03.891407,No action assigned
+360370d2-5f68-4e57-b609-7ceb17d3ad57,2413cfc6-785f-4340-b331-7a56e35e2aab,Anxious,Personal reflection,2024-09-22T14:30:03.891417,Practice deep breathing
+996ef227-79da-4e0e-af10-03f8e0833b16,14c109c9-cb20-45f9-8a71-112782b15287,Sad,Personal reflection,2025-02-12T14:30:03.891429,Listen to relaxing music
+4da445da-29a4-4c1d-8fe6-14555ad188aa,e38ab0f7-43c6-4ffa-b309-52db441dba68,Calm,Personal reflection,2024-10-03T14:30:03.891440,Enjoy the moment
+c773c09e-2c09-4fbf-a6c4-2a3028544159,af6a31dc-6808-44ee-85d3-e32ce92ad78a,Happy,Personal reflection,2024-05-01T14:30:03.891450,Continue daily routine
+9e297c1b-6197-4af7-9676-6aa281981127,7f3a9fe6-43fe-42af-bee9-8aea31cba831,Excited,Personal reflection,2024-12-11T14:30:03.891467,Celebrate with friends
+b83453e6-126b-48f5-911f-db15ebcf4c2a,56e1da0f-b816-4b88-9d3a-4a722aa7ddf0,Depressed,Personal reflection,2025-01-12T14:30:03.891478,Talk to a friend or therapist
+b7a9f37d-fea0-424e-8108-20fdb73d0adb,d45dca7f-288e-42fc-b117-a8252a6a3cd3,Sad,Personal reflection,2024-03-17T14:30:03.891489,Listen to relaxing music
+4373facb-8f4b-45cf-b624-b0b0148a7728,fb5e4264-0433-4c78-a38a-f24a6dbbabf1,Happy,Personal reflection,2025-03-03T14:30:03.891499,Continue daily routine
+de2c80b0-192e-44ce-9221-2a3b69c9e90f,7f1e3eb0-1a69-49f4-bb58-5161a42f8961,Calm,Personal reflection,2024-05-09T14:30:03.891509,Enjoy the moment
+f52614c2-dfbf-4765-99ea-773896a9839a,7e9db291-18a4-4c3e-838a-35a35a70d396,Calm,Personal reflection,2025-01-31T14:30:03.891519,Enjoy the moment
+c47b635d-2a4a-4e84-bbd0-c052d63dde13,14c109c9-cb20-45f9-8a71-112782b15287,Calm,Personal reflection,2024-08-15T14:30:03.891530,Enjoy the moment
+804276ac-f99f-43ea-89ef-ac6b2ce4001c,57a0f366-222e-4464-844d-0d86c61c6b5c,Happy,Personal reflection,2024-03-10T14:30:03.891540,Continue daily routine
+6b1feeaa-138d-4ea1-b684-b6320ee97c21,c674dfff-efca-4f45-b639-764d2ee8e905,Anxious,Personal reflection,2024-10-18T14:30:03.891551,Practice deep breathing
+755e51f2-2f5c-49ca-9efe-bf0460a8e54a,48887b97-8acc-453f-8143-d39045220d8b,Angry,Personal reflection,2024-09-02T14:30:03.891561,Try meditation

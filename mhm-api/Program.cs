@@ -1,5 +1,6 @@
 using mhm_api.Repositories;
 using mhm_api.Service;
+using mhm_api.Services;
 using MongoDB.Driver;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,6 +25,8 @@ builder.Services.AddSingleton<MoodEntryRepository>();
 builder.Services.AddSingleton<TherapySessionRepository>();
 builder.Services.AddSingleton<RecommendationRepository>();
 builder.Services.AddSingleton<ChatMessageRepository>();
+builder.Services.AddSingleton<IMoodPredictionService, MoodPredictionService>();
+
 
 var app = builder.Build();
 
