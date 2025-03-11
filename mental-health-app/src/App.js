@@ -6,11 +6,15 @@ import LoginPage from "./views/examples/Login"; // Import Login Page
 import RegisterPage from "./views/examples/Register"; // Import Register Page
 import MoodPage from "./views/examples/Mood";
 import Booking from "./views/examples/Booking";
-import MoodForm from "./views/examples/Mood2";
+
 
 
 import "./assets/scss/argon-design-system-react.scss";
 import "@fortawesome/fontawesome-free/css/all.min.css";
+
+import "./assets/scss/argon-design-system-react.scss";
+
+import "./assets/scss/argon-design-system-react.scss";
 
 
 
@@ -26,7 +30,7 @@ function App() {
           <Route path="/register-page" element={<RegisterPage />} />
           <Route path="/login-page" element={<LoginPage />} />
           <Route path="/booking"element={<Booking/>} />
-          <Route path="/moodpage2" element={<MoodForm/>} />
+
 
         </Routes>
       </Router>

@@ -1,7 +1,5 @@
 import React from "react";
-
 import { Button, Card, Container, Row, Col } from "reactstrap";
-
 import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
 import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
@@ -12,21 +10,40 @@ class Mood extends React.Component {
     this.refs.main.scrollTop = 0;
   }
 
-  render() {
-    // Get the current date
-  var currentDate = new Date();
+  // Funksion për të gjeneruar një ID unik automatikisht
+  generateId() {
+    return Math.random().toString(36).substr(2, 9);
+  }
 
-  // Format the date as a string (you can customize the format here)
-  var formattedDate = currentDate.toLocaleDateString(); // Format: MM/DD/YYYY
+  // Funksioni që dërgon humorin dhe shfaq një alert me një thënie motivuese sipas përzgjedhjes
+  handleButtonClick = (value) => {
+    // Fjalë motivuese për secilin humor
+    const quotes = {
+      Stressed: "Merr frymë thellë dhe kujto se çdo sfidë kalon.",
+      Anxious: "Qëndro i/e fortë, çdo gjë e ke kapërcyer, dhe gjithçka do të kalojë.",
+      Sad: "Çdo ditë është një mundësi e re për të gjetur lumturinë.",
+      Neutral: "Gjithçka ka rrjedhën e vet – gëzo momentin dhe bëje ç’të ke.",
+      Happy: "Uroj të jeni gjithmonë kështu, sepse lumturia juaj ndriçon ditën.",
+    };
 
-  const handleButtonClick = (value) => {
-    // Make an API request to save the button's value
+    // Shfaq alert me thënien për humorin e zgjedhur
+    alert(quotes[value] || "Zgjidhni një humor të vlefshëm!");
+
+    // Gjenerohet një ID unik
+    const id = this.generateId();
+    const moodData = {
+      id: id,
+      mood: value,
+      createdAt: new Date().toISOString(),
+    };
+
+    // Kërkesa API për ruajtjen e humorit
     fetch('https://localhost:44386/api/Users', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ value: value }),
+      body: JSON.stringify(moodData),
     })
       .then((response) => response.json())
       .then((data) => {
@@ -36,16 +53,20 @@ class Mood extends React.Component {
         console.error('Error saving data:', error);
       });
   };
+
+  render() {
+    // Merr datën aktuale dhe e formaton
+    const currentDate = new Date();
+    const formattedDate = currentDate.toLocaleDateString();
+
     return (
       <>
         <DemoNavbar />
         <main className="mood-page" ref="main">
           <section className="section-profile-cover-2 section-shaped my-0">
-            {/* Circles background */}
             <div className="shape shape-style-1 shape-default alpha-4">
               <span />
             </div>
-            {/* SVG separator */}
             <div className="separator separator-bottom separator-skew">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -55,10 +76,7 @@ class Mood extends React.Component {
                 x="0"
                 y="0"
               >
-                <polygon
-                  className="fill-white"
-                  points="2560 0 2560 100 0 100"
-                />
+                <polygon className="fill-white" points="2560 0 2560 100 0 100" />
               </svg>
             </div>
           </section>
@@ -73,56 +91,33 @@ class Mood extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            
                             src={require("../../assets/img/staff/mood.avif")}
-                            
                           />
                         </a>
                       </div>
                     </Col>
-                    <Col
-                      className="order-lg-3 text-lg-right align-self-lg-center"
-                      lg="4"
-                    >
+                    <Col className="order-lg-3 text-lg-right align-self-lg-center" lg="4">
                       <div className="card-profile-actions py-4 mt-lg-0">
-                        {/* <Button
-                          className="mr-4"
-                          color="info"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                          size="sm"
-                        >
-                          Connect
-                        </Button> */}
-                        {/* <Button
-                          className="float-right"
-                          color="default"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                          size="sm"
-                        >
-                          Message
-                        </Button> */}
+                        {/* Mund të shtoni butona shtesë këtu nëse dëshironi */}
                       </div>
                     </Col>
-                    
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                    Altina Salihu{" "}
+                      <span className="font-weight-light">, 24</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania 
+                      Prishtine, Kosovo
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Professor - UBT
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      Faculty of  Computer Science and Engineering
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
@@ -135,16 +130,21 @@ class Mood extends React.Component {
                           Regjistro humorin për datën: {formattedDate}
                         </a>
                         <div className="moodbutton-container">
-                          <button className="moodbutton">I/E stresuar</button>
-                          <button className="moodbutton">I/E shqetësuar / me ankth</button>
-                          <button className="moodbutton">I/E mërzitur</button>
-                          <button className="moodbutton">Neutral</button>
-                          <button className="moodbutton">I/E lumtur </button>
-                          {/* <button className="moodbutton" onClick={() => handleButtonClick('Stressed')}>I/E stresuar</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Anxious')}>I/E shqetësuar / me ankth</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Sad')}>I/E mërzitur</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Neutral')}>Neutral</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Happy')}>I/E lumtur</button> */}
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Stressed")}>
+                            I/E stresuar
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Anxious")}>
+                            I/E shqetësuar / me ankth
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Sad")}>
+                            I/E mërzitur
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Neutral")}>
+                            Neutral
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Happy")}>
+                            I/E lumtur
+                          </button>
                         </div>
                       </Col>
                     </Row>
@@ -154,7 +154,6 @@ class Mood extends React.Component {
             </Container>
           </section>
         </main>
-        
       </>
     );
   }

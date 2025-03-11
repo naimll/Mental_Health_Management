@@ -1,4 +1,5 @@
 import React, { useRef, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import {
   Button,
   Card,
@@ -18,11 +19,13 @@ import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
 const Login = () => {
   const mainRef = useRef(null);
+  const navigate = useNavigate();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [rememberMe, setRememberMe] = useState(false);
   const [errors, setErrors] = useState({});
 
+  // Validate email and password fields
   const validateForm = () => {
     let valid = true;
     let errors = {};
@@ -47,11 +50,36 @@ const Login = () => {
     return valid;
   };
 
+  // Handle login by fetching all users and filtering on the client side.
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validateForm()) {
-      alert("Form submitted successfully!");
-      console.log("Remember Me: ", rememberMe);
+      // Fetch all users from backend
+      fetch("https://localhost:44386/api/Users")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          return response.json();
+        })
+        .then((users) => {
+          // Find user with matching email and password (password is stored in passwordHash)
+          const foundUser = users.find(
+            (user) => user.email === email && user.passwordHash === password
+          );
+
+          if (foundUser) {
+            alert("Login successful!");
+            // Optionally, store user data or token in localStorage or context
+            navigate("/");
+          } else {
+            alert("Invalid credentials. Please try again.");
+          }
+        })
+        .catch((error) => {
+          console.error("Error during login:", error);
+          alert("There was an error during login. Please try again.");
+        });
     }
   };
 
@@ -70,7 +98,6 @@ const Login = () => {
             <span />
             <span />
           </div>
-          {/* Container i rrumbullakosur, hije e butë, background i lehtë */}
           <Container
             className="pt-lg-7 px-4 py-5"
             style={{
@@ -88,15 +115,37 @@ const Login = () => {
                       <small>Sign in with</small>
                     </div>
                     <div className="btn-wrapper text-center">
-                      <Button className="btn-neutral btn-icon rounded-pill mx-1 shadow-sm" color="default" href="#pablo" onClick={(e) => e.preventDefault()}>
+                      <Button
+                        className="btn-neutral btn-icon rounded-pill mx-1 shadow-sm"
+                        color="default"
+                        href="#pablo"
+                        onClick={(e) => e.preventDefault()}
+                      >
                         <span className="btn-inner--icon mr-1">
-                          <img alt="..." src={require("../../assets/img/icons/common/facebook.svg").default} />
+                          <img
+                            alt="..."
+                            src={
+                              require("../../assets/img/icons/common/facebook.svg")
+                                .default
+                            }
+                          />
                         </span>
                         <span className="btn-inner--text">Facebook</span>
                       </Button>
-                      <Button className="btn-neutral btn-icon rounded-pill mx-1 shadow-sm" color="default" href="#pablo" onClick={(e) => e.preventDefault()}>
+                      <Button
+                        className="btn-neutral btn-icon rounded-pill mx-1 shadow-sm"
+                        color="default"
+                        href="#pablo"
+                        onClick={(e) => e.preventDefault()}
+                      >
                         <span className="btn-inner--icon mr-1">
-                          <img alt="..." src={require("../../assets/img/icons/common/google.svg").default} />
+                          <img
+                            alt="..."
+                            src={
+                              require("../../assets/img/icons/common/google.svg")
+                                .default
+                            }
+                          />
                         </span>
                         <span className="btn-inner--text">Google</span>
                       </Button>
@@ -120,9 +169,11 @@ const Login = () => {
                             onChange={(e) => setEmail(e.target.value)}
                           />
                         </InputGroup>
-                        {errors.email && <small className="text-danger">{errors.email}</small>}
+                        {errors.email && (
+                          <small className="text-danger">{errors.email}</small>
+                        )}
                       </FormGroup>
-                      <FormGroup>
+                      <FormGroup className="mb-3">
                         <InputGroup className="input-group-alternative border rounded-pill">
                           <InputGroupText className="bg-light border-0 rounded-pill">
                             <i className="ni ni-lock-circle-open text-primary" />
@@ -136,7 +187,9 @@ const Login = () => {
                             onChange={(e) => setPassword(e.target.value)}
                           />
                         </InputGroup>
-                        {errors.password && <small className="text-danger">{errors.password}</small>}
+                        {errors.password && (
+                          <small className="text-danger">{errors.password}</small>
+                        )}
                       </FormGroup>
                       <div className="custom-control custom-control-alternative custom-checkbox">
                         <input
@@ -146,12 +199,19 @@ const Login = () => {
                           checked={rememberMe}
                           onChange={(e) => setRememberMe(e.target.checked)}
                         />
-                        <label className="custom-control-label" htmlFor="customCheckLogin">
+                        <label
+                          className="custom-control-label"
+                          htmlFor="customCheckLogin"
+                        >
                           <span>Remember me</span>
                         </label>
                       </div>
                       <div className="text-center">
-                        <Button className="my-4 rounded-pill shadow-sm" color="primary" type="submit">
+                        <Button
+                          className="my-4 rounded-pill shadow-sm"
+                          color="primary"
+                          type="submit"
+                        >
                           Sign in
                         </Button>
                       </div>
