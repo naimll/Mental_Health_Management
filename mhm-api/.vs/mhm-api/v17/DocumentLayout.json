@@ -62,8 +62,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAIBJwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T12:23:45.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T12:23:45.594Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Controllers\\MoodEntriesController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAgwDUAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T12:20:18.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T12:20:18.674Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "Models\\MoodEntry.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T12:15:30.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T12:15:30.149Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Controllers\\TrainingController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:24:42.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T10:24:42.113Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Service\\IMoodPredictionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:02:34.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T10:02:34.457Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "Models\\ML\\MoodModelOutput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:02:25.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T10:02:25.221Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Models\\ML\\MoodModelInput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:02:23.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T10:02:23.675Z"
             }
           ]
         }

@@ -1,5 +1,16 @@
 import React from "react";
-import { Button, Card, Container, Row, Col } from "reactstrap";
+import {
+  Button,
+  Card,
+  Container,
+  Row,
+  Col,
+  Modal,
+  ModalHeader,
+  ModalBody,
+  ModalFooter,
+  Badge,
+} from "reactstrap";
 import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
 import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
@@ -7,16 +18,19 @@ class Mood extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      userId: "65f8d9f0e5b3a5b6d6a3f28a", 
-      moodEntries: [], 
+      userId: "65f8d9f0e5b3a5b6d6a3f28a",
+      moodEntries: [],
+      modalOpen: false,
+      quote: "",
+      recommendedAction: "",
     };
   }
 
   componentDidMount() {
     document.documentElement.scrollTop = 0;
     document.scrollingElement.scrollTop = 0;
-    this.refs.main.scrollTop = 0;
-    this.fetchMoodEntries(); 
+    if (this.refs.main) this.refs.main.scrollTop = 0;
+    this.fetchMoodEntries();
   }
 
   fetchMoodEntries = async () => {
@@ -33,26 +47,29 @@ class Mood extends React.Component {
   };
 
   handleButtonClick = async (value) => {
+    // Define the quotes for each mood.
     const quotes = {
       Stressed: "Merr frymë thellë dhe kujto se çdo sfidë kalon.",
-      Anxious: "Qëndro i/e fortë, çdo gjë e ke kapërcyer, dhe gjithçka do të kalojë.",
+      Anxious:
+        "Qëndro i/e fortë, çdo gjë e ke kapërcyer, dhe gjithçka do të kalojë.",
       Sad: "Çdo ditë është një mundësi e re për të gjetur lumturinë.",
       Neutral: "Gjithçka ka rrjedhën e vet – gëzo momentin dhe bëje ç’të ke.",
       Happy: "Uroj të jeni gjithmonë kështu, sepse lumturia juaj ndriçon ditën.",
     };
 
-    alert(quotes[value] || "Zgjidhni një humor të vlefshëm!");
+    // Set the corresponding quote in the state.
+    this.setState({ quote: quotes[value], recommendedAction: "" });
 
     const moodData = {
-      id: "", 
+      id: "",
       userId: this.state.userId,
       mood: value,
-      notes: "", 
+      notes: "",
       createdAt: new Date().toISOString(),
     };
 
     try {
-      const response = await fetch("https://localhost:44386/api/MoodEntries", {
+      const response = await fetch("https://localhost:44386/api/MoodEntries/create", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -67,15 +84,25 @@ class Mood extends React.Component {
 
       const data = await response.json();
       console.log("Të dhënat u ruajtën me sukses:", data);
-      this.fetchMoodEntries(); 
+
+      // If the API returns a recommendedAction, update it in state.
+      if (data.recommendedAction) {
+        this.setState({ recommendedAction: data.recommendedAction });
+      }
+
+      // Open the modal popup.
+      this.setState({ modalOpen: true });
+      this.fetchMoodEntries();
     } catch (error) {
       console.error("Gabim gjatë ruajtjes së të dhënave:", error);
     }
   };
 
-  render() {
-    const currentDate = new Date().toLocaleDateString();
+  toggleModal = () => {
+    this.setState((prevState) => ({ modalOpen: !prevState.modalOpen }));
+  };
 
+  render() {
     return (
       <>
         <DemoNavbar />
@@ -90,14 +117,13 @@ class Mood extends React.Component {
               <Card className="card-profile shadow mt--300">
                 <div className="px-4">
                   <Row className="justify-content-center">
-                  <Col lg="8" className="d-flex justify-content-center mt-5">
-                    <div className="card-profile-image text-center">
+                    <Col lg="8" className="d-flex justify-content-center mt-5">
+                      <div className="card-profile-image text-center">
                         <a href="#pablo" onClick={(e) => e.preventDefault()}>
                           <img
                             alt="..."
-                           
                             src={require("../../assets/img/staff/mood.gif")}
-                            style={{  height: "300px", objectFit: "cover",}}
+                            style={{ height: "300px", objectFit: "cover" }}
                           />
                         </a>
                       </div>
@@ -111,30 +137,41 @@ class Mood extends React.Component {
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
-                        <p>Regjistrimi i përditshëm i humorit ju ndihmon që të jeni më të vetëdijshëm për emocionet tuaja.</p>
+                        <p>
+                          Regjistrimi i përditshëm i humorit ju ndihmon që të jeni më të vetëdijshëm për emocionet tuaja.
+                        </p>
                         <div className="moodbutton-container">
-                          <button className="moodbutton" onClick={() => this.handleButtonClick("Stressed")}>
+                          <Button className="moodbutton mb-3" onClick={() => this.handleButtonClick("Stressed")}>
                             I/E stresuar
-                          </button>
-                          <button className="moodbutton" onClick={() => this.handleButtonClick("Anxious")}>
+                          </Button>
+                          <Button className="moodbutton mb-3" onClick={() => this.handleButtonClick("Anxious")}>
                             I/E shqetësuar / me ankth
-                          </button>
-                          <button className="moodbutton" onClick={() => this.handleButtonClick("Sad")}>
+                          </Button>
+                          <Button className="moodbutton mb-3" onClick={() => this.handleButtonClick("Sad")}>
                             I/E mërzitur
-                          </button>
-                          <button className="moodbutton" onClick={() => this.handleButtonClick("Neutral")}>
+                          </Button>
+                          <Button className="moodbutton mb-3" onClick={() => this.handleButtonClick("Neutral")}>
                             Neutral
-                          </button>
-                          <button className="moodbutton" onClick={() => this.handleButtonClick("Happy")}>
+                          </Button>
+                          <Button className="moodbutton mb-3" onClick={() => this.handleButtonClick("Happy")}>
                             I/E lumtur
-                          </button>
+                          </Button>
                         </div>
                         <h4 className="mt-4">Hyrjet e fundit të humorit:</h4>
                         <div className="mood-entries-container">
                           {this.state.moodEntries.map((entry) => (
                             <Card key={entry.id} className="mood-entry shadow-sm p-3 mb-3">
-                              <h5>{entry.mood}</h5>
-                              <p><strong>Koha:</strong> {new Date(entry.createdAt).toLocaleString()}</p>
+                              <div className="d-flex align-items-center justify-content-between">
+                                <h5>{entry.mood}</h5>
+                                {entry.recommendedAction && (
+                                  <Badge color="info" className="ml-2">
+                                    {entry.recommendedAction}
+                                  </Badge>
+                                )}
+                              </div>
+                              <p>
+                                <strong>Koha:</strong> {new Date(entry.createdAt).toLocaleString()}
+                              </p>
                             </Card>
                           ))}
                         </div>
@@ -146,6 +183,26 @@ class Mood extends React.Component {
             </Container>
           </section>
         </main>
+
+        {/* Modal popup that displays the mood label and recommended action */}
+        <Modal isOpen={this.state.modalOpen} toggle={this.toggleModal}>
+          <ModalHeader toggle={this.toggleModal}>Detajet e humorit</ModalHeader>
+          <ModalBody>
+            <p>
+              <strong>Mesazh frymëzues:</strong> {this.state.quote}
+            </p>
+            {this.state.recommendedAction && (
+              <p>
+                <strong>Rekomandim:</strong> {this.state.recommendedAction}
+              </p>
+            )}
+          </ModalBody>
+          <ModalFooter>
+            <Button color="primary" onClick={this.toggleModal}>
+              Mbyll
+            </Button>
+          </ModalFooter>
+        </Modal>
       </>
     );
   }
