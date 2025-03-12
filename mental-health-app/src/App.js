@@ -8,8 +8,13 @@ import MoodPage from "./views/examples/Mood";
 import Booking from "./views/examples/Booking";
 
 
+
 import "./assets/scss/argon-design-system-react.scss";
 import "@fortawesome/fontawesome-free/css/all.min.css";
+
+import "./assets/scss/argon-design-system-react.scss";
+
+import "./assets/scss/argon-design-system-react.scss";
 
 
 
@@ -25,6 +30,7 @@ function App() {
           <Route path="/register-page" element={<RegisterPage />} />
           <Route path="/login-page" element={<LoginPage />} />
           <Route path="/booking"element={<Booking/>} />
+
 
         </Routes>
       </Router>

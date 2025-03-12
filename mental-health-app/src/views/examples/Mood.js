@@ -1,65 +1,88 @@
 import React from "react";
-
 import { Button, Card, Container, Row, Col } from "reactstrap";
-
 import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
 import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
 class Mood extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      userId: "65f8d9f0e5b3a5b6d6a3f28a", 
+      moodEntries: [], 
+    };
+  }
+
   componentDidMount() {
     document.documentElement.scrollTop = 0;
     document.scrollingElement.scrollTop = 0;
     this.refs.main.scrollTop = 0;
+    this.fetchMoodEntries(); 
   }
 
-  render() {
-    // Get the current date
-  var currentDate = new Date();
-
-  // Format the date as a string (you can customize the format here)
-  var formattedDate = currentDate.toLocaleDateString(); // Format: MM/DD/YYYY
-
-  const handleButtonClick = (value) => {
-    // Make an API request to save the button's value
-    fetch('https://localhost:44386/api/Users', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ value: value }),
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        console.log('Data saved:', data);
-      })
-      .catch((error) => {
-        console.error('Error saving data:', error);
-      });
+  fetchMoodEntries = async () => {
+    try {
+      const response = await fetch("https://localhost:44386/api/MoodEntries");
+      if (!response.ok) {
+        throw new Error(`Gabim: ${response.statusText}`);
+      }
+      const data = await response.json();
+      this.setState({ moodEntries: data });
+    } catch (error) {
+      console.error("Gabim gjatë marrjes së të dhënave:", error);
+    }
   };
+
+  handleButtonClick = async (value) => {
+    const quotes = {
+      Stressed: "Merr frymë thellë dhe kujto se çdo sfidë kalon.",
+      Anxious: "Qëndro i/e fortë, çdo gjë e ke kapërcyer, dhe gjithçka do të kalojë.",
+      Sad: "Çdo ditë është një mundësi e re për të gjetur lumturinë.",
+      Neutral: "Gjithçka ka rrjedhën e vet – gëzo momentin dhe bëje ç’të ke.",
+      Happy: "Uroj të jeni gjithmonë kështu, sepse lumturia juaj ndriçon ditën.",
+    };
+
+    alert(quotes[value] || "Zgjidhni një humor të vlefshëm!");
+
+    const moodData = {
+      id: "", 
+      userId: this.state.userId,
+      mood: value,
+      notes: "", 
+      createdAt: new Date().toISOString(),
+    };
+
+    try {
+      const response = await fetch("https://localhost:44386/api/MoodEntries", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(moodData),
+      });
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(`Gabim: ${response.status} - ${errorText}`);
+      }
+
+      const data = await response.json();
+      console.log("Të dhënat u ruajtën me sukses:", data);
+      this.fetchMoodEntries(); 
+    } catch (error) {
+      console.error("Gabim gjatë ruajtjes së të dhënave:", error);
+    }
+  };
+
+  render() {
+    const currentDate = new Date().toLocaleDateString();
+
     return (
       <>
         <DemoNavbar />
         <main className="mood-page" ref="main">
           <section className="section-profile-cover-2 section-shaped my-0">
-            {/* Circles background */}
             <div className="shape shape-style-1 shape-default alpha-4">
               <span />
-            </div>
-            {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                preserveAspectRatio="none"
-                version="1.1"
-                viewBox="0 0 2560 100"
-                x="0"
-                y="0"
-              >
-                <polygon
-                  className="fill-white"
-                  points="2560 0 2560 100 0 100"
-                />
-              </svg>
             </div>
           </section>
           <section className="section">
@@ -67,84 +90,53 @@ class Mood extends React.Component {
               <Card className="card-profile shadow mt--300">
                 <div className="px-4">
                   <Row className="justify-content-center">
-                    <Col className="order-lg-2" lg="3">
-                      <div className="card-profile-image">
+                  <Col lg="8" className="d-flex justify-content-center mt-5">
+                    <div className="card-profile-image text-center">
                         <a href="#pablo" onClick={(e) => e.preventDefault()}>
                           <img
                             alt="..."
-                            className="rounded-circle"
-                            
-                            src={require("../../assets/img/staff/mood.avif")}
-                            
+                           
+                            src={require("../../assets/img/staff/mood.gif")}
+                            style={{  height: "300px", objectFit: "cover",}}
                           />
                         </a>
                       </div>
                     </Col>
-                    <Col
-                      className="order-lg-3 text-lg-right align-self-lg-center"
-                      lg="4"
-                    >
-                      <div className="card-profile-actions py-4 mt-lg-0">
-                        {/* <Button
-                          className="mr-4"
-                          color="info"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                          size="sm"
-                        >
-                          Connect
-                        </Button> */}
-                        {/* <Button
-                          className="float-right"
-                          color="default"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
-                          size="sm"
-                        >
-                          Message
-                        </Button> */}
-                      </div>
-                    </Col>
-                    
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Altina Salihu <span className="font-weight-light">, 24</span>
                     </h3>
-                    <div className="h6 font-weight-300">
-                      <i className="ni location_pin mr-2" />
-                      Bucharest, Romania 
-                    </div>
-                    <div className="h6 mt-4">
-                      <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
-                    </div>
-                    <div>
-                      <i className="ni education_hat mr-2" />
-                      University of Computer Science
-                    </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
-                        <p>
-                          Regjistrimi i përditshëm i humorit ju ndihmon që të jeni më të vetëdijshëm për emocionet tuaja, dhe kështu mund t'i kuptoni më mirë ndikimet e faktorëve të jashtëm në shëndetin tuaj mendor. Ju mund të zgjedhni njërën nga 5 kategoritë e mundshme!
-                        </p>
-                        <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                          Regjistro humorin për datën: {formattedDate}
-                        </a>
+                        <p>Regjistrimi i përditshëm i humorit ju ndihmon që të jeni më të vetëdijshëm për emocionet tuaja.</p>
                         <div className="moodbutton-container">
-                          <button className="moodbutton">I/E stresuar</button>
-                          <button className="moodbutton">I/E shqetësuar / me ankth</button>
-                          <button className="moodbutton">I/E mërzitur</button>
-                          <button className="moodbutton">Neutral</button>
-                          <button className="moodbutton">I/E lumtur </button>
-                          {/* <button className="moodbutton" onClick={() => handleButtonClick('Stressed')}>I/E stresuar</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Anxious')}>I/E shqetësuar / me ankth</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Sad')}>I/E mërzitur</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Neutral')}>Neutral</button>
-                          <button className="moodbutton" onClick={() => handleButtonClick('Happy')}>I/E lumtur</button> */}
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Stressed")}>
+                            I/E stresuar
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Anxious")}>
+                            I/E shqetësuar / me ankth
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Sad")}>
+                            I/E mërzitur
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Neutral")}>
+                            Neutral
+                          </button>
+                          <button className="moodbutton" onClick={() => this.handleButtonClick("Happy")}>
+                            I/E lumtur
+                          </button>
+                        </div>
+                        <h4 className="mt-4">Hyrjet e fundit të humorit:</h4>
+                        <div className="mood-entries-container">
+                          {this.state.moodEntries.map((entry) => (
+                            <Card key={entry.id} className="mood-entry shadow-sm p-3 mb-3">
+                              <h5>{entry.mood}</h5>
+                              <p><strong>Koha:</strong> {new Date(entry.createdAt).toLocaleString()}</p>
+                            </Card>
+                          ))}
                         </div>
                       </Col>
                     </Row>
@@ -154,7 +146,6 @@ class Mood extends React.Component {
             </Container>
           </section>
         </main>
-        
       </>
     );
   }

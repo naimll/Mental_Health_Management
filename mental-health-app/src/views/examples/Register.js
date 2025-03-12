@@ -14,16 +14,24 @@ import {
   Row,
   Col,
 } from "reactstrap";
+import { useNavigate } from "react-router-dom";
 import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
 import SimpleFooter from "../../components/Footers/SimpleFooter.js";
 
+// Function to generate a unique ID
+const generateId = () => {
+  return Math.random().toString(36).substr(2, 9);
+};
+
 const Register = () => {
+  const navigate = useNavigate();
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [agree, setAgree] = useState(false);
   const [errors, setErrors] = useState({});
 
+  // Form validation
   const validateForm = () => {
     let valid = true;
     let errors = {};
@@ -58,10 +66,53 @@ const Register = () => {
     return valid;
   };
 
+  // Handle form submission: send registration data to backend
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validateForm()) {
-      alert("Account created successfully!");
+      const newUser = {
+        id: generateId(),
+        userName: name,
+        normalizedUserName: name.toUpperCase(),
+        email: email,
+        normalizedEmail: email.toUpperCase(),
+        emailConfirmed: false,
+        passwordHash: password, // NOTE: Server should hash the password securely.
+        securityStamp: generateId(),
+        concurrencyStamp: generateId(),
+        phoneNumber: "",
+        phoneNumberConfirmed: false,
+        twoFactorEnabled: false,
+        lockoutEnd: null,
+        lockoutEnabled: false,
+        accessFailedCount: 0,
+        fullName: name,
+        isActive: true,
+      };
+
+      fetch("https://localhost:44386/api/Users", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(newUser),
+      })
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          alert("Account created successfully!");
+          console.log("User created:", data);
+          // After successful registration, navigate to the login page.
+          navigate("/login-page");
+        })
+        .catch((error) => {
+          console.error("Error creating user:", error);
+          alert("There was an error creating the account. Please try again.");
+        });
     }
   };
 
@@ -80,7 +131,6 @@ const Register = () => {
             <span />
             <span />
           </div>
-          {/* Container më i rrumbullakosur me hije të butë dhe background të lehtë */}
           <Container
             className="pt-lg-7 px-4 py-5"
             style={{
@@ -105,7 +155,13 @@ const Register = () => {
                         onClick={(e) => e.preventDefault()}
                       >
                         <span className="btn-inner--icon mr-1">
-                          <img alt="..." src={require("../../assets/img/icons/common/facebook.svg").default} />
+                          <img
+                            alt="..."
+                            src={
+                              require("../../assets/img/icons/common/facebook.svg")
+                                .default
+                            }
+                          />
                         </span>
                         <span className="btn-inner--text">Facebook</span>
                       </Button>
@@ -116,7 +172,13 @@ const Register = () => {
                         onClick={(e) => e.preventDefault()}
                       >
                         <span className="btn-inner--icon mr-1">
-                          <img alt="..." src={require("../../assets/img/icons/common/google.svg").default} />
+                          <img
+                            alt="..."
+                            src={
+                              require("../../assets/img/icons/common/google.svg")
+                                .default
+                            }
+                          />
                         </span>
                         <span className="btn-inner--text">Google</span>
                       </Button>
@@ -142,7 +204,9 @@ const Register = () => {
                             onChange={(e) => setName(e.target.value)}
                           />
                         </InputGroup>
-                        {errors.name && <small className="text-danger">{errors.name}</small>}
+                        {errors.name && (
+                          <small className="text-danger">{errors.name}</small>
+                        )}
                       </FormGroup>
                       <FormGroup>
                         <InputGroup className="input-group-alternative border rounded-pill mb-3">
@@ -159,7 +223,9 @@ const Register = () => {
                             onChange={(e) => setEmail(e.target.value)}
                           />
                         </InputGroup>
-                        {errors.email && <small className="text-danger">{errors.email}</small>}
+                        {errors.email && (
+                          <small className="text-danger">{errors.email}</small>
+                        )}
                       </FormGroup>
                       <FormGroup>
                         <InputGroup className="input-group-alternative border rounded-pill">
@@ -177,7 +243,9 @@ const Register = () => {
                             onChange={(e) => setPassword(e.target.value)}
                           />
                         </InputGroup>
-                        {errors.password && <small className="text-danger">{errors.password}</small>}
+                        {errors.password && (
+                          <small className="text-danger">{errors.password}</small>
+                        )}
                       </FormGroup>
                       <div className="custom-control custom-control-alternative custom-checkbox">
                         <input
@@ -187,12 +255,24 @@ const Register = () => {
                           checked={agree}
                           onChange={(e) => setAgree(e.target.checked)}
                         />
-                        <label className="custom-control-label" htmlFor="customCheckRegister">
-                          <span> I agree to the <a href="#!">Privacy Policy</a></span>
+                        <label
+                          className="custom-control-label"
+                          htmlFor="customCheckRegister"
+                        >
+                          <span>
+                            I agree to the <a href="#!">Privacy Policy</a>
+                          </span>
                         </label>
                       </div>
+                      {errors.agree && (
+                        <small className="text-danger">{errors.agree}</small>
+                      )}
                       <div className="text-center">
-                        <Button className="my-4 rounded-pill shadow-sm" color="primary" type="submit">
+                        <Button
+                          className="my-4 rounded-pill shadow-sm"
+                          color="primary"
+                          type="submit"
+                        >
                           Create account
                         </Button>
                       </div>

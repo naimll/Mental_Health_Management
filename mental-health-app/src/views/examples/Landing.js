@@ -22,8 +22,18 @@ import {
 // core components
 import DemoNavbar from "../../components/Navbars/DemoNavbar.js";
 import CardsFooter from "../../components/Footers/CardsFooter.js";
+import { FaCheckCircle, FaSmile, FaSpa } from "react-icons/fa";
+import { FaCity } from "react-icons/fa"; // Ikonë alternative për "ni-istanbul"
+import { FaRunning } from "react-icons/fa"; // Ikonë për aktivitet nga React Icons
+
+
+
 
 import Download from "../IndexSections/Download.js";
+import { FaGlobe } from "react-icons/fa"; // Alternativë për ikonën e planetit
+import { FaBuilding } from "react-icons/fa"; // Ikonë për ndërtesa nga React Icons
+import { FaEnvelope } from "react-icons/fa"; // Ikonë për email nga React Icons
+
 
 class Landing extends React.Component {
   state = {};
@@ -118,9 +128,11 @@ class Landing extends React.Component {
                     <Col lg="4">
                       <Card className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
+                         
                           <div className="icon icon-shape icon-shape-primary rounded-circle mb-4">
-                            <i className="ni ni-check-bold" />
-                          </div>
+  <FaCheckCircle size={30} color="#5e72e4" />
+</div>
+                          
                           <h6 className="text-primary text-uppercase">
                             Terapi
                           </h6>
@@ -153,9 +165,10 @@ class Landing extends React.Component {
                     <Col lg="4">
                       <Card className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
-                          <div className="icon icon-shape icon-shape-success rounded-circle mb-4">
-                            <i className="ni ni-istanbul" />
-                          </div>
+                        <div className="icon icon-shape icon-shape-success rounded-circle mb-4">
+  <FaCity size={30} color="#2dce89" />
+</div>
+
                           <h6 className="text-success text-uppercase">
                             Humori
                           </h6>
@@ -177,9 +190,10 @@ class Landing extends React.Component {
                     <Col lg="4">
                       <Card className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
-                          <div className="icon icon-shape icon-shape-warning rounded-circle mb-4">
-                            <i className="ni ni-planet" />
-                          </div>
+                        <div className="icon icon-shape icon-shape-warning rounded-circle mb-4">
+  <FaGlobe size={30} color="#fb6340" />
+</div>
+
                           <h6 className="text-warning text-uppercase">
                             Mjete relaksimi
                           </h6>
@@ -362,9 +376,10 @@ class Landing extends React.Component {
                 <Col className="order-lg-1" lg="6">
                   <div className="d-flex px-3">
                     <div>
-                      <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-                        <i className="ni ni-building text-primary" />
-                      </div>
+                    <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
+  <FaBuilding size={30} color="#5e72e4" />
+</div>
+
                     </div>
                     <div className="pl-4">
                       <h4 className="display-3 text-white">Inteligjenca Artificiale</h4>
@@ -379,9 +394,10 @@ class Landing extends React.Component {
                     <CardBody>
                       <div className="d-flex px-3">
                         <div>
-                          <div className="icon icon-shape bg-gradient-success rounded-circle text-white">
-                            <i className="ni ni-satisfied" />
-                          </div>
+                        <div className="icon icon-shape bg-gradient-success rounded-circle text-white">
+  <FaSmile size={30} color="white" />
+</div>
+
                         </div>
                         <div className="pl-4">
                           <h5 className="title text-success">
@@ -407,9 +423,10 @@ class Landing extends React.Component {
                     <CardBody>
                       <div className="d-flex px-3">
                         <div>
-                          <div className="icon icon-shape bg-gradient-warning rounded-circle text-white">
-                            <i className="ni ni-active-40" />
-                          </div>
+                        <div className="icon icon-shape bg-gradient-warning rounded-circle text-white">
+  <FaRunning size={30} color="white" />
+</div>
+
                         </div>
                         <div className="pl-4">
                           <h5 className="title text-warning">
@@ -481,7 +498,7 @@ class Landing extends React.Component {
                           href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-twitter" />
+          
                         </Button>
                         
                       </div>
@@ -510,7 +527,7 @@ class Landing extends React.Component {
                           href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-twitter" />
+                        
                         </Button>
                         
                       </div>
@@ -537,7 +554,7 @@ class Landing extends React.Component {
                           href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-twitter" />
+                          
                         </Button>
                         
                       </div>
@@ -564,7 +581,7 @@ class Landing extends React.Component {
                           href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-twitter" />
+                        
                         </Button>
                         
                       </div>
@@ -591,7 +608,7 @@ class Landing extends React.Component {
                           href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-twitter" />
+                       
                         </Button>
                         
                       </div>
@@ -618,7 +635,7 @@ class Landing extends React.Component {
                           href="#"
                           onClick={(e) => e.preventDefault()}
                         >
-                          <i className="fa fa-twitter" />
+                          
                         </Button>
                         
                       </div>
@@ -737,7 +754,10 @@ class Landing extends React.Component {
                         <InputGroup className="input-group-alternative">
                           <InputGroupAddon addonType="prepend">
                             <InputGroupText>
-                              <i className="ni ni-user-run" />
+                            <InputGroupText>
+  <FaRunning size={20} />
+</InputGroupText>
+
                             </InputGroupText>
                           </InputGroupAddon>
                           <Input
@@ -760,7 +780,10 @@ class Landing extends React.Component {
                         <InputGroup className="input-group-alternative">
                           <InputGroupAddon addonType="prepend">
                             <InputGroupText>
-                              <i className="ni ni-email-83" />
+                            <InputGroupText>
+  <FaEnvelope size={20} />
+</InputGroupText>
+
                             </InputGroupText>
                           </InputGroupAddon>
                           <Input

@@ -10,6 +10,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocalhost3000", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000")  // Allow requests from localhost:3000
+              .AllowAnyHeader()                      // Allow any headers
+              .AllowAnyMethod();                     // Allow any method (GET, POST, etc.)
+    });
+});
 
 var mongoConnectionString = builder.Configuration["MongoDBSettings:ConnectionString"];
 var mongoDatabaseName = builder.Configuration["MongoDBSettings:DatabaseName"];
@@ -35,6 +44,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseCors("AllowLocalhost3000"); // Use the defined CORS policy
 
 app.UseHttpsRedirection();
 
